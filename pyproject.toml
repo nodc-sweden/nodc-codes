@@ -5,7 +5,9 @@ description = "Python package to handle cod translations in Swedish NODC"
 authors = [
     {name = "Magnus Wenzer", email = "magnus.wenzer@smhi.se"},
 ]
-dependencies = []
+dependencies = [
+    "requests>=2.31.0",
+]
 requires-python = ">=3.11"
 readme = "README.md"
 license = {text = "MIT"}
