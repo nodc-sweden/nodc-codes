@@ -1,7 +1,7 @@
 [project]
 name = "nodc-codes"
 version = "0.2.0"
-description = "Python package to handle cod translations in Swedish NODC"
+description = "Python package to handle code translations in Swedish NODC"
 authors = [
     {name = "Magnus Wenzer", email = "magnus.wenzer@smhi.se"},
     {name = "Jonatan Skogsfors", email = "jonatan.skogsfors@smhi.se"},
