@@ -25,24 +25,24 @@ class TranslateCodes:
         return self._header
 
     @property
-    def fields(self) -> list[str]:
+    def internal_keys(self) -> list[str]:
         return sorted(self._data)
 
     @property
     def keys_not_as_synonyms(self) -> list[str]:
-        return ['filed', 'filter', 'source', 'synonyms']
+        return ['internal_key', 'synonyms']
 
     @staticmethod
     def _convert_synonym(synonym: str) -> str:
         return synonym.lower().replace(' ', '')
 
     @staticmethod
-    def _convert_field(field: str) -> str:
-        return field.lower()
+    def _convert_internal_key(internal_key: str) -> str:
+        return internal_key.lower()
 
     @staticmethod
-    def _convert_public_value(public_value: str) -> str:
-        return public_value.upper()
+    def _convert_internal_value(internal_value: str) -> str:
+        return internal_value.upper()
 
     @staticmethod
     def _convert_header_col(header_col: str) -> str:
@@ -50,17 +50,27 @@ class TranslateCodes:
 
     def _load_file(self) -> None:
         header = []
+        len_header = None
         with open(self.path) as fid:
             for r, line in enumerate(fid):
-                if not line.strip():
+                line = line.strip()
+                if not line:
                     continue
+                line = line.lstrip('#')
+                # if line.startswith('#'):
+                #     continue
                 split_line = [item.strip() for item in line.split('\t')]
                 if r == 0:
                     header = split_line
+                    len_header = len(header)
                     self._header = [self._convert_header_col(item) for item in header]
                     continue
+                len_split_line = len(split_line)
+                if len_split_line < len_header:
+                    add_nr = len_header - len_split_line
+                    split_line.extend([''] * add_nr)
                 line_dict = dict(zip(header, split_line))
-                field = self._convert_field(line_dict['field'])
+                internal_key = self._convert_internal_key(line_dict['internal_key'])
 
                 # Fix synonyms
                 line_dict['synonyms'] = set([self._convert_synonym(item) for item in line_dict['synonyms'].split('<or>')])
@@ -68,53 +78,49 @@ class TranslateCodes:
                     if col in self.keys_not_as_synonyms:
                         continue
                     line_dict['synonyms'].add(self._convert_synonym(line_dict[col]))
+                line_dict['synonyms'] = [item for item in line_dict['synonyms'] if item]
 
                 # Store synonyms
-                self._synonyms.setdefault(field, {})
+                self._synonyms.setdefault(internal_key, {})
                 for syn in line_dict['synonyms']:
-                    self._synonyms[field][syn] = line_dict['public_value']
+                    self._synonyms[internal_key][syn] = line_dict['internal_value']
 
                 # Store data
-                self._data.setdefault(field, {})
-                self._data[field][self._convert_public_value(line_dict['public_value'])] = line_dict
+                self._data.setdefault(internal_key, {})
+                self._data[internal_key][self._convert_internal_value(line_dict['internal_value'])] = line_dict
 
-    def get_public_value_list(self, field: str) -> list[str]:
-        return sorted(self._data[self._convert_field(field)])
+    def get_internal_value_list(self, internal_key: str) -> list[str]:
+        return sorted(self._data[self._convert_internal_key(internal_key)])
 
-    def get_public_value(self, field: str = None, synonym: str = None) -> str | None:
-        return self._synonyms.get(self._convert_field(field), {}).get(self._convert_synonym(synonym), None)
+    def get_internal_value(self, internal_key: str = None, synonym: str = None) -> str | None:
+        return self._synonyms.get(self._convert_internal_key(internal_key), {}).get(self._convert_synonym(synonym), None)
 
-    def get_info(self, field: str = None, synonym: str = None) -> dict | None:
-        public_value = self.get_public_value(field, synonym)
-        if not public_value:
+    def get_info(self, internal_key: str = None, synonym: str = None) -> dict | None:
+        internal_value = self.get_internal_value(internal_key, synonym)
+        if not internal_value:
             return None
-        return self._data[field][self._convert_public_value(public_value)]
+        return self._data[internal_key][self._convert_internal_value(internal_value)]
 
-    # def get_swedish_name(self, field: str = None, synonym: str = None) -> str | None:
-    #     public_value = self.get_public_value(field, synonym)
-    #     if not public_value:
-    #         return None
-    #     return self._data[field][self._convert_public_value(public_value)]['swedish_name']
-    #
-    # def get_english_name(self, field: str = None, synonym: str = None) -> str | None:
-    #     public_value = self.get_public_value(field, synonym)
-    #     if not public_value:
-    #         return None
-    #     return self._data[field][self._convert_public_value(public_value)]['english_name']
 
-    def get_translation(self, field: str = None, synonym: str = None, translate_to: str = None) -> str | None:
+    def get_translation(self, internal_key: str = None, synonym: str = None, translate_to: str = None) -> str | None:
         translate_to = self._convert_header_col(translate_to)
         if translate_to not in self.header:
             logger.warning(f'Not able to translate to "{translate_to}". Nu such mapping available')
             return None
-        public_value = self.get_public_value(field, synonym)
-        if not public_value:
-            logger.warning(f'Could not find public_value matching "{synonym}" in field "{field}"')
+        internal_value = self.get_internal_value(internal_key, synonym)
+        if not internal_value:
+            logger.warning(f'Could not find internal_value matching "{synonym}" in internal_key "{internal_key}"')
             return None
-        return self._data[field][self._convert_public_value(public_value)][translate_to]
+        return self._data[internal_key][self._convert_internal_value(internal_value)][translate_to]
 
-    def list_synonyms(self, field: str, public_value: str) -> list[str]:
-        field = self._convert_field(field)
-        public_value = self._convert_public_value(public_value)
-        return self._data[field][public_value]['synonyms']
+    def list_synonyms(self, internal_key: str, internal_value: str) -> list[str]:
+        internal_key = self._convert_internal_key(internal_key)
+        internal_value = self._convert_internal_value(internal_value)
+        return self._data[internal_key][internal_value]['synonyms']
+
+    def get_swedish_name(self, internal_key: str = None, synonym: str = None) -> str | None:
+        return self.get_translation(internal_key=internal_key, synonym=synonym, translate_to='swedish_name')
+
+    def get_english_name(self, internal_key: str, synonym: str) -> str | None:
+        return self.get_translation(internal_key=internal_key, synonym=synonym, translate_to='english_name')
 
