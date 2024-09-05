@@ -51,7 +51,7 @@ class TranslateCodes:
     def _load_file(self) -> None:
         header = []
         len_header = None
-        with open(self.path) as fid:
+        with open(self.path, encoding=self._encoding) as fid:
             for r, line in enumerate(fid):
                 line = line.strip()
                 if not line:
@@ -99,10 +99,11 @@ class TranslateCodes:
         internal_value = self.get_internal_value(internal_key, synonym)
         if not internal_value:
             return None
-        return self._data[internal_key][self._convert_internal_value(internal_value)]
+        return self._data[self._convert_internal_key(internal_key)][self._convert_internal_value(internal_value)]
 
-
-    def get_translation(self, internal_key: str = None, synonym: str = None, translate_to: str = None) -> str | None:
+    def get_translation(self, internal_key: str = None, synonym: str = None, translate_to: str = None, field: str = None) -> str | None:
+        if field:
+            internal_key = field
         translate_to = self._convert_header_col(translate_to)
         if translate_to not in self.header:
             logger.warning(f'Not able to translate to "{translate_to}". Nu such mapping available')
@@ -111,7 +112,7 @@ class TranslateCodes:
         if not internal_value:
             logger.warning(f'Could not find internal_value matching "{synonym}" in internal_key "{internal_key}"')
             return None
-        return self._data[internal_key][self._convert_internal_value(internal_value)][translate_to]
+        return self._data[self._convert_internal_key(internal_key)][self._convert_internal_value(internal_value)][translate_to]
 
     def list_synonyms(self, internal_key: str, internal_value: str) -> list[str]:
         internal_key = self._convert_internal_key(internal_key)
