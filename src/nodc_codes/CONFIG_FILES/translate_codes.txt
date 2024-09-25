@@ -16,6 +16,7 @@ delivery_datatype	Zooplankton		ZP	Djurplankton	Zooplankton
 delivery_datatype	Harbourporpoise		HARPOR	Tumlare	Harbour porpoise
 delivery_datatype	PlanktonBarcoding		PBARCOD	Plankton DNA streckkodning	Plankton DNA metabarcoding
 delivery_datatype	Jellyfish		JELLYF	Geléplankton	Jellyfish
+delivery_datatype	Picoplankton		PICOP	Picoplankton	Picoplankton
 LABO	SLKS		SLKS	AB Svensk Laboratoriet	AB Svensk Laboratoriet
 LABO	ABB		ABB	ABB	ABB
 LABO	AIRI		AIRI	Airicole AB	Airicole AB
@@ -27,11 +28,12 @@ LABO	ANBF		ANBF	ANSAB	ANSAB
 LABO	AQUAAN		AQUAAN	Aquaanalys	Aquaanalys
 LABO	AQBI	AquaBiota Water Research	AQBI	AquaBiota	AquaBiota Water Research
 LABO	ASUK		ASUK	Aquatic Systems Group	Aquatic Systems Group
+LABO	AMK		AMK	Aquaticus Miljökonsulter	Aquaticus
 LABO	ADB		ADB	Artdatabanken	Swedish Species Information Centre
 LABO	BARSE		BARSE	Barsebäck Kraft AB	Barsebäck Kraft AB
 LABO	BALSEA2020	BALSEA2020<or>Baltic Sea 2020 Kungliga vetenskapsakademien	BALSEA2020	BalticSea2020	BalticSea2020
 LABO	BILKBG	Billerud Kosrsnäs Karlsborg AB<or>Billerud Korsnäs Karlsborg AB<or>BillerudKorsnäs Karlsborgsverken<or>Billerud Karlsborg AB<or>BillerudKorsnäs AB	BILKBG	BillerudKorsnäs Karlsborg	BillerudKorsnas Karlsborg
-LABO	BKVF	Blekingekustens VVF<or>Blekingekustens Vattenvårdsförbund<or>Blekingekustens vvf<or>Blekinge kustvatten- och luftvårdsförbund<or>BKVF<or>Blekinge Kustvatten och Luftvårdsförbund	BKVF	Blekingekustens vattenvårdsförbund	Blekingekusten Coalition of Water Conservation
+LABO	BKVF	Blekingekustens VVF<or>Blekingekustens Vattenvårdsförbund<or>Blekingekustens vvf<or>Blekinge kustvatten- och luftvårdsförbund<or>BKVF<or>Blekinge Kustvatten och Luftvårdsförbund<or>BLVF	BKVF	Blekingekustens vattenvårdsförbund	Blekingekusten Coalition of Water Conservation
 LABO	BVVF	Bohuskustens Vattenvårdsförbund<or>Bohuskustens vattenvårds förbund<or>Västkusten vattenvårds förbund<or>Bohusläns vattenvårdsförbund<or>BOS	BVVF	Bohuskustens vattenvårdsförbund	Bohuskusten Coalition of Water Conservation
 LABO	BON		BON	BONUS EU-projekt	BONUS EU-project
 LABO	BOLIDEN	Boliden<or>Boliden Mineral<or>Boliden Mineral AB	BOLIDEN	Boliden Group	Boliden Group
@@ -96,7 +98,7 @@ LABO	KVA	Kungliga vetenskapsakademien	KVA	Kungliga Vetenskapsakademin	The Royal 
 LABO	KUFI		KUFI	Kustfilm Nord AB	Kustfilm Nord AB
 LABO	LAPF		LAPF	Lapland Regional Environment Centre	Lapland Regional Environment Centre
 LABO	LECA		LECA	LeCa Marin	LeCa Marin
-LABO	LNU	Linneuniversitetet<or>UCKS<or>Kalmar Universitet<or>Linnéuniversitetet	LNU	Linnéuniversitetet	Linnaeus University
+LABO	LNU	Linneuniversitetet<or>Linnéuniversitetet<or>UCKS<or>Kalmar Universitet	LNU	Linnéuniversitetet	Linnaeus University
 LABO	LIDINGO	Lidingö Stad<or>Lidingö stad Miljö- och stadsbyggnadskontoret<or>Lidingö Stad Teknik- och fastighetsförvaltningen	LIDINGO	Lidingö Stad	Lidingö Municipality
 LABO	LITORALIS	Litoralis<or>ESJE	LITORALIS	Litoralis Natur AB	Litoralis Nature AB
 LABO	LJUNGGREN	Ljunggren Fiske & Vattenvård AB <or>Ljunggren Fiske & Vattenvård AB	LJUNGGREN	Ljunggren Fiske & Vattenvård AB	Ljunggren Fiske & Vattenvård AB
@@ -118,7 +120,7 @@ LABO	DLST	Länsstyrelsen i Södermanlands län<or>Länsstyrelsen i Södermanland<or>L
 LABO	CLST	Länsstyrelsen i Uppsala län<or>Länsstyrelsen i Uppsala<or>Länsstyrelsen Uppsala län<or>LST Uppsala län<or>LST Uppsala	CLST	Länsstyrelsen Uppsala	County Administrative Board of Uppsala
 LABO	ACLST	Länsstyrelsen i Västerbottens län<or>ACLAN<or>Länsstyrelsen i Västerbotten<or> LST Västerbotten	ACLST	Länsstyrelsen Västerbotten	County Administrative Board of Västerbotten
 LABO	YLST	Länsstyrelsen i Västernorrlands län<or>Nedre Ångermanälvens SRK<or>Y-LAN<or>Länsstyrelsen i Västernorrland<or>LST Västernorrland<or>Länsstyrelsen Västernorrland	YLST	Länsstyrelsen Västernorrland	County Administrative Board of Västernorrland
-LABO	OLST	Länsstyrelsen i Västra Götalands län<or>Länsstyrelsen i Västra Götaland<or>Länstyrelsen Västra götaland<or>Länstyrelsen Västra Götland<or> Länsstyrelsen Göteborg och Bohuslän<or>Lst_O_Kampanj<or>Lst_O_Koster <or>Lst_O_RMÖ<or>LST_O<or>Koster nationalpark (Lst_O)<or>Koster nationalpark, Lst_O	OLST	Länsstyrelsen Västra Götaland	County Administrative Board of Västra Götaland
+LABO	OLST	Länsstyrelsen i Västra Götalands län<or>Länsstyrelsen i Västra Götaland<or>Länstyrelsen Västra götaland<or>Länstyrelsen Västra Götland<or> Länsstyrelsen Göteborg och Bohuslän<or>Lst_O_Kampanj<or>Lst_O_Koster <or>Lst_O_RMÖ<or>LST_O<or>Koster nationalpark (Lst_O)<or>Koster nationalpark, Lst_O<or>Koster nationalpark<or>Kosterhavets nationalpark	OLST	Länsstyrelsen Västra Götaland	County Administrative Board of Västra Götaland
 LABO	ELST	Länsstyrelsen i Östergötlands län<or>Länsstyrelsen i Östergötland län<or>Länsstyrelsen i Östergötland<or>Länstyrelsen Östergötland	ELST	Länsstyrelsen Östergötland	County Administrative Board of Östergotland
 LABO	MTNS		MTNS	Marietorps naturskola	Marietorps Environmental school
 LABO	MARMIL		MARMIL	Marin Miljöanalys AB	Marin Miljöanalys AB
@@ -141,7 +143,7 @@ LABO	NATVAT		NATVAT	Naturvatten i Roslagen AB	Naturvatten i Roslagen AB
 LABO	SEPA	Swedish Environmental Protection Agency<or>NV	SEPA	Naturvårdsverket	Swedish Environmental Protection Agency
 LABO	LCRS	Swedish Environmental Protection Agency Laboratory for Coastal Research 	LCRS	Naturvårdsverket Kustlaboratorium 	Swedish Environmental Protection Agency Laboratory for Coastal Research 
 LABO	NWLS	Swedish Environmental Protection Agency Naturvårdsverkets Water Quality Laboratory 	NWLS	Naturvårdsverket Vattenkvalitetslaboratorium	Swedish Environmental Protection Agency Water Quality Laboratory 
-LABO	NIRAS		NIRAS	NIRAS Sweden AB	NIRAS Sweden AB
+LABO	NIRAS	Niras Sweden	NIRAS	NIRAS Sweden AB	NIRAS Sweden AB
 LABO	NACE		NACE	Nordisk Analyse Center	Nordisk Analyse Center
 LABO	NORKOM		NORKOM	Nordmalings kommun	Nordmaling Municipality
 LABO	NVSKK	Nordvästskånes Kustvattenkommitté<or>Nordvästskånes Kustvattenkomitté (NVSKK)<or>Nordvässkånes Kustvattenkommitté (NVSKK)<or>Nordvästskånes Kustvattenkomitté<or>Nordvästra Skånes Kustvattenkommitté<or>Nordvästskånes kustvattenkommitté (NVSKK) 2000 och framåt<or>Nordvästskånes kustvattenkommitte<or> Nordvästskånes Kustvattenkommitte	NVSKK	Nordvästskånes kustvattenkommitté	Coastal Committee of Nordvästra skåne
@@ -199,7 +201,7 @@ LABO	SYNLAB		SYNLAB	SYNLAB Analytics & Services Sweden AB	SYNLAB Analytics & Ser
 LABO	SYVAB		SYVAB	Sydvästra stockholmsregionens va-verk AB	Southwest Stockholm region waterwork
 LABO	VARO		VARO	Södra Cell Värö massafabrik	Sodra Pulp Labs
 LABO	SOLVKOM		SOLVKOM	Sölvesborgs kommun	Sölvesborgs Municipality
-LABO	TOXICO		TOXICO	Toxicon AB	Toxicon AB
+LABO	TOXICO	Toxicon	TOXICO	Toxicon AB	Toxicon AB
 LABO	TRELKOM		TRELKOM	Trelleborgs Kommun	Trelleborg Municipality
 LABO	TASA		TASA	Tång och Sånt	Tång och Sånt
 LABO	TABYKOM	Täby kommun Tekniska kontoret<or>Täby kommun, Tekniska kontoret	TABYKOM	Täby kommun	Täby Municipality
@@ -242,6 +244,10 @@ LABO	VAG	varbergs hamn<or>varberg hamn<or>Varbergs hamn	VAG	Varbergs hamn	Port o
 LABO	ESGV	varbergs flygplats<or>varberg flygplats	ESGV	Varbergs flygplats	Airport of Varberg
 LABO	GRYAAB		GRYAAB	Gryaab AB	Gryaab AB
 LABO	NIVA		NIVA	Norsk institutt for vannforskning	Norwegian Institute for Water Research
+LABO	ECOP	Ecopelag<or>Ecopelag MK/MR	ECOP	Ecopelag	Ecopelag
+LABO	HFVOF	Hasselö FVOF	HFVOF	Hasselö FVOF	Hasselö FVOF
+LABO	JADYK	Jan Anderssons dykeri	JADYK	Jan Anderssons dykeri	Jan Anderssons dykeri
+LABO	VBCO	Vattenbrukscentrum ost	VBCO	Vattenbrukscentrum ost	Vattenbrukscentrum ost
 project	HIST Bornö hängbro	BORNÖ<or>BNO<or>HIST_Bornö_hängbro	BNO	HIST Bornö hängbro	Bornö bridge sampling
 project	HIST Fyrskepp	FYR<or>HIST_Fyrskepp	FYR	HIST Fyrskepp	Lightship
 project	HIST Havsfiskelaboratoriet Lysekil	LYS<or>HIST_Havsfiskelaboratoriet_Lysekil	LYS	HIST Havsfiskelaboratoriet Lysekil	Marine fisheries laboratory in Lysekil
@@ -261,6 +267,8 @@ project	NAT Nationell marin kartering	NMK	NMK	NAT Nationell marin kartering	Nati
 project	NAT Nationell miljöövervakning extra provtagning	EXT<or>Nationell miljöövervakning extra provtagning	EXT	NAT Nationell miljöövervakning extra provtagning	National monitoring extra sampling
 project	NAT Oslo-Paris Commission	OPC	OPC	NAT Oslo-Paris Commission	Oslo-Paris Commission
 project	NAT SYKEs BasVerksamhet	SYK	SYK	NAT SYKEs BasVerksamhet	SYKEs Base Activity
+project	PROJ Utsjöprovtagningar Algprognos och Algtoxiner		ALGX	PROJ Utsjöprovtagningar Algprognos och Algtoxiner	Open water Algae forcast Algae toxins
+project	PROJ Gotlandsprovtagningar Algprognos och Algtoxiner		ALGG	PROJ Gotlandsprovtagningar Algprognos och Algtoxiner	Gotland Algae forcast Algae toxins
 project	PROJ Alsbäck forskningsdata	FORSKNING ALSBÄCK<or>PROJ_Alsbäck_forskningsdata	ALF	PROJ Alsbäck forskningsdata	Research data from the Gullmars fjord,  Alsbäck
 project	PROJ Automatisk Kasun Boj	AUTOM. KASUN/BOJ<or>AUT<or>PROJ_Automatisk_Kasun_Boj	AUT	PROJ Automatisk Kasun Boj	Automatic Kasun/Buoy
 project	PROJ Baltic Open Sea Experiment	BALT O. SEA EXPMNT.<or>BEX<or>PROJ_Baltic_Open_Sea_Experiment 	BEX	PROJ Baltic Open Sea Experiment	Baltic Open Sea Experiment
@@ -276,6 +284,7 @@ project	PROJ Brofjorden	BROFJ.PROJ.<or>BRO<or>PROJ_Brofjorden	BRO	PROJ Brofjorde
 project	PROJ Byfjorden BOX	GUB<or>PROJ_Byfjorden_BOX<or>Forskningsdata BOX-projektet 2009-2012	GUB	PROJ Byfjorden BOX	Byfjorden BOX-project
 project	PROJ DNA-streckkodning av marina växtplankton	DNA-streckkodning<or>DNA<or>PROJ_DNA	DNA	PROJ DNA-streckkodning av marina växtplankton	DNA-metabarcoding of marine phytoplankton
 project	PROJ DIAMIX	DIAMIX-PROJ.<or>DMX<or>PROJ_DIAMIX	DMX	PROJ DIAMIX	DIAMIX
+project	PROJ Digital Twin Ocean - BioFlow		DTO	PROJ Digital Twin Ocean - BioFlow	Digital Twin Ocean - BioFlow
 project	PROJ Eg östersjön pelagial mätkampanj	MÄTKAMP. PELAG. 2010 NORRA ÖSTERSJ.<or>PROJ_Eg_östersjön_pelagial_mätkampanj	OPM	PROJ Eg östersjön pelagial mätkampanj	Sampling campaign pelagic 2010  Baltic Proper
 project	PROJ Enningsdalsälven INTERREG	INTERREG ENNINGDALSÄLVEN<or>PROJ_Enningsdalsälven_INTERREG	ENN	PROJ Enningsdalsälven INTERREG	Interregproject Enningdalsälven
 project	PROJ Ferrybox Transpaper och Color Fantasy	VÄXTPL. FERRYB.<or>PROJ_Ferrybox_Transpaper<or>PROJ Transpaper<or>TRANSPAPER<or>Transpaper<or>PROJ_Transpaper<or>PROJ Ferrybox Transpaper<or>PROJ Ferrybox ColorFantasy	TRA	PROJ Ferrybox Transpaper och Color Fantasy	Ferrybox Transpaper and Color Fantasy
@@ -315,6 +324,7 @@ project	PROJ Grunda vikar	Mellanårsvariationer i undervattensvegetation och fisk
 project	PROJ Grunda vikar	Marin basinventering Västernorrland	GVI	PROJ Grunda vikar	Shallow bays
 project	PROJ Göteborg säkrare farled	GÖTEB. SÄK. FARLED.<or>GSF<or>PROJ_Göteborg_säkrare_farled	GSF	PROJ Göteborg säkrare farled	Gothenburg Port safe fairway
 project	PROJ HABILE	HABILE<or>PROJ_HABILE	HAB	PROJ HABILE	Harmful Algae Bloom Initiation in Large European Marine Ecosystems (HABILE)
+project	PROJ Imaging FlowCytobot IFCB	PROJ Imaging Flow Cytobot	IFCB	PROJ Imaging FlowCytobot IFCB	Imaging FlowCytobot IFCB
 project	PROJ Inventering av marin epibentisk fauna i grunda vikar i Höga kusten	Inventering av marin epibentisk fauna i grunda vikar i Höga kusten	IEH	PROJ Inventering av marin epibentisk fauna i grunda vikar i Höga kusten	Inventory marine epibenthic fauna in shallow bays in Höga kusten
 project	PROJ Inventering av marin epibentisk fauna på djupa bottnar		IME	PROJ Inventering av marin epibentisk fauna på djupa bottnar	Inventory deep marine epibenthic fauna
 project	PROJ Inventering Gävleborg	Hårdbotteninventering Gävleborg 2000<or>Hårdbotteninventering Gävleborg 2005<or>Hårdbotteninventering Gävleborg 2006<or>Hårdbotteninventering Gävleborg 2007	IGA	PROJ Inventering Gävleborg	Inventory Gävleborg
@@ -600,3 +610,4 @@ project	REG Marum och Ösbyfjärden	ABM	ABM	REG Marum och Ösbyfjärden	Recipient mo
 project	REG Fiskodling Omne Ullånger Nätrafjärden RK		OUN	REG Fiskodling Omne Ullånger Nätrafjärden RK	
 project	REG Österåkers kommun	ABO	ABO	REG Österåkers kommun	Regional monitoring of the Municipality of Österåker
 project	REG Värmdö kommun		VAM	REG Värmdö kommun	Regional monitoring of the Municipality of Värmdö
+project	REG Norrtälje kommun		KON	REG Norrtälje kommun	Regional monitoring Norrtälje municipality
