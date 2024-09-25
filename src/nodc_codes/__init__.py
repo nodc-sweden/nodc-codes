@@ -31,7 +31,7 @@ def update_config_files() -> None:
             name = pathlib.Path(url).name
             target_path = CONFIG_DIR / name
             res = requests.get(url, verify=ssl.CERT_NONE)
-            with open(target_path, 'w', encoding='cp1252') as fid:
+            with open(target_path, 'w', encoding='utf8') as fid:
                 fid.write(res.text)
                 logger.info(f'Config file "{name}" updated from {url}')
     except requests.exceptions.ConnectionError:
