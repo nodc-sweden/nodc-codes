@@ -1,49 +1,49 @@
 internal_key	internal_value	synonyms	short_name	swedish_name	english_name
 delivery_datatype	Bacterioplankton		BACTPL	Bakterieplankton	Bacterioplankton
 delivery_datatype	Chlorophyll		CHLA	Klorofyllhalt	Chlorophyll
-delivery_datatype	Epibenthos		PB	Vegetationskl‰dda bottnar	Epibenthos
-delivery_datatype	GreySeal		GSEAL	GrÂs‰l	Grey seal
-delivery_datatype	HarbourSeal		HSEAL	Knubbs‰l	Harbour seal
+delivery_datatype	Epibenthos		PB	Vegetationskl√§dda bottnar	Epibenthos
+delivery_datatype	GreySeal		GSEAL	Gr√•s√§l	Grey seal
+delivery_datatype	HarbourSeal		HSEAL	Knubbs√§l	Harbour seal
 delivery_datatype	PhysicalChemical		PHYCHE	Fysikalisk och kemisk data	Physical and chemical
-delivery_datatype	Phytoplankton		PP	V‰xtplankton	Phytoplankton
-delivery_datatype	PrimaryProduction		PRIMPROD	Prim‰rproduktion	Primary production
+delivery_datatype	Phytoplankton		PP	V√§xtplankton	Phytoplankton
+delivery_datatype	PrimaryProduction		PRIMPROD	Prim√§rproduktion	Primary production
 delivery_datatype	Profile		PROFILE	Profil	Profile
-delivery_datatype	RingedSeal		RSEAL	Vikares‰l	Ringed seal
-delivery_datatype	SealPathology		SEALPAT	S‰lpatologi	Seal pathology
+delivery_datatype	RingedSeal		RSEAL	Vikares√§l	Ringed seal
+delivery_datatype	SealPathology		SEALPAT	S√§lpatologi	Seal pathology
 delivery_datatype	Sedimentation		SED	Sedimentation	Sedimentation
 delivery_datatype	Zoobenthos		ZB	Mjukbottenfauna	Zoobenthos
 delivery_datatype	Zooplankton		ZP	Djurplankton	Zooplankton
 delivery_datatype	Harbourporpoise		HARPOR	Tumlare	Harbour porpoise
 delivery_datatype	PlanktonBarcoding		PBARCOD	Plankton DNA streckkodning	Plankton DNA metabarcoding
-delivery_datatype	Jellyfish		JELLYF	GelÈplankton	Jellyfish
+delivery_datatype	Jellyfish		JELLYF	Gel√©plankton	Jellyfish
 delivery_datatype	Picoplankton		PICOP	Picoplankton	Picoplankton
 LABO	SLKS		SLKS	AB Svensk Laboratoriet	AB Svensk Laboratoriet
 LABO	ABB		ABB	ABB	ABB
 LABO	AIRI		AIRI	Airicole AB	Airicole AB
 LABO	APNN		APNN	Akvaplan-NIVA A/S	Akvaplan NIVA group
-LABO	ALCON	ALcontrol Sˆderhamn<or>ALcontrol Uddevalla<or>Alcontrol AB UmeÂ Sweden<or>Alcontrol<or>Alcontrol AB Linkˆping Sweden Alcontrol AB Sweden<or>ALCON<or>ALcontrol AB<or>ALUS<or>ALSH<or>ALLS<or>	ALCON	Alcontrol AB	Alcontrol laboratories
+LABO	ALCON	ALcontrol S√∂derhamn<or>ALcontrol Uddevalla<or>Alcontrol AB Ume√• Sweden<or>Alcontrol<or>Alcontrol AB Link√∂ping Sweden Alcontrol AB Sweden<or>ALCON<or>ALcontrol AB<or>ALUS<or>ALSH<or>ALLS<or>	ALCON	Alcontrol AB	Alcontrol laboratories
 LABO	ALSSCA		ALSSCA	ALS Scandinavia	ALS Scandinavia
-LABO	ANALYC	Analycen Gˆteborg<or>Analycen Lidkˆping	ANALYC	Analycen AB	Analycen AB
+LABO	ANALYC	Analycen G√∂teborg<or>Analycen Lidk√∂ping	ANALYC	Analycen AB	Analycen AB
 LABO	ANBF		ANBF	ANSAB	ANSAB
 LABO	AQUAAN		AQUAAN	Aquaanalys	Aquaanalys
 LABO	AQBI	AquaBiota Water Research	AQBI	AquaBiota	AquaBiota Water Research
 LABO	ASUK		ASUK	Aquatic Systems Group	Aquatic Systems Group
-LABO	AMK		AMK	Aquaticus Miljˆkonsulter	Aquaticus
+LABO	AMK		AMK	Aquaticus Milj√∂konsulter	Aquaticus
 LABO	ADB		ADB	Artdatabanken	Swedish Species Information Centre
-LABO	BARSE		BARSE	Barseb‰ck Kraft AB	Barseb‰ck Kraft AB
+LABO	BARSE		BARSE	Barseb√§ck Kraft AB	Barseb√§ck Kraft AB
 LABO	BALSEA2020	BALSEA2020<or>Baltic Sea 2020 Kungliga vetenskapsakademien	BALSEA2020	BalticSea2020	BalticSea2020
-LABO	BILKBG	Billerud Kosrsn‰s Karlsborg AB<or>Billerud Korsn‰s Karlsborg AB<or>BillerudKorsn‰s Karlsborgsverken<or>Billerud Karlsborg AB<or>BillerudKorsn‰s AB	BILKBG	BillerudKorsn‰s Karlsborg	BillerudKorsnas Karlsborg
-LABO	BKVF	Blekingekustens VVF<or>Blekingekustens VattenvÂrdsfˆrbund<or>Blekingekustens vvf<or>Blekinge kustvatten- och luftvÂrdsfˆrbund<or>BKVF<or>Blekinge Kustvatten och LuftvÂrdsfˆrbund<or>BLVF	BKVF	Blekingekustens vattenvÂrdsfˆrbund	Blekingekusten Coalition of Water Conservation
-LABO	BVVF	Bohuskustens VattenvÂrdsfˆrbund<or>Bohuskustens vattenvÂrds fˆrbund<or>V‰stkusten vattenvÂrds fˆrbund<or>Bohusl‰ns vattenvÂrdsfˆrbund<or>BOS	BVVF	Bohuskustens vattenvÂrdsfˆrbund	Bohuskusten Coalition of Water Conservation
+LABO	BILKBG	Billerud Kosrsn√§s Karlsborg AB<or>Billerud Korsn√§s Karlsborg AB<or>BillerudKorsn√§s Karlsborgsverken<or>Billerud Karlsborg AB<or>BillerudKorsn√§s AB	BILKBG	BillerudKorsn√§s Karlsborg	BillerudKorsnas Karlsborg
+LABO	BKVF	Blekingekustens VVF<or>Blekingekustens Vattenv√•rdsf√∂rbund<or>Blekingekustens vvf<or>Blekinge kustvatten- och luftv√•rdsf√∂rbund<or>BKVF<or>Blekinge Kustvatten och Luftv√•rdsf√∂rbund<or>BLVF	BKVF	Blekingekustens vattenv√•rdsf√∂rbund	Blekingekusten Coalition of Water Conservation
+LABO	BVVF	Bohuskustens Vattenv√•rdsf√∂rbund<or>Bohuskustens vattenv√•rds f√∂rbund<or>V√§stkusten vattenv√•rds f√∂rbund<or>Bohusl√§ns vattenv√•rdsf√∂rbund<or>BOS	BVVF	Bohuskustens vattenv√•rdsf√∂rbund	Bohuskusten Coalition of Water Conservation
 LABO	BON		BON	BONUS EU-projekt	BONUS EU-project
 LABO	BOLIDEN	Boliden<or>Boliden Mineral<or>Boliden Mineral AB	BOLIDEN	Boliden Group	Boliden Group
 LABO	BHMKOM		BHMKOM	Borgholms kommun	Borgholm Municipality
 LABO	CALLUN	CALLUNA AB<or>CALLUNA	CALLUN	Calluna AB	Calluna AB
 LABO	CASPOL		CASPOL	Castor & Pollux	Castor & Pollux
-LABO	DVVF		DVVF	Dal‰lvens vattenvÂrdsfˆrbund	Dal‰lven Coalition of Water Conservation
-LABO	DMU	Danmarks Milj¯unders¯gelser	DMU	Danish Centre for Environment and Energy	Danish Centre for Environment and Energy
+LABO	DVVF		DVVF	Dal√§lvens vattenv√•rdsf√∂rbund	Dal√§lven Coalition of Water Conservation
+LABO	DMU	Danmarks Milj√∏unders√∏gelser	DMU	Danish Centre for Environment and Energy	Danish Centre for Environment and Energy
 LABO	DHI	VKID<or>DHI Water and Environment	DHI	Danska Hydrauliska Institutet	Danish hydraulic institute
-LABO	DOMFAB	Domsjˆ fabriker	DOMFAB	Domsjˆ fabriker AB	Domsjˆ fabriker AB
+LABO	DOMFAB	Domsj√∂ fabriker	DOMFAB	Domsj√∂ fabriker AB	Domsj√∂ fabriker AB
 LABO	EDSVVS	EDVIK	EDSVVS	Edsviken vattensamverkan	Edsviken watercollaboration
 LABO	EKOGRP	Ekologigruppen AB	EKOGRP	Ekologigruppen AB	Ekologigruppen AB
 LABO	EHFF		EHFF	Europeiska havs- och fiskerifonden	European Maritime and Fisheries Fund
@@ -54,188 +54,188 @@ LABO	IMRE	Estlands Marina Institut	IMRE	Estonian Marine Institute	Estonian Marin
 LABO	EUKOM		EUKOM	EU-kommissionen Horizon 2020	European Commission Horizon 2020
 LABO	EFAR	Eurofins Ahma Rovaniemi	EFAR	Eurofins Ahma Rovaniemi	Eurofins Ahma Rovaniemi
 LABO	EFDK	Eurofins Danmark A/S Albertslund	EFDK	Eurofins Danmark A/S	Eurofins Danmark A/S
-LABO	EFSW	Eurofins Lidkˆping<or>Eurofins Stockholm<or>EULD<or>EUSHOLM	EFSW	Eurofins Environment Sweden AB	Eurofins Environment Sweden AB
+LABO	EFSW	Eurofins Lidk√∂ping<or>Eurofins Stockholm<or>EULD<or>EUSHOLM	EFSW	Eurofins Environment Sweden AB	Eurofins Environment Sweden AB
 LABO	EUPE		EUPE	Eurofins-Pelagia	Eurofins-Pelagia
 LABO	LIFE	EU-kommissionen	LIFE	Europeiska kommisionen LIFE programmet	European comission LIFE programme
 LABO	FALMA		FALMA	Falma Provtagning	Falma Sampling
-LABO	FEIF	Finska Miljˆinstitutet<or>SYKE	FEIF	Finlands miljˆcentral	Finnish Environment Institute
+LABO	FEIF	Finska Milj√∂institutet<or>SYKE	FEIF	Finlands milj√∂central	Finnish Environment Institute
 LABO	FIV	National Board of Fisheries<or>HRFS Swedish National Board of Fisheries<or>IMRS<or>Fiskeriverket Sverige	FIV	Fiskeriverket	Swedish National Board of Fisheries
 LABO	FIVHL		FIVHL	Fiskeriverket Havsfiskelaboratoriet	Swedish National Board of Fisheries
 LABO	FIVKL		FIVKL	Fiskeriverket Kustfiskelaboratoriet	Swedish National Board of Fisheries
 LABO	SFIP	SFIP<or>FOLB<or>FITO	SFIP	FITO-Lab	FITO-Lab
 LABO	FORMAS		FORMAS	FORMAS	FORMAS
 LABO	FORS		FORS	Forsmarks kraftgrupp AB	Forsmarks kraftgrupp AB
-LABO	NENNINGE	Fˆreningen Nenningesund	NENNINGE	Fˆreningen Nenningesund	Nenningesund association
-LABO	GASTVAAB	GASTVAAB	GASTVAAB	G‰strike Vatten AB	G‰strike Vatten AB
-LABO	GVVF	G‰striklands vattenvÂrdsfˆrening	GVVF	G‰striklands vattenvÂrdsfˆrbund	G‰strikland Coalition of Water Conservation
-LABO	GBGKOM	Gˆteborg kommun<or>Gˆteborgs kommun<or>Gˆteborgs stad miljˆfˆrvaltningen	GBGKOM	Gˆteborgs Stad	Gothenburg Municipality
-LABO	GU	IAMK<or>Gˆteborg Universitet<or>Gˆteborg University Maringeologiska institutet<or>GUMI<or>GU	IAMK	Gˆteborgs universitet	University of Gothenburg
+LABO	NENNINGE	F√∂reningen Nenningesund	NENNINGE	F√∂reningen Nenningesund	Nenningesund association
+LABO	GASTVAAB	GASTVAAB	GASTVAAB	G√§strike Vatten AB	G√§strike Vatten AB
+LABO	GVVF	G√§striklands vattenv√•rdsf√∂rening	GVVF	G√§striklands vattenv√•rdsf√∂rbund	G√§strikland Coalition of Water Conservation
+LABO	GBGKOM	G√∂teborg kommun<or>G√∂teborgs kommun<or>G√∂teborgs stad milj√∂f√∂rvaltningen	GBGKOM	G√∂teborgs Stad	Gothenburg Municipality
+LABO	GU	IAMK<or>G√∂teborg Universitet<or>G√∂teborg University Maringeologiska institutet<or>GUMI<or>GU	IAMK	G√∂teborgs universitet	University of Gothenburg
 LABO	HAFOK	hafok<or>Hafok	HAFOK	Hafok AB	Hafok AB
 LABO	HANKOM		HANKOM	Haninge kommun	Haninge Municipality
 LABO	HAV	Havs och vattenmyndigheten<or>Havs och Vattenmyndigheten<or>Havs- och Vattenmyndigheten<or>havs och Vattenmyndigheten<or>HaV<or> Hav_extra<or> Hav- och vattenmyndigheten<or>SWAM<or>Hav och Vattenmyndigheten<or>SAMWM<or>Havs- och vattemyndigheten	HAV	Havs- och vattenmyndigheten	Swedish Agency for Marine and Water Management
-LABO	IMRF	Finska institutet fˆr Marina vetenskaper	IMRF	Havsforskningsinstitutet Finland	Finnish Institute of Marine Research
-LABO	HBGMILJO	Helsingsborg miljˆkontor<or>Helsingborgs miljˆfˆrvaltning	HBGMILJO	Helsingsborgs miljˆfˆrvaltning	Helsingborg environmental management
-LABO	HILMAR	Hillevik Marina F‰ltstation	HILMAR	Hillevik marina f‰ltstation	Hillevik Marine Field Station
-LABO	HOGKOM		HOGKOM	Hˆgan‰s kommun	Hˆgan‰s Municipality
+LABO	IMRF	Finska institutet f√∂r Marina vetenskaper	IMRF	Havsforskningsinstitutet Finland	Finnish Institute of Marine Research
+LABO	HBGMILJO	Helsingsborg milj√∂kontor<or>Helsingborgs milj√∂f√∂rvaltning	HBGMILJO	Helsingsborgs milj√∂f√∂rvaltning	Helsingborg environmental management
+LABO	HILMAR	Hillevik Marina F√§ltstation	HILMAR	Hillevik marina f√§ltstation	Hillevik Marine Field Station
+LABO	HOGKOM		HOGKOM	H√∂gan√§s kommun	H√∂gan√§s Municipality
 LABO	HOLMPAP	Holmen Paper AB Hallsta Pappersbruk<or>Holmen Paper AB	HOLMPAP	Holmen Paper	Holmen Paper
-LABO	HUSH	HushÂllningss‰llskapet RÂdgivning Nord<or> HUSHRN	HUSH	HushÂllningss‰llskapet	Swedish Rural Economy and Agricultural Societies†
+LABO	HUSH	Hush√•llningss√§llskapet R√•dgivning Nord<or> HUSHRN	HUSH	Hush√•llningss√§llskapet	Swedish Rural Economy and Agricultural Societies¬†
 LABO	HYD		HYD	HydroGIS AB	HydroGIS AB
-LABO	HKLIM		HKLIM	Hˆga kusten Limnologkonsult	Hˆga kusten Limnologkonsult
-LABO	IFNHR	Intressefˆreningen fˆr Nord ÷stra H‰lsinglands samordnade recipientkontroll<or>Gruppen fˆr samordnad recipientkontroll i N÷ H‰lsingland	IFNHR	Intressefˆreningen fˆr Nordˆstra H‰lsinglands SRK	Committee of North Eastern H‰lsingland Coordinated Recipient Monitoring
-LABO	SERI	Swedish Environmental Research Institute	SERI	IVL Svenska Miljˆinstitutet	Swedish Environmental Research Institute
+LABO	HKLIM		HKLIM	H√∂ga kusten Limnologkonsult	H√∂ga kusten Limnologkonsult
+LABO	IFNHR	Intressef√∂reningen f√∂r Nord √ñstra H√§lsinglands samordnade recipientkontroll<or>Gruppen f√∂r samordnad recipientkontroll i N√ñ H√§lsingland	IFNHR	Intressef√∂reningen f√∂r Nord√∂stra H√§lsinglands SRK	Committee of North Eastern H√§lsingland Coordinated Recipient Monitoring
+LABO	SERI	Swedish Environmental Research Institute	SERI	IVL Svenska Milj√∂institutet	Swedish Environmental Research Institute
 LABO	JPAQUA		JPAQUA	JP Aquakonsult KB	JP Aquakonsult KB
 LABO	JPSED		JPSED	JP Sedimentkonsult HB	JP Sedimentkonsult HB
 LABO	KLXKOM		KLXKOM	Kalix kommun	Kalix Municipality
 LABO	KALKOM		KALKOM	Kalmar kommun	Kalmar Municipality
-LABO	KLKK	Kalmar l‰ns kustvattenkommitte<or>Kalmar L‰ns kustvattenkommittÈ	KLKK	Kalmar l‰ns kustvattenkommittÈ	Coastal Committee of Kalmar County
+LABO	KLKK	Kalmar l√§ns kustvattenkommitte<or>Kalmar L√§ns kustvattenkommitt√©	KLKK	Kalmar l√§ns kustvattenkommitt√©	Coastal Committee of Kalmar County
 LABO	KARHAM		KARHAM	Karlshamns hamn AB	Karlshamns Port AB
 LABO	KARKOM		KARKOM	Karlskrona kommun	Karlskrona Municipality
 LABO	KIVI		KIVI	Kiviks Musteri	Kiviks Musteri
 LABO	KMLB		KMLB	KM Lab AB	KM Lab AB
-LABO	KOLM	KolmÂrden	KOLM	KolmÂrden	KolmÂrden
+LABO	KOLM	Kolm√•rden	KOLM	Kolm√•rden	Kolm√•rden
 LABO	KRIKOM	Kristianstad kommun	KRIKOM	Kristianstads kommun	Kristianstads Municipality
 LABO	KVA	Kungliga vetenskapsakademien	KVA	Kungliga Vetenskapsakademin	The Royal Swedish Academy of Sciense
 LABO	KUFI		KUFI	Kustfilm Nord AB	Kustfilm Nord AB
 LABO	LAPF		LAPF	Lapland Regional Environment Centre	Lapland Regional Environment Centre
 LABO	LECA		LECA	LeCa Marin	LeCa Marin
-LABO	LNU	Linneuniversitetet<or>LinnÈuniversitetet<or>UCKS<or>Kalmar Universitet	LNU	LinnÈuniversitetet	Linnaeus University
-LABO	LIDINGO	Lidingˆ Stad<or>Lidingˆ stad Miljˆ- och stadsbyggnadskontoret<or>Lidingˆ Stad Teknik- och fastighetsfˆrvaltningen	LIDINGO	Lidingˆ Stad	Lidingˆ Municipality
+LABO	LNU	Linneuniversitetet<or>Linn√©universitetet<or>UCKS<or>Kalmar Universitet	LNU	Linn√©universitetet	Linnaeus University
+LABO	LIDINGO	Liding√∂ Stad<or>Liding√∂ stad Milj√∂- och stadsbyggnadskontoret<or>Liding√∂ Stad Teknik- och fastighetsf√∂rvaltningen	LIDINGO	Liding√∂ Stad	Liding√∂ Municipality
 LABO	LITORALIS	Litoralis<or>ESJE	LITORALIS	Litoralis Natur AB	Litoralis Nature AB
-LABO	LJUNGGREN	Ljunggren Fiske & VattenvÂrd AB <or>Ljunggren Fiske & VattenvÂrd AB	LJUNGGREN	Ljunggren Fiske & VattenvÂrd AB	Ljunggren Fiske & VattenvÂrd AB
+LABO	LJUNGGREN	Ljunggren Fiske & Vattenv√•rd AB <or>Ljunggren Fiske & Vattenv√•rd AB	LJUNGGREN	Ljunggren Fiske & Vattenv√•rd AB	Ljunggren Fiske & Vattenv√•rd AB
 LABO	SLV	Svenska Livsmedelsverket	SLV	Livsmedelsverket	National Food Agency
-LABO	LVVVF	LVVF<or>Ljusnan-Voxnans VattenvÂrdsfˆrbund<or>Ljusnan Voxnan	LVVVF	Ljusnan-Voxnans vattenvÂrdsfˆrbund	Ljusnan-Voxnan Coalition of Water Conservation
+LABO	LVVVF	LVVF<or>Ljusnan-Voxnans Vattenv√•rdsf√∂rbund<or>Ljusnan Voxnan	LVVVF	Ljusnan-Voxnans vattenv√•rdsf√∂rbund	Ljusnan-Voxnan Coalition of Water Conservation
 LABO	LUUN		LUUN	Lunds Universitet	Lund University
 LABO	LVLAB		LVLAB	LV-lab	LV-lab
-LABO	KLST	L‰nsstyrelsen i Blekinge l‰n<or>L‰nsstyrelsen i Blekinge<or>L‰nsstyresen i Blekinge	KLST	L‰nsstyrelsen Blekinge	County Administrative Board of Blekinge
-LABO	ILST	L‰nsstyrelsen i Gotlands l‰n<or>L‰nsstyrelsen i Gotland	ILST	L‰nsstyrelsen Gotland	County Administrative Board of Gotland
-LABO	XLST	L‰nsstyrelsen i G‰vleborgs l‰n<or>L‰nsstyrelsen i G‰vleborg<or>LST G‰vleborg<or> L‰nsstyrelsen G‰vleborgs l‰n	XLST	L‰nsstyrelsen G‰vleborg	County Administrative Board of G‰vleborg
-LABO	NLST	L‰nsstyrelsen i Hallands l‰n<or>L‰nsstyrelsen i Halland<or>l‰nsstyrelsen i Halland<or>Nlst<or>Hallands kustkontroll<or>N lst<or>nlst	NLST	L‰nsstyrelsen Halland	County Administrative Board of Halland
-LABO	HLST	L‰nsstyrelsen i Kalmar l‰n<or>L‰nsstyrelsen H l‰n<or>L‰nsstyrelsen i Kalmar<or>L‰nsstyrelsen Kalmar<or>L‰nsstyrelsen Kalmar l‰n	HLST	L‰nsstyrelsen Kalmar	County Administrative Board of Kalmar
-LABO	BDLST	L‰nsstyrelsen i Norrbottens l‰n<or>BDLAN<or>L‰nsstyrelsen i Norrbotten<or>LST Norrbotten	BDLST	L‰nsstyrelsen Norrbotten	County Administrative Board of Norrbotten
-LABO	LST		LST	L‰nsstyrelsen ospecificerad	County Administrative Board unspecified
-LABO	MLST	L‰nsstyrelsen SkÂne<or>L‰nsstyrelsen i SkÂne<or>Lst SkÂne<or>Lst  SkÂne<or>L‰nsstyrelsen i SkÂne l‰n<or>Lst I SkÂne l‰n<or>LST_M	MLST	L‰nsstyrelsen SkÂne	County Administrative Board of SkÂne
-LABO	BLST		BLST	L‰nsstyrelsen Stockholm	County Administrative Board of Stockholm
-LABO	ABLST	L‰nsstyrelsen i Stockholms l‰n<or>L‰nsstyrelsen i Stockholm<or>L‰nstyrelsen i Stockholm<or>Stockholms l‰n	ABLST	L‰nsstyrelsen Stockholm	County Administrative Board of Stockholm
-LABO	DLST	L‰nsstyrelsen i Sˆdermanlands l‰n<or>L‰nsstyrelsen i Sˆdermanland<or>L‰nsstyrelsen Sˆdermanlands l‰n	DLST	L‰nsstyrelsen Sˆdermanland	County Administrative Board of Sˆdermanland
-LABO	CLST	L‰nsstyrelsen i Uppsala l‰n<or>L‰nsstyrelsen i Uppsala<or>L‰nsstyrelsen Uppsala l‰n<or>LST Uppsala l‰n<or>LST Uppsala	CLST	L‰nsstyrelsen Uppsala	County Administrative Board of Uppsala
-LABO	ACLST	L‰nsstyrelsen i V‰sterbottens l‰n<or>ACLAN<or>L‰nsstyrelsen i V‰sterbotten<or> LST V‰sterbotten	ACLST	L‰nsstyrelsen V‰sterbotten	County Administrative Board of V‰sterbotten
-LABO	YLST	L‰nsstyrelsen i V‰sternorrlands l‰n<or>Nedre ≈ngerman‰lvens SRK<or>Y-LAN<or>L‰nsstyrelsen i V‰sternorrland<or>LST V‰sternorrland<or>L‰nsstyrelsen V‰sternorrland	YLST	L‰nsstyrelsen V‰sternorrland	County Administrative Board of V‰sternorrland
-LABO	OLST	L‰nsstyrelsen i V‰stra Gˆtalands l‰n<or>L‰nsstyrelsen i V‰stra Gˆtaland<or>L‰nstyrelsen V‰stra gˆtaland<or>L‰nstyrelsen V‰stra Gˆtland<or> L‰nsstyrelsen Gˆteborg och Bohusl‰n<or>Lst_O_Kampanj<or>Lst_O_Koster <or>Lst_O_RM÷<or>LST_O<or>Koster nationalpark (Lst_O)<or>Koster nationalpark, Lst_O<or>Koster nationalpark<or>Kosterhavets nationalpark	OLST	L‰nsstyrelsen V‰stra Gˆtaland	County Administrative Board of V‰stra Gˆtaland
-LABO	ELST	L‰nsstyrelsen i ÷stergˆtlands l‰n<or>L‰nsstyrelsen i ÷stergˆtland l‰n<or>L‰nsstyrelsen i ÷stergˆtland<or>L‰nstyrelsen ÷stergˆtland	ELST	L‰nsstyrelsen ÷stergˆtland	County Administrative Board of ÷stergotland
+LABO	KLST	L√§nsstyrelsen i Blekinge l√§n<or>L√§nsstyrelsen i Blekinge<or>L√§nsstyresen i Blekinge	KLST	L√§nsstyrelsen Blekinge	County Administrative Board of Blekinge
+LABO	ILST	L√§nsstyrelsen i Gotlands l√§n<or>L√§nsstyrelsen i Gotland	ILST	L√§nsstyrelsen Gotland	County Administrative Board of Gotland
+LABO	XLST	L√§nsstyrelsen i G√§vleborgs l√§n<or>L√§nsstyrelsen i G√§vleborg<or>LST G√§vleborg<or> L√§nsstyrelsen G√§vleborgs l√§n	XLST	L√§nsstyrelsen G√§vleborg	County Administrative Board of G√§vleborg
+LABO	NLST	L√§nsstyrelsen i Hallands l√§n<or>L√§nsstyrelsen i Halland<or>l√§nsstyrelsen i Halland<or>Nlst<or>Hallands kustkontroll<or>N lst<or>nlst	NLST	L√§nsstyrelsen Halland	County Administrative Board of Halland
+LABO	HLST	L√§nsstyrelsen i Kalmar l√§n<or>L√§nsstyrelsen H l√§n<or>L√§nsstyrelsen i Kalmar<or>L√§nsstyrelsen Kalmar<or>L√§nsstyrelsen Kalmar l√§n	HLST	L√§nsstyrelsen Kalmar	County Administrative Board of Kalmar
+LABO	BDLST	L√§nsstyrelsen i Norrbottens l√§n<or>BDLAN<or>L√§nsstyrelsen i Norrbotten<or>LST Norrbotten	BDLST	L√§nsstyrelsen Norrbotten	County Administrative Board of Norrbotten
+LABO	LST		LST	L√§nsstyrelsen ospecificerad	County Administrative Board unspecified
+LABO	MLST	L√§nsstyrelsen Sk√•ne<or>L√§nsstyrelsen i Sk√•ne<or>Lst Sk√•ne<or>Lst  Sk√•ne<or>L√§nsstyrelsen i Sk√•ne l√§n<or>Lst I Sk√•ne l√§n<or>LST_M	MLST	L√§nsstyrelsen Sk√•ne	County Administrative Board of Sk√•ne
+LABO	BLST		BLST	L√§nsstyrelsen Stockholm	County Administrative Board of Stockholm
+LABO	ABLST	L√§nsstyrelsen i Stockholms l√§n<or>L√§nsstyrelsen i Stockholm<or>L√§nstyrelsen i Stockholm<or>Stockholms l√§n	ABLST	L√§nsstyrelsen Stockholm	County Administrative Board of Stockholm
+LABO	DLST	L√§nsstyrelsen i S√∂dermanlands l√§n<or>L√§nsstyrelsen i S√∂dermanland<or>L√§nsstyrelsen S√∂dermanlands l√§n	DLST	L√§nsstyrelsen S√∂dermanland	County Administrative Board of S√∂dermanland
+LABO	CLST	L√§nsstyrelsen i Uppsala l√§n<or>L√§nsstyrelsen i Uppsala<or>L√§nsstyrelsen Uppsala l√§n<or>LST Uppsala l√§n<or>LST Uppsala	CLST	L√§nsstyrelsen Uppsala	County Administrative Board of Uppsala
+LABO	ACLST	L√§nsstyrelsen i V√§sterbottens l√§n<or>ACLAN<or>L√§nsstyrelsen i V√§sterbotten<or> LST V√§sterbotten	ACLST	L√§nsstyrelsen V√§sterbotten	County Administrative Board of V√§sterbotten
+LABO	YLST	L√§nsstyrelsen i V√§sternorrlands l√§n<or>Nedre √Öngerman√§lvens SRK<or>Y-LAN<or>L√§nsstyrelsen i V√§sternorrland<or>LST V√§sternorrland<or>L√§nsstyrelsen V√§sternorrland	YLST	L√§nsstyrelsen V√§sternorrland	County Administrative Board of V√§sternorrland
+LABO	OLST	L√§nsstyrelsen i V√§stra G√∂talands l√§n<or>L√§nsstyrelsen i V√§stra G√∂taland<or>L√§nstyrelsen V√§stra g√∂taland<or>L√§nstyrelsen V√§stra G√∂tland<or> L√§nsstyrelsen G√∂teborg och Bohusl√§n<or>Lst_O_Kampanj<or>Lst_O_Koster <or>Lst_O_RM√ñ<or>LST_O<or>Koster nationalpark (Lst_O)<or>Koster nationalpark, Lst_O<or>Koster nationalpark<or>Kosterhavets nationalpark	OLST	L√§nsstyrelsen V√§stra G√∂taland	County Administrative Board of V√§stra G√∂taland
+LABO	ELST	L√§nsstyrelsen i √ñsterg√∂tlands l√§n<or>L√§nsstyrelsen i √ñsterg√∂tland l√§n<or>L√§nsstyrelsen i √ñsterg√∂tland<or>L√§nstyrelsen √ñsterg√∂tland	ELST	L√§nsstyrelsen √ñsterg√∂tland	County Administrative Board of √ñstergotland
 LABO	MTNS		MTNS	Marietorps naturskola	Marietorps Environmental school
-LABO	MARMIL		MARMIL	Marin Miljˆanalys AB	Marin Miljˆanalys AB
-LABO	MMT		MMT	Marin M‰tteknik	MMT
-LABO	MARLAR		MARLAR	Marina l‰roverket i Stocksund	Marina l‰roverket i Stocksund
+LABO	MARMIL		MARMIL	Marin Milj√∂analys AB	Marin Milj√∂analys AB
+LABO	MMT		MMT	Marin M√§tteknik	MMT
+LABO	MARLAR		MARLAR	Marina l√§roverket i Stocksund	Marina l√§roverket i Stocksund
 LABO	MMAB	MAB	MMAB	Marine Monitoring AB	Marine Monitoring AB
 LABO	MEANA		MEANA	MeAna konsult Uppsala	MeAna konsult Uppsala
 LABO	MEDINS	Medins<or>Medins Biologi AB<or>Medins Havs och Vattenkonsulter AB<or>Medins Havs- och Vattenkonsulter AB<or>Medins havs och vattenkonsulter AB	MEDINS	Medins Havs och Vattenkonsulter	MEDINS AB
-LABO	METSA	Mets‰ Board Sverige AB Husums Fabrik	METSA	Mets‰ Board Sverige AB	Metsa Board
-LABO	MNMN	Tronerud Miljˆ och Natur	MNMN	Miljˆ & Natur Mats Notini AB	Miljˆ & Natur Mats Notini AB
-LABO	MILANO	Miljˆlaboratorierna i Norrland	MILANO	Miljˆlaboratorierna i Norrland	Miljˆlaboratorierna i Norrland
-LABO	MILUME	Miljˆlaboratorierna - UmeÂ	MILUME	Miljˆlaboratorierna UmeÂ	Miljˆlaboratorierna UmeÂ
-LABO	MSVVF	MSV<or>Motala Strˆms VattenvÂrdsfˆrbund	MSVVF	Motala Strˆms vattenvÂrdsfˆrbund	Motala strˆm Coalition of Water Conservation
-LABO	MONKOM		MONKOM	MˆnsterÂs kommun	MˆnsterÂs Municipality
+LABO	METSA	Mets√§ Board Sverige AB Husums Fabrik	METSA	Mets√§ Board Sverige AB	Metsa Board
+LABO	MNMN	Tronerud Milj√∂ och Natur	MNMN	Milj√∂ & Natur Mats Notini AB	Milj√∂ & Natur Mats Notini AB
+LABO	MILANO	Milj√∂laboratorierna i Norrland	MILANO	Milj√∂laboratorierna i Norrland	Milj√∂laboratorierna i Norrland
+LABO	MILUME	Milj√∂laboratorierna - Ume√•	MILUME	Milj√∂laboratorierna Ume√•	Milj√∂laboratorierna Ume√•
+LABO	MSVVF	MSV<or>Motala Str√∂ms Vattenv√•rdsf√∂rbund	MSVVF	Motala Str√∂ms vattenv√•rdsf√∂rbund	Motala str√∂m Coalition of Water Conservation
+LABO	MONKOM		MONKOM	M√∂nster√•s kommun	M√∂nster√•s Municipality
 LABO	NACKAKOM		NACKAKOM	Nacka kommun	Nacka Municipality
 LABO	NMFRI	NMFRI	NMFRI	National Marine Fisheries Research Institute (NMFRI)	National Marine Fisheries Research Institute (NMFRI)
-LABO	NODC		NODC	Nationell datav‰rd Oceanografi	National Oceanographic Data Center
+LABO	NODC		NODC	Nationell datav√§rd Oceanografi	National Oceanographic Data Center
 LABO	MNHS	MHNS	MNHS	Naturhistoriska riksmuseet	Swedish Museum of Natural History
 LABO	NATVAT		NATVAT	Naturvatten i Roslagen AB	Naturvatten i Roslagen AB
-LABO	SEPA	Swedish Environmental Protection Agency<or>NV	SEPA	NaturvÂrdsverket	Swedish Environmental Protection Agency
-LABO	LCRS	Swedish Environmental Protection Agency Laboratory for Coastal Research†	LCRS	NaturvÂrdsverket Kustlaboratorium†	Swedish Environmental Protection Agency Laboratory for Coastal Research†
-LABO	NWLS	Swedish Environmental Protection Agency NaturvÂrdsverkets Water Quality Laboratory†	NWLS	NaturvÂrdsverket Vattenkvalitetslaboratorium	Swedish Environmental Protection Agency Water Quality Laboratory†
+LABO	SEPA	Swedish Environmental Protection Agency<or>NV	SEPA	Naturv√•rdsverket	Swedish Environmental Protection Agency
+LABO	LCRS	Swedish Environmental Protection Agency Laboratory for Coastal Research¬†	LCRS	Naturv√•rdsverket Kustlaboratorium¬†	Swedish Environmental Protection Agency Laboratory for Coastal Research¬†
+LABO	NWLS	Swedish Environmental Protection Agency Naturv√•rdsverkets Water Quality Laboratory¬†	NWLS	Naturv√•rdsverket Vattenkvalitetslaboratorium	Swedish Environmental Protection Agency Water Quality Laboratory¬†
 LABO	NIRAS	Niras Sweden	NIRAS	NIRAS Sweden AB	NIRAS Sweden AB
 LABO	NACE		NACE	Nordisk Analyse Center	Nordisk Analyse Center
 LABO	NORKOM		NORKOM	Nordmalings kommun	Nordmaling Municipality
-LABO	NVSKK	Nordv‰stskÂnes KustvattenkommittÈ<or>Nordv‰stskÂnes KustvattenkomittÈ (NVSKK)<or>Nordv‰sskÂnes KustvattenkommittÈ (NVSKK)<or>Nordv‰stskÂnes KustvattenkomittÈ<or>Nordv‰stra SkÂnes KustvattenkommittÈ<or>Nordv‰stskÂnes kustvattenkommittÈ (NVSKK) 2000 och framÂt<or>Nordv‰stskÂnes kustvattenkommitte<or> Nordv‰stskÂnes Kustvattenkommitte	NVSKK	Nordv‰stskÂnes kustvattenkommittÈ	Coastal Committee of Nordv‰stra skÂne
-LABO	NRKKOM		NRKKOM	Norrkˆpings kommun	Norrkˆping Municipality
-LABO	NORTENER		NORTENER	Norrt‰lje Energi	Norrt‰lje Energy
-LABO	NORRTA	Norrt‰lje kommun Vatten- och avloppsavdelningen<or>NORRKOM	NORRTA	Norrt‰lje kommun	Norrt‰lje Municipality
-LABO	NORRVA	Norrt‰lje Vatten och Avfall AB	NORRVA	Norrt‰lje Vatten och Avfall AB	Norrt‰lje Water and Waste
-LABO	NYKOM		NYKOM	Nykˆping kommun	Nykˆping Municipality
-LABO	NYNASKOM	NYNAKOM	NYNASKOM	Nyn‰shamns kommun	Nyn‰shamn Municipality
+LABO	NVSKK	Nordv√§stsk√•nes Kustvattenkommitt√©<or>Nordv√§stsk√•nes Kustvattenkomitt√© (NVSKK)<or>Nordv√§ssk√•nes Kustvattenkommitt√© (NVSKK)<or>Nordv√§stsk√•nes Kustvattenkomitt√©<or>Nordv√§stra Sk√•nes Kustvattenkommitt√©<or>Nordv√§stsk√•nes kustvattenkommitt√© (NVSKK) 2000 och fram√•t<or>Nordv√§stsk√•nes kustvattenkommitte<or> Nordv√§stsk√•nes Kustvattenkommitte	NVSKK	Nordv√§stsk√•nes kustvattenkommitt√©	Coastal Committee of Nordv√§stra sk√•ne
+LABO	NRKKOM		NRKKOM	Norrk√∂pings kommun	Norrk√∂ping Municipality
+LABO	NORTENER		NORTENER	Norrt√§lje Energi	Norrt√§lje Energy
+LABO	NORRTA	Norrt√§lje kommun Vatten- och avloppsavdelningen<or>NORRKOM	NORRTA	Norrt√§lje kommun	Norrt√§lje Municipality
+LABO	NORRVA	Norrt√§lje Vatten och Avfall AB	NORRVA	Norrt√§lje Vatten och Avfall AB	Norrt√§lje Water and Waste
+LABO	NYKOM		NYKOM	Nyk√∂ping kommun	Nyk√∂ping Municipality
+LABO	NYNASKOM	NYNAKOM	NYNASKOM	Nyn√§shamns kommun	Nyn√§shamn Municipality
 LABO	OSKKOM		OSKKOM	Oskarshamns kommun	Oskarshamns Municipality
 LABO	OKGAB		OKGAB	Oskarshamns Kraftgrupp AB	Oskarshamn Nuclear Power Plant
 LABO	XXX		XXX	Ospecificerat	Unspecified
-LABO	OXEN		OXEN	Oxelˆ Energi	Oxelˆ Energy
-LABO	OXHAMN		OXHAMN	Oxelˆsund hamn	Oxelˆsund Harbor
-LABO	PAG		PAG	PAG Miljˆundersˆkningar	PAG Environmental Studies
-LABO	PELA	Pelagia Nature & Environment AB	PELA	Pelagia Miljˆkonsult AB	Pelagia Environmental consulting AB
-LABO	PIREVA		PIREVA	PiteÂ RenhÂllning och Vatten	PiteÂ Sanitation and Water
-LABO	PITKOM		PITKOM	PiteÂ kommun	PiteÂ Municipality
-LABO	PITREV	PiteÂ RenhÂllning och Vatten	PITREV	PiteÂ RenhÂllning och Vatten AB	PiteÂ RenhÂllning och Vatten AB
-LABO	RINGHALS	Ringhals AB k‰rnkraftverk	RINGHALS	Ringhals AB k‰rnkraftverk	Ringhals nuclear power plant
+LABO	OXEN		OXEN	Oxel√∂ Energi	Oxel√∂ Energy
+LABO	OXHAMN		OXHAMN	Oxel√∂sund hamn	Oxel√∂sund Harbor
+LABO	PAG		PAG	PAG Milj√∂unders√∂kningar	PAG Environmental Studies
+LABO	PELA	Pelagia Nature & Environment AB	PELA	Pelagia Milj√∂konsult AB	Pelagia Environmental consulting AB
+LABO	PIREVA		PIREVA	Pite√• Renh√•llning och Vatten	Pite√• Sanitation and Water
+LABO	PITKOM		PITKOM	Pite√• kommun	Pite√• Municipality
+LABO	PITREV	Pite√• Renh√•llning och Vatten	PITREV	Pite√• Renh√•llning och Vatten AB	Pite√• Renh√•llning och Vatten AB
+LABO	RINGHALS	Ringhals AB k√§rnkraftverk	RINGHALS	Ringhals AB k√§rnkraftverk	Ringhals nuclear power plant
 LABO	ROBKOM		ROBKOM	Robertsfors kommun	Robertsfors Municipality
-LABO	SCAP	SCA Packaging Munksund PiteÂ<or>SCA Munksund<or>SCA Munksund AB	SCAP	SCA Packaging	SCA Packaging
+LABO	SCAP	SCA Packaging Munksund Pite√•<or>SCA Munksund<or>SCA Munksund AB	SCAP	SCA Packaging	SCA Packaging
 LABO	SCILIFELAB		SCILIFELAB	Science for Life Laboratory	Science for Life Laboratory
-LABO	SGUS	SGUS	SGUS	Sveriges geologiska undersˆkning	Geological Survey of Sweden
+LABO	SGUS	SGUS	SGUS	Sveriges geologiska unders√∂kning	Geological Survey of Sweden
 LABO	SPLITT		SPLITT	Schweden Splitt AB	Schweden Splitt AB
 LABO	SERO	Sero A/S	SERO	Sero A/S	Sero A/S
-LABO	SKEKOM		SKEKOM	SkellefteÂ kommun	SkellefteÂ Municipality
-LABO	SKSJDA	Skog & Sjˆ i Dalarna	SKSJDA	Skog & Sjˆ i Dalarna	Skog & Sjˆ i Dalarna
-LABO	SKS		SKS	Sk‰rgÂrdsstiftelsen	The Archipelago Foundation
-LABO	SKKP	Smurfit Kappa Kraftliner<or>Smurfit Kappa Kraftliner PiteÂ<or>Smurfit Kappa Kraftliner AB	SKKP	Smurfit Kappa Kraftliner AB	Smurfit Kappa Kraftliner AB
+LABO	SKEKOM		SKEKOM	Skellefte√• kommun	Skellefte√• Municipality
+LABO	SKSJDA	Skog & Sj√∂ i Dalarna	SKSJDA	Skog & Sj√∂ i Dalarna	Skog & Sj√∂ i Dalarna
+LABO	SKS		SKS	Sk√§rg√•rdsstiftelsen	The Archipelago Foundation
+LABO	SKKP	Smurfit Kappa Kraftliner<or>Smurfit Kappa Kraftliner Pite√•<or>Smurfit Kappa Kraftliner AB	SKKP	Smurfit Kappa Kraftliner AB	Smurfit Kappa Kraftliner AB
 LABO	SOLLKOM	Kommunledningskontoret, Sollentuna kommun<or>Kommunledningskontoret Sollentuna kommun	SOLLKOM	Sollentuna kommun	Sollentuna Municipality
-LABO	SSAB	SSAB Europe LuleÂ	SSAB	SSAB	SSAB
+LABO	SSAB	SSAB Europe Lule√•	SSAB	SSAB	SSAB
 LABO	SVAB		SVAB	Stockholm Vatten AB	Stockholm Vatten AB
 LABO	STHS	Stockholm stad	STHS	Stockholms stad	The city of Stockholm
 LABO	DEEP	Stockholm University Systems Ecology<or>SUSE<or>IGSS<or>NSLS<or>Stockholm Universitet<or>DEEP	DEEP	Stockholms universitet	Stockholm University Department of Ecology Environment and Plant Sciences
 LABO	SMRC	Stockholm University Marina Forsknings center	SMRC	Stockholms universitets marina forskningscentrum	Stockholm University Marine Research Center
-LABO	SUBSC	Linda Kumblad, Stockholms universitets ÷stersjˆCentrum	SUBSC	Stockholms universitets ÷stersjˆcentrum	Stockholm University Baltic Sea Centre
-LABO	SVVF	SBVV<or>Sundsvallsbuktens VattenvÂrdsfˆrbund	SVVF	Sundsvallsbuktens vattenvÂrdsfˆrening	Sundsvallsbukten Coalition of Water Conservation
-LABO	SKVVF	Svealands KustvattenvÂrdsfˆrbund<or>Svealands KustvattenkommittÈ	SKVVF	Svealands kustvattenvÂrdsfˆrbund	Coastal Committee of Svealand
+LABO	SUBSC	Linda Kumblad, Stockholms universitets √ñstersj√∂Centrum	SUBSC	Stockholms universitets √ñstersj√∂centrum	Stockholm University Baltic Sea Centre
+LABO	SVVF	SBVV<or>Sundsvallsbuktens Vattenv√•rdsf√∂rbund	SVVF	Sundsvallsbuktens vattenv√•rdsf√∂rening	Sundsvallsbukten Coalition of Water Conservation
+LABO	SKVVF	Svealands Kustvattenv√•rdsf√∂rbund<or>Svealands Kustvattenkommitt√©	SKVVF	Svealands kustvattenv√•rdsf√∂rbund	Coastal Committee of Svealand
 LABO	SWECO	VBB Viak<or>SWECO<or>VBB-V<or>VBB	SWECO	SWECO	SWECO
-LABO	SVELAB		SVELAB	Svelab Miljˆlaboratorier AB	Svelab Miljˆlaboratorier AB
-LABO	SLCK	SLC-K<or>KMRS<or>KMFS<or>Sven LovÈn centrum fˆr marina vetenskaper-Kristineberg	SLCK	Sven LovÈn centrum fˆr marina vetenskaper-Kristineberg	The Sven LovÈn Centre for Marine Sciences-Kristineberg
-LABO	SLCT	SLC-T<or>University of Gutenburg Marine ecology Tj‰rnˆ<or>UGMET<or>UGBEST<or>TMBL<or>Sven lovÈn centrum fˆr marina vetenskaper-Tj‰rnˆ<or>Sven LovÈn centrum fˆr marina vetenskaper-Tj‰rnˆ<or>GUMET<or>IAMK	SLCT	Sven LovÈn centrum fˆr marina vetenskaper-Tj‰rnˆ	The Sven LovÈn Centre for Marine Sciences-Tj‰rnˆ
+LABO	SVELAB		SVELAB	Svelab Milj√∂laboratorier AB	Svelab Milj√∂laboratorier AB
+LABO	SLCK	SLC-K<or>KMRS<or>KMFS<or>Sven Lov√©n centrum f√∂r marina vetenskaper-Kristineberg	SLCK	Sven Lov√©n centrum f√∂r marina vetenskaper-Kristineberg	The Sven Lov√©n Centre for Marine Sciences-Kristineberg
+LABO	SLCT	SLC-T<or>University of Gutenburg Marine ecology Tj√§rn√∂<or>UGMET<or>UGBEST<or>TMBL<or>Sven lov√©n centrum f√∂r marina vetenskaper-Tj√§rn√∂<or>Sven Lov√©n centrum f√∂r marina vetenskaper-Tj√§rn√∂<or>GUMET<or>IAMK	SLCT	Sven Lov√©n centrum f√∂r marina vetenskaper-Tj√§rn√∂	The Sven Lov√©n Centre for Marine Sciences-Tj√§rn√∂
 LABO	SEK		SEK	Svensk Ekologiskonsult AB	Swedish Ecological Consultancy AB
 LABO	SGS		SGS	SGS Analytics Sweden	SGS Analytics Sweden
-LABO	SKB	SKBAB	SKB	Svensk K‰rnbr‰nslehantering AB	SKB ñ Swedish Nuclear Fuel and Waste Management Co
-LABO	SLU	SLU Uppsala Miljˆanalys<or>SLUUPP	SLU	Sveriges lantbruksuniversitet	Swedish University of Agricultural Sciences
-LABO	SLUA		SLUA	Sveriges lantbruksuniversitet Institutionen fˆr akvatiska resurser	Swedish University of Agricultural Sciences Department of Aquatic Resources
+LABO	SKB	SKBAB	SKB	Svensk K√§rnbr√§nslehantering AB	SKB ‚Äì Swedish Nuclear Fuel and Waste Management Co
+LABO	SLU	SLU Uppsala Milj√∂analys<or>SLUUPP	SLU	Sveriges lantbruksuniversitet	Swedish University of Agricultural Sciences
+LABO	SLUA		SLUA	Sveriges lantbruksuniversitet Institutionen f√∂r akvatiska resurser	Swedish University of Agricultural Sciences Department of Aquatic Resources
 LABO	SLUHL	Sveriges lantbruksuniversitet - Havsfiskelaboratoriet	SLUHL	Sveriges lantbruksuniversitet - Havsfiskelaboratoriet	Swedish University of Agricultural Sciences - Marine fisheries laboratory
 LABO	SMHI	SMHG<or>Sveriges meteorologiska och hydrologiska institut	SMHI	Sveriges meteorologiska och hydrologiska institut	Swedish Meteorological and Hydrological Institute
-LABO	SVA	Statens veterin‰rmedicinska anstalt<or>NVI	SVA	Statens veterin‰rmedicinska anstalt	National Veterinary Institute
+LABO	SVA	Statens veterin√§rmedicinska anstalt<or>NVI	SVA	Statens veterin√§rmedicinska anstalt	National Veterinary Institute
 LABO	SVVAEK		SVVAEK	Sveriges Vattenekologer AB	Sveriges Vattenekologer AB
-LABO	SYDVVF	Sydkustens VattenvÂrdsfˆrbund	SYDVVF	Sydkustens vattenvÂrdsfˆrbund	Sydkusten Coalition of Water Conservation
+LABO	SYDVVF	Sydkustens Vattenv√•rdsf√∂rbund	SYDVVF	Sydkustens vattenv√•rdsf√∂rbund	Sydkusten Coalition of Water Conservation
 LABO	SYNLAB		SYNLAB	SYNLAB Analytics & Services Sweden AB	SYNLAB Analytics & Services Sweden AB
-LABO	SYVAB		SYVAB	Sydv‰stra stockholmsregionens va-verk AB	Southwest Stockholm region waterwork
-LABO	VARO		VARO	Sˆdra Cell V‰rˆ massafabrik	Sodra Pulp Labs
-LABO	SOLVKOM		SOLVKOM	Sˆlvesborgs kommun	Sˆlvesborgs Municipality
+LABO	SYVAB		SYVAB	Sydv√§stra stockholmsregionens va-verk AB	Southwest Stockholm region waterwork
+LABO	VARO		VARO	S√∂dra Cell V√§r√∂ massafabrik	Sodra Pulp Labs
+LABO	SOLVKOM		SOLVKOM	S√∂lvesborgs kommun	S√∂lvesborgs Municipality
 LABO	TOXICO	Toxicon	TOXICO	Toxicon AB	Toxicon AB
 LABO	TRELKOM		TRELKOM	Trelleborgs Kommun	Trelleborg Municipality
-LABO	TASA		TASA	TÂng och SÂnt	TÂng och SÂnt
-LABO	TABYKOM	T‰by kommun Tekniska kontoret<or>T‰by kommun, Tekniska kontoret	TABYKOM	T‰by kommun	T‰by Municipality
-LABO	UVVVF	Ume/Vindel‰lvens vattenvÂrdsfˆrbund<or>Ume/Vindel‰lvens VattenvÂrdsfˆrbund	UVVVF	Ume- och Vindel‰lvens vattenvÂrdsfˆrbund	Ume- and Vindel‰lven Coalition of Water Conservation
-LABO	UMEKOM	UmeÂ kommun (UMEVA)	UMEKOM	UmeÂ kommun	UmeÂ Municipality
-LABO	UMSC	UmeÂ Universitet<or>UMF	UMSC	UmeÂ Universitet	UmeÂ University
-LABO	HGOT	Hˆgskolan pÂ Gotland<or>Gotland Hˆgskola	HGOT	Uppsala universitet Campus Gotland	Uppsala University Campus Gotland
+LABO	TASA		TASA	T√•ng och S√•nt	T√•ng och S√•nt
+LABO	TABYKOM	T√§by kommun Tekniska kontoret<or>T√§by kommun, Tekniska kontoret	TABYKOM	T√§by kommun	T√§by Municipality
+LABO	UVVVF	Ume/Vindel√§lvens vattenv√•rdsf√∂rbund<or>Ume/Vindel√§lvens Vattenv√•rdsf√∂rbund	UVVVF	Ume- och Vindel√§lvens vattenv√•rdsf√∂rbund	Ume- and Vindel√§lven Coalition of Water Conservation
+LABO	UMEKOM	Ume√• kommun (UMEVA)	UMEKOM	Ume√• kommun	Ume√• Municipality
+LABO	UMSC	Ume√• Universitet<or>UMF	UMSC	Ume√• Universitet	Ume√• University
+LABO	HGOT	H√∂gskolan p√• Gotland<or>Gotland H√∂gskola	HGOT	Uppsala universitet Campus Gotland	Uppsala University Campus Gotland
 LABO	ERKEN	Erkenlab<or>Erkenlaboratoriet	ERKEN	Uppsala universitet Erkenlab	Uppsala University, Erken laboratory
 LABO	UPPSTIFT	Upplandsstiftelsen	UPPSTIFT	Upplandsstiftelsen	The Uppland Foundation
 LABO	WATERS	WATERS - Marine Monitoring	WATERS	WATERS	WATERS
 LABO	VAFALL	Vattenfall AB	VAFALL	Vattenfall	Vattenfall
 LABO	VASYD		VASYD	VA SYD	VA SYD
-LABO	VLABMA		VLABMA	Vattenlaboratoriet Malmˆ	Waterlaboratory Malmˆ
+LABO	VLABMA		VLABMA	Vattenlaboratoriet Malm√∂	Waterlaboratory Malm√∂
 LABO	VMBOT	Vattenmyndigheten i Bottenviken	VMBOT	Vattenmyndigheten i Bottenviken	Bothnian Bay Water District Authority
-LABO	VHVVF	VVFVHB<or>VHVVF<or>V‰stra Hanˆbuktens VVF<or>V‰stra Hanˆbuktens vattenvÂrdsfˆrbund<or>V‰stra hanˆbuktens vattenvÂrdsfˆrbund<or>VHVF<or>VVFVHB<or>V‰stra Hanˆbuktens VVF<or>V‰stra Hanˆbuktens vattenvÂrdsfˆrbund<or>V‰stra hanˆbuktens vattenvÂrdsfˆrbund<or>Vvf fˆr v‰stra Hanˆbukten	VHVVF	VattenvÂrdsfˆrbundet fˆr v‰stra Hanˆbukten	V‰stra hanˆbukten Coalition of Water Conservation
-LABO	VARMKOM		VARMKOM	V‰rmdˆ kommun	V‰rmdˆ Municipality
+LABO	VHVVF	VVFVHB<or>VHVVF<or>V√§stra Han√∂buktens VVF<or>V√§stra Han√∂buktens vattenv√•rdsf√∂rbund<or>V√§stra han√∂buktens vattenv√•rdsf√∂rbund<or>VHVF<or>VVFVHB<or>V√§stra Han√∂buktens VVF<or>V√§stra Han√∂buktens vattenv√•rdsf√∂rbund<or>V√§stra han√∂buktens vattenv√•rdsf√∂rbund<or>Vvf f√∂r v√§stra Han√∂bukten	VHVVF	Vattenv√•rdsf√∂rbundet f√∂r v√§stra Han√∂bukten	V√§stra han√∂bukten Coalition of Water Conservation
+LABO	VARMKOM		VARMKOM	V√§rmd√∂ kommun	V√§rmd√∂ Municipality
 LABO	WEAQ	WEAQ HB<or>WEAQ AB	WEAQ	WEAQ AB	WEAQ AB
 LABO	VEOLIA	Veolia Water AB<or>Veolia Vatten AB	VEOLIA	Veolia	Veolia
 LABO	WSP		WSP	WSP Environmental	WSP Environmental
-LABO	VASKOM		VASKOM	V‰sterviks kommun	V‰sterviks Municipality
+LABO	VASKOM		VASKOM	V√§sterviks kommun	V√§sterviks Municipality
 LABO	YOLDIA	Yoldia Environmental Consulting AB (http://www.yoldia.se/)	YOLDIA	Yoldia Environmental Consulting AB	Yoldia Environmental Consulting AB
-LABO	ALFISK		ALFISK	≈lands Fiskfˆr‰dling AB	≈lands fiskfˆr‰dling
-LABO	OVVF	OVF<or>÷resunds VattenvÂrdsfˆrbund<or>÷tesunds VattenvÂrdsfˆrbund<or>÷VF<or>÷resunds VattenvÂrdsfˆrbund 2016 och framÂt<or>÷resund VattenvÂrdsfˆrbund<or>÷resunds VattenvÂrdsfˆrbund 2021 och framÂt<or>÷resunda VattenvÂrdsfˆrbund	OVVF	÷resunds vattenvÂrdsfˆrbund	÷resund Coalition of Water Conservation
-LABO	LVFVF	Ljusterˆ vatten och fiskevÂrdsfˆrening	LVFVF	Ljusterˆ vatten och fiskevÂrdsfˆrening	Ljusterˆ Fishing Conservation Association
-LABO	OKONS		OKONS	÷resundsbrokonsortiet	ÿresundsbro Konsortiet
-LABO	TYRFISK		TYRFISK	Tyresˆ FiskevÂrdsfˆrening	Tyresˆ FiskevÂrdsfˆrening
-LABO	TYRENS	TyrÈns	TYRENS	TyrÈns AB	TyrÈns AB
-LABO	OAKOM	OAKOM	OAKOM	÷sterÂkers kommun	÷sterÂkers Municipality
-LABO	OSTKOM	OSTKOM	OSTKOM	÷sthammars kommun	÷sthammar Municipality
+LABO	ALFISK		ALFISK	√Ölands Fiskf√∂r√§dling AB	√Ölands fiskf√∂r√§dling
+LABO	OVVF	OVF<or>√ñresunds Vattenv√•rdsf√∂rbund<or>√ñtesunds Vattenv√•rdsf√∂rbund<or>√ñVF<or>√ñresunds Vattenv√•rdsf√∂rbund 2016 och fram√•t<or>√ñresund Vattenv√•rdsf√∂rbund<or>√ñresunds Vattenv√•rdsf√∂rbund 2021 och fram√•t<or>√ñresunda Vattenv√•rdsf√∂rbund	OVVF	√ñresunds vattenv√•rdsf√∂rbund	√ñresund Coalition of Water Conservation
+LABO	LVFVF	Ljuster√∂ vatten och fiskev√•rdsf√∂rening	LVFVF	Ljuster√∂ vatten och fiskev√•rdsf√∂rening	Ljuster√∂ Fishing Conservation Association
+LABO	OKONS		OKONS	√ñresundsbrokonsortiet	√òresundsbro Konsortiet
+LABO	TYRFISK		TYRFISK	Tyres√∂ Fiskev√•rdsf√∂rening	Tyres√∂ Fiskev√•rdsf√∂rening
+LABO	TYRENS	Tyr√©ns	TYRENS	Tyr√©ns AB	Tyr√©ns AB
+LABO	OAKOM	OAKOM	OAKOM	√ñster√•kers kommun	√ñster√•kers Municipality
+LABO	OSTKOM	OSTKOM	OSTKOM	√ñsthammars kommun	√ñsthammar Municipality
 LABO	MPC		MPC	Marine Phytoplankton Consulting	Marine Phytoplankton Consulting
 LABO	SCFJ	SCFJ	SCFJ	Scanfjord	Scanfjord
 LABO	LYOSMU	LYOSMU<or>Adriaan van de Plasse	LYOSMU	Lysekils Ostron och Musslor	Lysekils Oysters and Mussels
-LABO	KALOS	KALOS	KALOS	Kalvˆ Ostron	Kalvˆ Oyster
-LABO	VASTMU	VASTMU	VASTMU	V‰stkustmusslor	West Coast Mussels
+LABO	KALOS	KALOS	KALOS	Kalv√∂ Ostron	Kalv√∂ Oyster
+LABO	VASTMU	VASTMU	VASTMU	V√§stkustmusslor	West Coast Mussels
 LABO	ORSHEL	ORSHEL	ORSHEL	Orust Shellfish AB	Orust Shellfish AB
 LABO	HALHAM	Halmstad hamn	HALHAM	Halmstad hamn AB	Halmstad hamn AB
 LABO	DANNF	Dannes Firma (Dan Evander)<or>Dannes Firma 	DANNF	Dannes Firma	Dannes Firma
@@ -245,369 +245,369 @@ LABO	ESGV	varbergs flygplats<or>varberg flygplats	ESGV	Varbergs flygplats	Airpor
 LABO	GRYAAB		GRYAAB	Gryaab AB	Gryaab AB
 LABO	NIVA		NIVA	Norsk institutt for vannforskning	Norwegian Institute for Water Research
 LABO	ECOP	Ecopelag<or>Ecopelag MK/MR	ECOP	Ecopelag	Ecopelag
-LABO	HFVOF	Hasselˆ FVOF	HFVOF	Hasselˆ FVOF	Hasselˆ FVOF
+LABO	HFVOF	Hassel√∂ FVOF	HFVOF	Hassel√∂ FVOF	Hassel√∂ FVOF
 LABO	JADYK	Jan Anderssons dykeri	JADYK	Jan Anderssons dykeri	Jan Anderssons dykeri
 LABO	VBCO	Vattenbrukscentrum ost	VBCO	Vattenbrukscentrum ost	Vattenbrukscentrum ost
-project	HIST Bornˆ h‰ngbro	BORN÷<or>BNO<or>HIST_Bornˆ_h‰ngbro	BNO	HIST Bornˆ h‰ngbro	Bornˆ bridge sampling
+project	HIST Born√∂ h√§ngbro	BORN√ñ<or>BNO<or>HIST_Born√∂_h√§ngbro	BNO	HIST Born√∂ h√§ngbro	Born√∂ bridge sampling
 project	HIST Fyrskepp	FYR<or>HIST_Fyrskepp	FYR	HIST Fyrskepp	Lightship
 project	HIST Havsfiskelaboratoriet Lysekil	LYS<or>HIST_Havsfiskelaboratoriet_Lysekil	LYS	HIST Havsfiskelaboratoriet Lysekil	Marine fisheries laboratory in Lysekil
-project	NAT Algˆvervakning	ALG	ALG	NAT Algˆvervakning	Algae monitoring
+project	NAT Alg√∂vervakning	ALG	ALG	NAT Alg√∂vervakning	Algae monitoring
 project	NAT Artikel_8	AR8	AR8	NAT Artikel_8	Article_8
 project	NAT Atlanto Scandian Herring	ATL.-SCA. HERRING<or>ASH<or>PROJ_Atlanto_Scandian_Herring	ASH	NAT Atlanto Scandian Herring	Atlanto-Scandian Herring
 project	NAT Baltic International Acoustic Surveys BIAS	EKOINTEG.<or>EKO<or>PROJ_Baltic_International_Acoustic_Surveys_BIAS	EKO	NAT Baltic International Acoustic Surveys BIAS	Baltic International Acustic Survey (BIAS)
 project	NAT Baltic International Trawl Survey BITS	TORSKUNDERS.<or>COD<or>PROJ_Baltic International_Trawl_Survey_BITS	COD	NAT Baltic International Trawl Survey BITS	Baltic International Trawl Survey (BITS)
-project	NAT Baltic Monitoring Progr	BMP<or>Baltic Monitoring Program BMP Bottniska viken	BMP	NAT ÷stersjˆns ˆvervakningsprogram	Baltic Monitoring Progr
+project	NAT Baltic Monitoring Progr	BMP<or>Baltic Monitoring Program BMP Bottniska viken	BMP	NAT √ñstersj√∂ns √∂vervakningsprogram	Baltic Monitoring Progr
 project	NAT Gavik KKP	GAV	GAV	NAT Gavik KKP	NAT Coordinated recipient monitoring of Gavik
 project	NAT GOV kalibrering Argos Ancylus	GOV-KALIBR. AR-NC<or>GOV<or>PROJ_GOV_kalibrering_Argos_Ancylus	GOV	NAT GOV kalibrering Argos Ancylus	GOV-calibration R/V Argos- R/V Ancylus
 project	NAT International Bottom Trawl Survey IBTS	INT. BOTTOM TRAWL SURV.<or>IBT<or>PROJ_International_Bottom_Trawl_Survey_IBTS	IBT	NAT International Bottom Trawl Survey IBTS	International Bottom Trawl Survey (IBTS)
 project	NAT International Young Fish Survey IYFS	INT. YOUNG FISH SURV.<or>IYF<or>PROJ_International_Young_Fish_Survey_IYFS	IYF	NAT International Young Fish Survey IYFS	International Young Fish Survey
 project	NAT Nationell BasVerksamhet	BAS	BAS	NAT Nationell BasVerksamhet	National Base Activity
-project	NAT Nationell miljˆˆvervakning	Nationella programmet Egentliga ÷stersjˆn<or>Nationella programmet Bottniska Viken frÂn 2015<or>Nationella programmet Egentliga ÷stersjˆn<or>Nationell provtagning<or>M÷P<or>BALTIC MON. PROG.<or>MAKROF. MJUKB. BOTTN. VIK.<or>NATL. PROG. BOTTN. VIK. 1998<or>Nationella programmet Bottniska Viken frÂn 1998<or>PELAG. KEMI+BIOL. BOTTN. VIK.<or>PELAG. KEMI+BIOL. BOTTN. VIK.<or>PELAG. KEMI+BIOL. EG. ÷STERSJ.<or>MAKROF. MJUKB. EG. ÷STERSJ.<or>PELAG EG ÷STERSJ<or>PELAG. KEMI+BIOL. EG. ÷SJ.+VƒSTERHAV.<or>PELAG. KEMI+BIOL.EG.÷SJ.+VƒSTERHAV<or>PELAG. KEMI+BIOL.EG.÷SJ.+VƒSTERHAV.<or>GR≈SƒL<or>VEG.KLƒDDA BOTTNAR KATTEG.<or>SVENSKA KUSTBV.<or>NATL MARBIO MILJ÷÷V<or>VEG.KLƒDDA BOTTNAR SKAGER.<or>SMHI BASVERK.<or>SƒL-PATOLOGI<or>VIKARE<or>MAKROF. MJUKB. VƒSTERHAV.<or>PELAG. KEMI+BIOL. VƒSTERHAV.<or>PELAG. KEMI+BIOL. VƒSTERHAVET<or>PELAG.KEMI+BIOL. VƒSTERHAVET<or>Nationellt och regionalt program V‰sterhavet frÂn 2002<or>VEG.KLƒDDA BOTTNAR ÷STERSJ.<or>GAVIK. KUSTK.PROG.<or>R≈NE≈F. KUSTK.PROG.<or>Nationell miljˆˆvervakning<or>Baltic Monitoring Program<or>Baltic_Monitoring_Program<or>Baltic Monitoring Program, 1989<or>Nationella programmet Bottniska Viken frÂn 2015<or>Nationella programmet Egentliga ÷stersjˆn, Utsjˆn 2007-<or>†Nationell miljˆˆvervakning -Kust och hav -Vegetationskl‰dda bottnar, trend- och omrÂdesˆvervakning - V‰sterhavet-Kattegatt<or>†Nationell miljˆˆvervakning -Kust och hav -Vegetationskl‰dda bottnar - V‰sterhavet-Kattegatt<or>†Nationell trendˆvervakning av vegetationskl‰dda bottnar i Blekinge<or>†Nationell ˆvervakning vid Askˆ<or>Nationell ˆvervakning vid Gotland<or>NAT Nationell miljˆˆvervakning, NAT Nationell miljˆˆvervakning<or>NAT Nationell miljˆˆvervakning, Utsjˆn 2007-<or>Nationell miljˆˆvervakning -Kust och hav -Vegetationskl‰dda bottnar - V‰sterhavet-Kattegatt<or>Nationell miljˆˆvervakning -Kust och hav -Vegetationskl‰dda bottnar, trend- och omrÂdesˆvervakning - V‰sterhavet-Kattegatt<or>Nationell trendˆvervakning av vegetationskl‰dda bottnar i Blekinge<or>Nationell ˆvervakning vid Askˆ<or>Nationell ˆvervakning vid Gotland<or>Nationella programmet Bottniska Viken frÂn 2015<or>Vikare<or>NAT Askˆ<or>Nationellt program Egentliga ÷stersjˆn, UtsjˆomrÂden, 2016-<or>Manetˆvervakning_Sl‰ggˆ_Gullmarsfjorden<or>NAT Manetˆvervakning<or>KNUBBSƒL<or>NAT Nationell miljˆˆvervakning Knubbs‰l<or> kNUBBSƒL<or>Askˆ, Nationell-Regional ˆvervakning, 2007-<or>Nationella programmet Egentliga ÷stersjˆn, regional<or>NAT<or>Pelagial biologi Bottniska viken<or>NATL<or>Nationell marin miljˆˆvervakning<or>a_Nationell miljˆˆvervakning mjukbotten, 2016-<or>Regional och Nationell marin miljˆˆvervakning i V‰sternorrlands l‰n<or>Askˆ, Nationella programmet Egentliga ÷stersjˆn, intensiv Askˆ. 1971-2006<or>Nationella Baltic Monitoring Programme, BMP, 1979-2006<or>Nationella programmet Egentliga ÷stersjˆn, 1971/76-2006<or>Vikare <or>Gr‰sˆ-Singˆ, Mats Waerns lokaler<or>Nationellt program Egentliga ÷stersjˆn, UtsjˆomrÂden<or> Askˆ, Nationell-Regional ˆvervakning<or> Samordnad regional och nationell miljˆˆvervakning pÂ v‰stkusten<or>Nationell miljˆˆvervakning pÂ V‰stkusten<or>Nationell M÷ mjukbotten sydostsverige, 2016-<or>Pmk extra 2011<or>NAT Nationell ˆvervakning vid Askˆ<or>NAT Nationell ˆvervakning vid Gotland<or>Samordnad regional och nationell miljˆˆvervakning pÂ v‰stkusten frÂn 2017<or>Nationella programmet Bottniska Viken stationsurvalsundersˆkning 1995 - 1997<or>Nationella programmet Bottniska Viken, intensivprogram i NorrbyomrÂdet fram till 1997<or>Nationella programmet Bottniska Viken, regionalprogram fram till 1994<or>NATL Singˆ<or>NATL Askˆ - MjukbottenNATL Askˆ - Mjukbotten<or>NATL Askˆ<or>NATL Askˆ - Mjukbotten NATL Askˆ - Mjukbotten<or>NATL Askˆ - Mjukbotten station 37<or>NATL Askˆ	NAT	NAT Nationell miljˆˆvervakning	National marine monitoring
+project	NAT Nationell milj√∂√∂vervakning	Nationella programmet Egentliga √ñstersj√∂n<or>Nationella programmet Bottniska Viken fr√•n 2015<or>Nationella programmet Egentliga √ñstersj√∂n<or>Nationell provtagning<or>M√ñP<or>BALTIC MON. PROG.<or>MAKROF. MJUKB. BOTTN. VIK.<or>NATL. PROG. BOTTN. VIK. 1998<or>Nationella programmet Bottniska Viken fr√•n 1998<or>PELAG. KEMI+BIOL. BOTTN. VIK.<or>PELAG. KEMI+BIOL. BOTTN. VIK.<or>PELAG. KEMI+BIOL. EG. √ñSTERSJ.<or>MAKROF. MJUKB. EG. √ñSTERSJ.<or>PELAG EG √ñSTERSJ<or>PELAG. KEMI+BIOL. EG. √ñSJ.+V√ÑSTERHAV.<or>PELAG. KEMI+BIOL.EG.√ñSJ.+V√ÑSTERHAV<or>PELAG. KEMI+BIOL.EG.√ñSJ.+V√ÑSTERHAV.<or>GR√ÖS√ÑL<or>VEG.KL√ÑDDA BOTTNAR KATTEG.<or>SVENSKA KUSTBV.<or>NATL MARBIO MILJ√ñ√ñV<or>VEG.KL√ÑDDA BOTTNAR SKAGER.<or>SMHI BASVERK.<or>S√ÑL-PATOLOGI<or>VIKARE<or>MAKROF. MJUKB. V√ÑSTERHAV.<or>PELAG. KEMI+BIOL. V√ÑSTERHAV.<or>PELAG. KEMI+BIOL. V√ÑSTERHAVET<or>PELAG.KEMI+BIOL. V√ÑSTERHAVET<or>Nationellt och regionalt program V√§sterhavet fr√•n 2002<or>VEG.KL√ÑDDA BOTTNAR √ñSTERSJ.<or>GAVIK. KUSTK.PROG.<or>R√ÖNE√ÖF. KUSTK.PROG.<or>Nationell milj√∂√∂vervakning<or>Baltic Monitoring Program<or>Baltic_Monitoring_Program<or>Baltic Monitoring Program, 1989<or>Nationella programmet Bottniska Viken fr√•n 2015<or>Nationella programmet Egentliga √ñstersj√∂n, Utsj√∂n 2007-<or>¬†Nationell milj√∂√∂vervakning -Kust och hav -Vegetationskl√§dda bottnar, trend- och omr√•des√∂vervakning - V√§sterhavet-Kattegatt<or>¬†Nationell milj√∂√∂vervakning -Kust och hav -Vegetationskl√§dda bottnar - V√§sterhavet-Kattegatt<or>¬†Nationell trend√∂vervakning av vegetationskl√§dda bottnar i Blekinge<or>¬†Nationell √∂vervakning vid Ask√∂<or>Nationell √∂vervakning vid Gotland<or>NAT Nationell milj√∂√∂vervakning, NAT Nationell milj√∂√∂vervakning<or>NAT Nationell milj√∂√∂vervakning, Utsj√∂n 2007-<or>Nationell milj√∂√∂vervakning -Kust och hav -Vegetationskl√§dda bottnar - V√§sterhavet-Kattegatt<or>Nationell milj√∂√∂vervakning -Kust och hav -Vegetationskl√§dda bottnar, trend- och omr√•des√∂vervakning - V√§sterhavet-Kattegatt<or>Nationell trend√∂vervakning av vegetationskl√§dda bottnar i Blekinge<or>Nationell √∂vervakning vid Ask√∂<or>Nationell √∂vervakning vid Gotland<or>Nationella programmet Bottniska Viken fr√•n 2015<or>Vikare<or>NAT Ask√∂<or>Nationellt program Egentliga √ñstersj√∂n, Utsj√∂omr√•den, 2016-<or>Manet√∂vervakning_Sl√§gg√∂_Gullmarsfjorden<or>NAT Manet√∂vervakning<or>KNUBBS√ÑL<or>NAT Nationell milj√∂√∂vervakning Knubbs√§l<or> kNUBBS√ÑL<or>Ask√∂, Nationell-Regional √∂vervakning, 2007-<or>Nationella programmet Egentliga √ñstersj√∂n, regional<or>NAT<or>Pelagial biologi Bottniska viken<or>NATL<or>Nationell marin milj√∂√∂vervakning<or>a_Nationell milj√∂√∂vervakning mjukbotten, 2016-<or>Regional och Nationell marin milj√∂√∂vervakning i V√§sternorrlands l√§n<or>Ask√∂, Nationella programmet Egentliga √ñstersj√∂n, intensiv Ask√∂. 1971-2006<or>Nationella Baltic Monitoring Programme, BMP, 1979-2006<or>Nationella programmet Egentliga √ñstersj√∂n, 1971/76-2006<or>Vikare <or>Gr√§s√∂-Sing√∂, Mats Waerns lokaler<or>Nationellt program Egentliga √ñstersj√∂n, Utsj√∂omr√•den<or> Ask√∂, Nationell-Regional √∂vervakning<or> Samordnad regional och nationell milj√∂√∂vervakning p√• v√§stkusten<or>Nationell milj√∂√∂vervakning p√• V√§stkusten<or>Nationell M√ñ mjukbotten sydostsverige, 2016-<or>Pmk extra 2011<or>NAT Nationell √∂vervakning vid Ask√∂<or>NAT Nationell √∂vervakning vid Gotland<or>Samordnad regional och nationell milj√∂√∂vervakning p√• v√§stkusten fr√•n 2017<or>Nationella programmet Bottniska Viken stationsurvalsunders√∂kning 1995 - 1997<or>Nationella programmet Bottniska Viken, intensivprogram i Norrbyomr√•det fram till 1997<or>Nationella programmet Bottniska Viken, regionalprogram fram till 1994<or>NATL Sing√∂<or>NATL Ask√∂ - MjukbottenNATL Ask√∂ - Mjukbotten<or>NATL Ask√∂<or>NATL Ask√∂ - Mjukbotten NATL Ask√∂ - Mjukbotten<or>NATL Ask√∂ - Mjukbotten station 37<or>NATL Ask√∂	NAT	NAT Nationell milj√∂√∂vervakning	National marine monitoring
 project	NAT Nationell marin kartering	NMK	NMK	NAT Nationell marin kartering	National marine mapping
-project	NAT Nationell miljˆˆvervakning extra provtagning	EXT<or>Nationell miljˆˆvervakning extra provtagning	EXT	NAT Nationell miljˆˆvervakning extra provtagning	National monitoring extra sampling
+project	NAT Nationell milj√∂√∂vervakning extra provtagning	EXT<or>Nationell milj√∂√∂vervakning extra provtagning	EXT	NAT Nationell milj√∂√∂vervakning extra provtagning	National monitoring extra sampling
 project	NAT Oslo-Paris Commission	OPC	OPC	NAT Oslo-Paris Commission	Oslo-Paris Commission
 project	NAT SYKEs BasVerksamhet	SYK	SYK	NAT SYKEs BasVerksamhet	SYKEs Base Activity
-project	PROJ Utsjˆprovtagningar Algprognos och Algtoxiner		ALGX	PROJ Utsjˆprovtagningar Algprognos och Algtoxiner	Open water Algae forcast Algae toxins
+project	PROJ Utsj√∂provtagningar Algprognos och Algtoxiner		ALGX	PROJ Utsj√∂provtagningar Algprognos och Algtoxiner	Open water Algae forcast Algae toxins
 project	PROJ Gotlandsprovtagningar Algprognos och Algtoxiner		ALGG	PROJ Gotlandsprovtagningar Algprognos och Algtoxiner	Gotland Algae forcast Algae toxins
-project	PROJ Alsb‰ck forskningsdata	FORSKNING ALSBƒCK<or>PROJ_Alsb‰ck_forskningsdata	ALF	PROJ Alsb‰ck forskningsdata	Research data from the Gullmars fjord,  Alsb‰ck
+project	PROJ Alsb√§ck forskningsdata	FORSKNING ALSB√ÑCK<or>PROJ_Alsb√§ck_forskningsdata	ALF	PROJ Alsb√§ck forskningsdata	Research data from the Gullmars fjord,  Alsb√§ck
 project	PROJ Automatisk Kasun Boj	AUTOM. KASUN/BOJ<or>AUT<or>PROJ_Automatisk_Kasun_Boj	AUT	PROJ Automatisk Kasun Boj	Automatic Kasun/Buoy
 project	PROJ Baltic Open Sea Experiment	BALT O. SEA EXPMNT.<or>BEX<or>PROJ_Baltic_Open_Sea_Experiment 	BEX	PROJ Baltic Open Sea Experiment	Baltic Open Sea Experiment
 project	PROJ Bank kartering vindkraft	KART. VINDK.<or>BNK<or>PROJ_Bank_kartering_vindkraft	BNK	PROJ Bank kartering vindkraft	Survey of offshore bank, wind turbines.
-project	PROJ Basinventering	Basinventering av Fj‰rdlÂngs och Huvudsk‰rs Natura 2000 omrÂden<or>Basinventering av Natura 2000 omrÂden i V‰sterbottens l‰n<or>Basinventering av Sundby naturreservat<or><or>Basinventering i Stockholms l‰n<or>Basinventering i V‰sternorrlands l‰n<or>Basinventeringen i Kalmar L‰n<or>Basinventeringen i ÷stergˆtland <or>Marin basinventering 2007, V‰sternorrlands l‰n<or>Sˆdermanland naturv‰rdesinventering och basinventering<or>Marin basinventering i SkÂne L‰n<or>Hj‰lmˆ-LÂdna naturreservat, Stockholms l‰n - basinventering<or>H‰lsingeholmarna, Stockholms l‰n: Basinventering.<or>Basinventering i Kalmar l‰n	BAI	PROJ Basinventering	Base inventory
+project	PROJ Basinventering	Basinventering av Fj√§rdl√•ngs och Huvudsk√§rs Natura 2000 omr√•den<or>Basinventering av Natura 2000 omr√•den i V√§sterbottens l√§n<or>Basinventering av Sundby naturreservat<or><or>Basinventering i Stockholms l√§n<or>Basinventering i V√§sternorrlands l√§n<or>Basinventeringen i Kalmar L√§n<or>Basinventeringen i √ñsterg√∂tland <or>Marin basinventering 2007, V√§sternorrlands l√§n<or>S√∂dermanland naturv√§rdesinventering och basinventering<or>Marin basinventering i Sk√•ne L√§n<or>Hj√§lm√∂-L√•dna naturreservat, Stockholms l√§n - basinventering<or>H√§lsingeholmarna, Stockholms l√§n: Basinventering.<or>Basinventering i Kalmar l√§n	BAI	PROJ Basinventering	Base inventory
 project	PROJ Bottenhavet pelagisk verifikation	PELAG. VERIF. BOTTENH.<or>Lst X<or>PBX<or>PROJ_Bottenhavet_pelagisk_verifikation	PBX	PROJ Bottenhavet pelagisk verifikation	Pelagic verification Bothnian Sea
-project	PROJ Bottenviken pelagial m‰tkampanj	MƒTKAMP. PELAG. 2010 BOTTENV.<or>Lst Norrland<or>PBH<or>PROJ_Bottenviken_pelagial_m‰tkampanj	PBH	PROJ Bottenviken pelagial m‰tkampanj	Sampling campaign pelagic 2010  Bothnian Bay
-project	PROJ V‰sternorrland m‰tkampanjen	M‰tkampanjen i V‰sternorrland 2018<or>M‰tkampanjen i V‰sternorrland 2015	PYM	PROJ V‰sternorrland pelagial m‰tkampanj	Sampling campaign pelagic County Administration Board of V‰sternorrland
+project	PROJ Bottenviken pelagial m√§tkampanj	M√ÑTKAMP. PELAG. 2010 BOTTENV.<or>Lst Norrland<or>PBH<or>PROJ_Bottenviken_pelagial_m√§tkampanj	PBH	PROJ Bottenviken pelagial m√§tkampanj	Sampling campaign pelagic 2010  Bothnian Bay
+project	PROJ V√§sternorrland m√§tkampanjen	M√§tkampanjen i V√§sternorrland 2018<or>M√§tkampanjen i V√§sternorrland 2015	PYM	PROJ V√§sternorrland pelagial m√§tkampanj	Sampling campaign pelagic County Administration Board of V√§sternorrland
 project	PROJ Bottenviken pelagisk verifikation	PELAG. VERIF. BOTTENV.<or>Lst X<or>PBV<or>PROJ_Bottenviken_pelagisk_verifikation	PBV	PROJ Bottenviken pelagisk verifikation	Pelagic verification Bothnian Bay
-project	PROJ Bottniska viken Âret	BOTTNV. ≈RET<or>BVO<or>PROJ_Bottniska_viken_Âret	BVO	PROJ Bottniska viken Âret	Gulf of Bothnia year (1991)
-project	PROJ Bottniska viken ˆverenskommelsen	BOTTNV. ÷VEREK.<or>BVI<or>PROJ_Bottniska_viken_ˆverenskommelsen 	BVI	PROJ Bottniska viken ˆverenskommelsen	Gulf of Bothnia agreement
+project	PROJ Bottniska viken √•ret	BOTTNV. √ÖRET<or>BVO<or>PROJ_Bottniska_viken_√•ret	BVO	PROJ Bottniska viken √•ret	Gulf of Bothnia year (1991)
+project	PROJ Bottniska viken √∂verenskommelsen	BOTTNV. √ñVEREK.<or>BVI<or>PROJ_Bottniska_viken_√∂verenskommelsen 	BVI	PROJ Bottniska viken √∂verenskommelsen	Gulf of Bothnia agreement
 project	PROJ Brofjorden	BROFJ.PROJ.<or>BRO<or>PROJ_Brofjorden	BRO	PROJ Brofjorden	The Brofjorden project
 project	PROJ Byfjorden BOX	GUB<or>PROJ_Byfjorden_BOX<or>Forskningsdata BOX-projektet 2009-2012	GUB	PROJ Byfjorden BOX	Byfjorden BOX-project
-project	PROJ DNA-streckkodning av marina v‰xtplankton	DNA-streckkodning<or>DNA<or>PROJ_DNA	DNA	PROJ DNA-streckkodning av marina v‰xtplankton	DNA-metabarcoding of marine phytoplankton
+project	PROJ DNA-streckkodning av marina v√§xtplankton	DNA-streckkodning<or>DNA<or>PROJ_DNA	DNA	PROJ DNA-streckkodning av marina v√§xtplankton	DNA-metabarcoding of marine phytoplankton
 project	PROJ DIAMIX	DIAMIX-PROJ.<or>DMX<or>PROJ_DIAMIX	DMX	PROJ DIAMIX	DIAMIX
 project	PROJ Digital Twin Ocean - BioFlow		DTO	PROJ Digital Twin Ocean - BioFlow	Digital Twin Ocean - BioFlow
-project	PROJ Eg ˆstersjˆn pelagial m‰tkampanj	MƒTKAMP. PELAG. 2010 NORRA ÷STERSJ.<or>PROJ_Eg_ˆstersjˆn_pelagial_m‰tkampanj	OPM	PROJ Eg ˆstersjˆn pelagial m‰tkampanj	Sampling campaign pelagic 2010  Baltic Proper
-project	PROJ Enningsdals‰lven INTERREG	INTERREG ENNINGDALSƒLVEN<or>PROJ_Enningsdals‰lven_INTERREG	ENN	PROJ Enningsdals‰lven INTERREG	Interregproject Enningdals‰lven
-project	PROJ Ferrybox Transpaper och Color Fantasy	VƒXTPL. FERRYB.<or>PROJ_Ferrybox_Transpaper<or>PROJ Transpaper<or>TRANSPAPER<or>Transpaper<or>PROJ_Transpaper<or>PROJ Ferrybox Transpaper<or>PROJ Ferrybox ColorFantasy	TRA	PROJ Ferrybox Transpaper och Color Fantasy	Ferrybox Transpaper and Color Fantasy
-project	PROJ Gotland pelagial m‰tkampanj	MƒTKAMP. PELAG. 2010<or>PROJ_Gotland_pelagial_m‰tkampanj	GPM	PROJ Gotland pelagial m‰tkampanj	Sampling campaign pelagic 2010  County Administration Board of Gotland
+project	PROJ Eg √∂stersj√∂n pelagial m√§tkampanj	M√ÑTKAMP. PELAG. 2010 NORRA √ñSTERSJ.<or>PROJ_Eg_√∂stersj√∂n_pelagial_m√§tkampanj	OPM	PROJ Eg √∂stersj√∂n pelagial m√§tkampanj	Sampling campaign pelagic 2010  Baltic Proper
+project	PROJ Enningsdals√§lven INTERREG	INTERREG ENNINGDALS√ÑLVEN<or>PROJ_Enningsdals√§lven_INTERREG	ENN	PROJ Enningsdals√§lven INTERREG	Interregproject Enningdals√§lven
+project	PROJ Ferrybox Transpaper och Color Fantasy	V√ÑXTPL. FERRYB.<or>PROJ_Ferrybox_Transpaper<or>PROJ Transpaper<or>TRANSPAPER<or>Transpaper<or>PROJ_Transpaper<or>PROJ Ferrybox Transpaper<or>PROJ Ferrybox ColorFantasy	TRA	PROJ Ferrybox Transpaper och Color Fantasy	Ferrybox Transpaper and Color Fantasy
+project	PROJ Gotland pelagial m√§tkampanj	M√ÑTKAMP. PELAG. 2010<or>PROJ_Gotland_pelagial_m√§tkampanj	GPM	PROJ Gotland pelagial m√§tkampanj	Sampling campaign pelagic 2010  County Administration Board of Gotland
 project	PROJ Gotlands grunda vikar	Lst Gotland & NV<or>GGV<or>PROJ_Gotlands_grunda_vikar	GGV	PROJ Gotlands grunda vikar	Gotlands shallow bays
-project	PROJ Grunda vikar	Basinventering av skyddade grunda marina miljˆer, V‰sterbottens l‰n	GVI	PROJ Grunda vikar	Shallow bays
-project	PROJ Grunda vikar	Basinventering i Blekinge L‰n	GVI	PROJ Grunda vikar	Shallow bays
-project	PROJ Grunda vikar	Basinventering av grunda marina omrÂden i AB l‰n	GVI	PROJ Grunda vikar	Shallow bays
-project	PROJ Grunda vikar	Basinventering av grunda marina omrÂden i AB l‰n 2008	GVI	PROJ Grunda vikar	Shallow bays
+project	PROJ Grunda vikar	Basinventering av skyddade grunda marina milj√∂er, V√§sterbottens l√§n	GVI	PROJ Grunda vikar	Shallow bays
+project	PROJ Grunda vikar	Basinventering i Blekinge L√§n	GVI	PROJ Grunda vikar	Shallow bays
+project	PROJ Grunda vikar	Basinventering av grunda marina omr√•den i AB l√§n	GVI	PROJ Grunda vikar	Shallow bays
+project	PROJ Grunda vikar	Basinventering av grunda marina omr√•den i AB l√§n 2008	GVI	PROJ Grunda vikar	Shallow bays
 project	PROJ Grunda vikar	Basinventering_BD	GVI	PROJ Grunda vikar	Shallow bays
-project	PROJ Grunda vikar	Naturv‰rdesinventering_BD	GVI	PROJ Grunda vikar	Shallow bays
-project	PROJ Grunda vikar	Regional miljˆˆvervakning D-l‰n 2004	GVI	PROJ Grunda vikar	Shallow bays
-project	PROJ Grunda vikar	Regional miljˆˆvervakning D-l‰n 2006	GVI	PROJ Grunda vikar	Shallow bays
-project	PROJ Grunda vikar	Regional miljˆˆvervakning D-l‰n 2007	GVI	PROJ Grunda vikar	Shallow bays
-project	PROJ Grunda vikar	Regional miljˆˆvervakning D-l‰n 2008	GVI	PROJ Grunda vikar	Shallow bays
-project	PROJ Grunda vikar	Regional miljˆˆvervakning D-l‰n 2005	GVI	PROJ Grunda vikar	Shallow bays
-project	PROJ Grunda vikar	Basinventeringen i ÷stergˆtlands l‰n 2008	GVI	PROJ Grunda vikar	Shallow bays
-project	PROJ Grunda vikar	Basinventeringen i ÷stergˆtland 2005	GVI	PROJ Grunda vikar	Shallow bays
-project	PROJ Grunda vikar	Basinventering Gotlands l‰n	GVI	PROJ Grunda vikar	Shallow bays
-project	PROJ Grunda vikar	MellanÂrsvariationer av undervattensvegetation i Blekinge	GVI	PROJ Grunda vikar	Shallow bays
+project	PROJ Grunda vikar	Naturv√§rdesinventering_BD	GVI	PROJ Grunda vikar	Shallow bays
+project	PROJ Grunda vikar	Regional milj√∂√∂vervakning D-l√§n 2004	GVI	PROJ Grunda vikar	Shallow bays
+project	PROJ Grunda vikar	Regional milj√∂√∂vervakning D-l√§n 2006	GVI	PROJ Grunda vikar	Shallow bays
+project	PROJ Grunda vikar	Regional milj√∂√∂vervakning D-l√§n 2007	GVI	PROJ Grunda vikar	Shallow bays
+project	PROJ Grunda vikar	Regional milj√∂√∂vervakning D-l√§n 2008	GVI	PROJ Grunda vikar	Shallow bays
+project	PROJ Grunda vikar	Regional milj√∂√∂vervakning D-l√§n 2005	GVI	PROJ Grunda vikar	Shallow bays
+project	PROJ Grunda vikar	Basinventeringen i √ñsterg√∂tlands l√§n 2008	GVI	PROJ Grunda vikar	Shallow bays
+project	PROJ Grunda vikar	Basinventeringen i √ñsterg√∂tland 2005	GVI	PROJ Grunda vikar	Shallow bays
+project	PROJ Grunda vikar	Basinventering Gotlands l√§n	GVI	PROJ Grunda vikar	Shallow bays
+project	PROJ Grunda vikar	Mellan√•rsvariationer av undervattensvegetation i Blekinge	GVI	PROJ Grunda vikar	Shallow bays
 project	PROJ Grunda vikar	Inventering av vegetation i grunda vikar i Blekinge	GVI	PROJ Grunda vikar	Shallow bays
-project	PROJ Grunda vikar	Uppfˆljningstest i Blekinge 2007	GVI	PROJ Grunda vikar	Shallow bays
-project	PROJ Grunda vikar	Basinventering i SkÂne l‰n	GVI	PROJ Grunda vikar	Shallow bays
+project	PROJ Grunda vikar	Uppf√∂ljningstest i Blekinge 2007	GVI	PROJ Grunda vikar	Shallow bays
+project	PROJ Grunda vikar	Basinventering i Sk√•ne l√§n	GVI	PROJ Grunda vikar	Shallow bays
 project	PROJ Grunda vikar	Interreg IIIA	GVI	PROJ Grunda vikar	Shallow bays
-project	PROJ Grunda vikar	Utvecklingsprojekt RegM÷	GVI	PROJ Grunda vikar	Shallow bays
+project	PROJ Grunda vikar	Utvecklingsprojekt RegM√ñ	GVI	PROJ Grunda vikar	Shallow bays
 project	PROJ Grunda vikar	Tidsserie Forsmark och Furusund	GVI	PROJ Grunda vikar	Shallow bays
-project	PROJ Grunda vikar	Basinventering C-l‰n	GVI	PROJ Grunda vikar	Shallow bays
-project	PROJ Grunda vikar	Naturv‰rden vid GÂrdsk‰rskusten och Slada	GVI	PROJ Grunda vikar	Shallow bays
-project	PROJ Grunda vikar	Gr‰sˆ marina reservat	GVI	PROJ Grunda vikar	Shallow bays
-project	PROJ Grunda vikar	Lˆvstabukten, Tierps kommun	GVI	PROJ Grunda vikar	Shallow bays
-project	PROJ Grunda vikar	Regional M÷ X-l‰n (X21)	GVI	PROJ Grunda vikar	Shallow bays
-project	PROJ Grunda vikar	Basinventering X-l‰n	GVI	PROJ Grunda vikar	Shallow bays
-project	PROJ Grunda vikar	Regional M÷ X-l‰n	GVI	PROJ Grunda vikar	Shallow bays
-project	PROJ Grunda vikar	Undersˆkning av mellansÂrsvariation i undervattensvegetation i grunda vikar	GVI	PROJ Grunda vikar	Shallow bays
-project	PROJ Grunda vikar	Basinventeringen i Kalmar L‰n	GVI	PROJ Grunda vikar	Shallow bays
-project	PROJ Grunda vikar	MellanÂrsvariationer i undervattensvegetation och fiskyngelfˆrekomst i grunda havsvikar l‰ngs den svenska kusten	GVI	PROJ Grunda vikar	Shallow bays
-project	PROJ Grunda vikar	Marin basinventering V‰sternorrland	GVI	PROJ Grunda vikar	Shallow bays
-project	PROJ Gˆteborg s‰krare farled	G÷TEB. SƒK. FARLED.<or>GSF<or>PROJ_Gˆteborg_s‰krare_farled	GSF	PROJ Gˆteborg s‰krare farled	Gothenburg Port safe fairway
+project	PROJ Grunda vikar	Basinventering C-l√§n	GVI	PROJ Grunda vikar	Shallow bays
+project	PROJ Grunda vikar	Naturv√§rden vid G√•rdsk√§rskusten och Slada	GVI	PROJ Grunda vikar	Shallow bays
+project	PROJ Grunda vikar	Gr√§s√∂ marina reservat	GVI	PROJ Grunda vikar	Shallow bays
+project	PROJ Grunda vikar	L√∂vstabukten, Tierps kommun	GVI	PROJ Grunda vikar	Shallow bays
+project	PROJ Grunda vikar	Regional M√ñ X-l√§n (X21)	GVI	PROJ Grunda vikar	Shallow bays
+project	PROJ Grunda vikar	Basinventering X-l√§n	GVI	PROJ Grunda vikar	Shallow bays
+project	PROJ Grunda vikar	Regional M√ñ X-l√§n	GVI	PROJ Grunda vikar	Shallow bays
+project	PROJ Grunda vikar	Unders√∂kning av mellans√•rsvariation i undervattensvegetation i grunda vikar	GVI	PROJ Grunda vikar	Shallow bays
+project	PROJ Grunda vikar	Basinventeringen i Kalmar L√§n	GVI	PROJ Grunda vikar	Shallow bays
+project	PROJ Grunda vikar	Mellan√•rsvariationer i undervattensvegetation och fiskyngelf√∂rekomst i grunda havsvikar l√§ngs den svenska kusten	GVI	PROJ Grunda vikar	Shallow bays
+project	PROJ Grunda vikar	Marin basinventering V√§sternorrland	GVI	PROJ Grunda vikar	Shallow bays
+project	PROJ G√∂teborg s√§krare farled	G√ñTEB. S√ÑK. FARLED.<or>GSF<or>PROJ_G√∂teborg_s√§krare_farled	GSF	PROJ G√∂teborg s√§krare farled	Gothenburg Port safe fairway
 project	PROJ HABILE	HABILE<or>PROJ_HABILE	HAB	PROJ HABILE	Harmful Algae Bloom Initiation in Large European Marine Ecosystems (HABILE)
 project	PROJ Imaging FlowCytobot IFCB	PROJ Imaging Flow Cytobot	IFCB	PROJ Imaging FlowCytobot IFCB	Imaging FlowCytobot IFCB
-project	PROJ Inventering av marin epibentisk fauna i grunda vikar i Hˆga kusten	Inventering av marin epibentisk fauna i grunda vikar i Hˆga kusten	IEH	PROJ Inventering av marin epibentisk fauna i grunda vikar i Hˆga kusten	Inventory marine epibenthic fauna in shallow bays in Hˆga kusten
-project	PROJ Inventering av marin epibentisk fauna pÂ djupa bottnar		IME	PROJ Inventering av marin epibentisk fauna pÂ djupa bottnar	Inventory deep marine epibenthic fauna
-project	PROJ Inventering G‰vleborg	HÂrdbotteninventering G‰vleborg 2000<or>HÂrdbotteninventering G‰vleborg 2005<or>HÂrdbotteninventering G‰vleborg 2006<or>HÂrdbotteninventering G‰vleborg 2007	IGA	PROJ Inventering G‰vleborg	Inventory G‰vleborg
-project	PROJ Inventering ROV Koster-V‰derˆfjorden	Inventering med ROV av epibottenfauna i nya bottenskyddsomrÂden i Koster-V‰derˆfjorden<or>Inventering med ROV av epibottenfauna fˆr uppfˆljning av effekterna av trÂlskyddsomrÂden i Koster-V‰derˆfjorden	RKO	PROJ Inventering ROV Koster-V‰derˆfjorden	Inventory Koster
+project	PROJ Inventering av marin epibentisk fauna i grunda vikar i H√∂ga kusten	Inventering av marin epibentisk fauna i grunda vikar i H√∂ga kusten	IEH	PROJ Inventering av marin epibentisk fauna i grunda vikar i H√∂ga kusten	Inventory marine epibenthic fauna in shallow bays in H√∂ga kusten
+project	PROJ Inventering av marin epibentisk fauna p√• djupa bottnar		IME	PROJ Inventering av marin epibentisk fauna p√• djupa bottnar	Inventory deep marine epibenthic fauna
+project	PROJ Inventering G√§vleborg	H√•rdbotteninventering G√§vleborg 2000<or>H√•rdbotteninventering G√§vleborg 2005<or>H√•rdbotteninventering G√§vleborg 2006<or>H√•rdbotteninventering G√§vleborg 2007	IGA	PROJ Inventering G√§vleborg	Inventory G√§vleborg
+project	PROJ Inventering ROV Koster-V√§der√∂fjorden	Inventering med ROV av epibottenfauna i nya bottenskyddsomr√•den i Koster-V√§der√∂fjorden<or>Inventering med ROV av epibottenfauna f√∂r uppf√∂ljning av effekterna av tr√•lskyddsomr√•den i Koster-V√§der√∂fjorden	RKO	PROJ Inventering ROV Koster-V√§der√∂fjorden	Inventory Koster
 project	PROJ JERICO	JCO<or>PROJ_JERICO	JCO	PROJ JERICO	Joint European research infrastructure network for coastal observatories (JERICO)
 project	PROJ Kartering Hoburgs bank		KHB	PROJ Kartering Hoburgs bank	Mapping Hoburgs bank
-project	PROJ Kartering rev sandbankar SkÂne	Kartering marin miljˆ SkÂnes L‰n / Kartering Rev sandbankar del1<or>Kartering_rev_sandbankar_SkÂne<or>Kartering rev sandbankar SkÂne<or>MMSB, Lst SkÂne, kartering av bottenfauna och -flora i SkÂne L‰n, Kartering Rev+Sandbankar	KRS	PROJ Kartering rev sandbankar SkÂne	Mapping_reef_sandbanks_SkÂne
-project	PROJ Kontrollprogram SLV musselodlingar	SLV<or>SLV. KONT. PROG	KSL	PROJ Livsmedelsverket kontrollprogram fˆr musselodlingar	Monitoring program SLV mussel farms
+project	PROJ Kartering rev sandbankar Sk√•ne	Kartering marin milj√∂ Sk√•nes L√§n / Kartering Rev sandbankar del1<or>Kartering_rev_sandbankar_Sk√•ne<or>Kartering rev sandbankar Sk√•ne<or>MMSB, Lst Sk√•ne, kartering av bottenfauna och -flora i Sk√•ne L√§n, Kartering Rev+Sandbankar	KRS	PROJ Kartering rev sandbankar Sk√•ne	Mapping_reef_sandbanks_Sk√•ne
+project	PROJ Kontrollprogram SLV musselodlingar	SLV<or>SLV. KONT. PROG	KSL	PROJ Livsmedelsverket kontrollprogram f√∂r musselodlingar	Monitoring program SLV mussel farms
 project	PROJ Kyrkviken ekologisk status	Kyrkviken ekologisk status<or>Kyrkviken ekologisk status 2021<or>Kyrkviken ekologisk status 2022	KES	PROJ Kyrkviken ekologisk status	Kyrkviken ecological status
 project	PROJ Laholm eutrophication project	LAH. EUTR. STU.<or>LEP<or>PROJ_Laholm_eutrophication_project	LEP	PROJ Laholm eutrophication project	Laholm Eutrophication Project
-project	PROJ Levande kust Baltic2020	Baltic Sea 2020 - Bjˆrnˆfj‰rden, Stockholms l‰n Âr 2011 - Marin vegetationsinventering<or>Baltic Sea 2020 - Bjˆrnˆfj‰rden, Stockholms l‰n Âr 2012 - Marin vegetationsinventering<or>Baltic Sea 2020 - Fj‰llsviksviken, Stockholms l‰n Âr 2012 - Marin vegetationsinventering<or>Baltic Sea 2020 - Skarpˆsundet, Stockholms l‰n Âr 2012 - Marin vegetationsinventering<or>BalticSea2020 - Bjˆrnˆfj‰rden, Stockholms l‰n Âr 2013 - Marin vegetationsinventering<or>BalticSea2020 - Fj‰llsviksviken, Stockholms l‰n Âr 2013 - Marin vegetationsinventering<or>BalticSea2020 - Skarpˆsundet, Stockholms l‰n Âr 2013 - Marin vegetationsinventering<or>Vattenprovtagning i Skarpˆsundet, Fj‰llsviksviken och Bjˆrnˆsundet 2013<or>Vattenprovtagning i Skarpˆsundet, Fj‰llsviksviken och Bjˆrnˆsundet 2012-2017<or>Vattenprovtagning i Skarpˆsundet, Fj‰llsviksviken och Bjˆrnˆsundet 2014<or>Biologiska undersˆkningar BalticSea2020<or>BalticSea2020 - Bjˆrnˆfj‰rden, Stockholms l‰n  - Marin vegetationsinventering<or>BalticSea2020 - Fj‰llsviksviken, Stockholms l‰n  - Marin vegetationsinventering<or>Vattenprovtagning i Fj‰llsviksviken och Bjˆrnˆfj‰rden 2022<or>Levande vikar 2022	BAL	PROJ Levande kust Baltic2020	Living coast Balticsea2020
+project	PROJ Levande kust Baltic2020	Baltic Sea 2020 - Bj√∂rn√∂fj√§rden, Stockholms l√§n √•r 2011 - Marin vegetationsinventering<or>Baltic Sea 2020 - Bj√∂rn√∂fj√§rden, Stockholms l√§n √•r 2012 - Marin vegetationsinventering<or>Baltic Sea 2020 - Fj√§llsviksviken, Stockholms l√§n √•r 2012 - Marin vegetationsinventering<or>Baltic Sea 2020 - Skarp√∂sundet, Stockholms l√§n √•r 2012 - Marin vegetationsinventering<or>BalticSea2020 - Bj√∂rn√∂fj√§rden, Stockholms l√§n √•r 2013 - Marin vegetationsinventering<or>BalticSea2020 - Fj√§llsviksviken, Stockholms l√§n √•r 2013 - Marin vegetationsinventering<or>BalticSea2020 - Skarp√∂sundet, Stockholms l√§n √•r 2013 - Marin vegetationsinventering<or>Vattenprovtagning i Skarp√∂sundet, Fj√§llsviksviken och Bj√∂rn√∂sundet 2013<or>Vattenprovtagning i Skarp√∂sundet, Fj√§llsviksviken och Bj√∂rn√∂sundet 2012-2017<or>Vattenprovtagning i Skarp√∂sundet, Fj√§llsviksviken och Bj√∂rn√∂sundet 2014<or>Biologiska unders√∂kningar BalticSea2020<or>BalticSea2020 - Bj√∂rn√∂fj√§rden, Stockholms l√§n  - Marin vegetationsinventering<or>BalticSea2020 - Fj√§llsviksviken, Stockholms l√§n  - Marin vegetationsinventering<or>Vattenprovtagning i Fj√§llsviksviken och Bj√∂rn√∂fj√§rden 2022<or>Levande vikar 2022	BAL	PROJ Levande kust Baltic2020	Living coast Balticsea2020
 project	PROJ Living coast Balticsea2020	BAL	BAL	PROJ Levande kust Baltic2020	Living coast Balticsea2020
-project	PROJ L‰sˆ sektion	LƒS÷ SEKTION<or>LSE<or>PROJ_L‰sˆ_sektion	LSE	PROJ L‰sˆ sektion	L‰sˆ section
-project	PROJ Marin Modellering SkÂne Blekinge	MMSB<or>Marin_Modellering_SkÂne_Blekinge<or>Marin Modellering SkÂne Blekinge	MMSB	PROJ Marin Modellering SkÂne Blekinge	Marine_Modeling_SkÂne_Blekinge
-project	PROJ Marin Modellering Stockholm Sˆdermanland	MMSS_Sˆdermanland<or>MMSS_Stockholm<or>Marin_Modellering_Stockholm_Sˆdermanland<or>Marin Modellering Stockholm Sˆdermanland	MMSS	PROJ Marin Modellering Stockholm Sˆdermanland	Marine_Modeling_Stockholm_Sˆdermanland
-project	PROJ Marin Naturv‰rdes kartering	Kartering av naturv‰rden i Bottniska viken	MNK	PROJ Marin Naturv‰rdes kartering	Marine mapping
+project	PROJ L√§s√∂ sektion	L√ÑS√ñ SEKTION<or>LSE<or>PROJ_L√§s√∂_sektion	LSE	PROJ L√§s√∂ sektion	L√§s√∂ section
+project	PROJ Marin Modellering Sk√•ne Blekinge	MMSB<or>Marin_Modellering_Sk√•ne_Blekinge<or>Marin Modellering Sk√•ne Blekinge	MMSB	PROJ Marin Modellering Sk√•ne Blekinge	Marine_Modeling_Sk√•ne_Blekinge
+project	PROJ Marin Modellering Stockholm S√∂dermanland	MMSS_S√∂dermanland<or>MMSS_Stockholm<or>Marin_Modellering_Stockholm_S√∂dermanland<or>Marin Modellering Stockholm S√∂dermanland	MMSS	PROJ Marin Modellering Stockholm S√∂dermanland	Marine_Modeling_Stockholm_S√∂dermanland
+project	PROJ Marin Naturv√§rdes kartering	Kartering av naturv√§rden i Bottniska viken	MNK	PROJ Marin Naturv√§rdes kartering	Marine mapping
 project	PROJ MARMONI	MARMONI	MAR	PROJ MARMONI	MARMONI
 project	PROJ Norrlands grunda vikar	Lst Norrbotten<or>NGV<or>PROJ_Norrlands_grunda_vikar	NGV	PROJ Norrlands grunda vikar	Norrland shallow bays
-project	PROJ Nya varvet	PROVT.NYVARV<or>Nya Varvet<or>NYV<or>PROJ_Nya_varvet	NYV	PROJ Nya varvet	Bridge sampling, Nya Varvet  Gˆteborg
-project	PROJ V‰sternorrland Bottenfaunainventering ECONNET	Bottenfaunainventering V‰sternorrland 2019_Econnect	ECONNET	PROJ V‰sternorrland Bottenfaunainventering ECONNET	Zoobenthos sampling V‰sternorrland ECONNET
+project	PROJ Nya varvet	PROVT.NYVARV<or>Nya Varvet<or>NYV<or>PROJ_Nya_varvet	NYV	PROJ Nya varvet	Bridge sampling, Nya Varvet  G√∂teborg
+project	PROJ V√§sternorrland Bottenfaunainventering ECONNET	Bottenfaunainventering V√§sternorrland 2019_Econnect	ECONNET	PROJ V√§sternorrland Bottenfaunainventering ECONNET	Zoobenthos sampling V√§sternorrland ECONNET
 project	PROJ Ospecificerat	OSPEC. PROJ.<or>XXX<or>PROJ_Ospecificerade<or>PROJ Ospecificerade	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	RM÷_Inventering_Tromtˆ	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Axmar, G‰vleborgs l‰n - vegetationsinventering 2008	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Biologisk inventering i Malmfj‰rden, Kalmar 2011	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Biologisk inventering vid Tromtˆ, Karlskrona kommun	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	RM√ñ_Inventering_Tromt√∂	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Axmar, G√§vleborgs l√§n - vegetationsinventering 2008	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Biologisk inventering i Malmfj√§rden, Kalmar 2011	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Biologisk inventering vid Tromt√∂, Karlskrona kommun	POSP	PROJ Ospecificerat	Unspecified project
 project	PROJ Ospecificerat	Blekinge 2012 - marina inventeringar	POSP	PROJ Ospecificerat	Unspecified project
 project	PROJ Ospecificerat	Bottenfaunaprovtagning vid Figeholm 2009. Rapport 2010:5	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Bottenfaunaprovtagning vid Verkˆ, Blekinge. Rapport 2010:9	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Bottenfaunaundersˆkning KÂrehamn Rapport 2001:6	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Bottenfaunaundersˆkning sˆder om ÷land Rapport 2001:7	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Bottenfaunaundersˆkning Utgrunden Rapport 2001:5	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Botteninventering i Kˆpingsvik	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Botteninventering_Kˆpingsvik	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Deponeringsplats_Tvegˆlja	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	D-l‰n - Marinbiologisk vegetationsinventering	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Eskˆn, G‰vleborgs l‰n - marin vegetationsinventering 2009	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Falsterbohalvˆns marina reservat	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Farledsmuddring_V‰stervik	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Fastsittande alger och hˆgre v‰xter i Sundsvallsbukten	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	F‰ltverifiering av potentiella sandbankar och rev Orust-Tjˆrn 2012	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	F‰ltverifiering av potentiella sandbankar och rev ÷stergˆtland 2012	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Fˆrundersˆkning_vindkraftspark	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	GÂlˆ naturreservat, Stockholms l‰n: Marinbiologisk undersˆkning och naturv‰rdesbedˆmning.	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Hallands V‰derˆ marina reservat	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Bottenfaunaprovtagning vid Verk√∂, Blekinge. Rapport 2010:9	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Bottenfaunaunders√∂kning K√•rehamn Rapport 2001:6	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Bottenfaunaunders√∂kning s√∂der om √ñland Rapport 2001:7	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Bottenfaunaunders√∂kning Utgrunden Rapport 2001:5	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Botteninventering i K√∂pingsvik	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Botteninventering_K√∂pingsvik	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Deponeringsplats_Tveg√∂lja	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	D-l√§n - Marinbiologisk vegetationsinventering	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Esk√∂n, G√§vleborgs l√§n - marin vegetationsinventering 2009	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Falsterbohalv√∂ns marina reservat	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Farledsmuddring_V√§stervik	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Fastsittande alger och h√∂gre v√§xter i Sundsvallsbukten	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	F√§ltverifiering av potentiella sandbankar och rev Orust-Tj√∂rn 2012	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	F√§ltverifiering av potentiella sandbankar och rev √ñsterg√∂tland 2012	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	F√∂runders√∂kning_vindkraftspark	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	G√•l√∂ naturreservat, Stockholms l√§n: Marinbiologisk unders√∂kning och naturv√§rdesbed√∂mning.	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Hallands V√§der√∂ marina reservat	POSP	PROJ Ospecificerat	Unspecified project
 project	PROJ Ospecificerat	Halsefjorden 2009	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Haninge 2010 - Marinbiologisk vegetationsinventering och naturv‰rdesbedˆmning	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Haninge Kommun, Sthlms l‰n - Maringbiologisk vegetationsinventering och naturv‰rdesbedˆmning	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Hanˆ 2013 och 2015 - Regional miljˆˆvervakning av vegetationskl‰dda bottnar.	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Hanˆbukten - div smÂ dykundersˆkningar	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Hanˆbukten, Lunds universitet	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Haninge 2010 - Marinbiologisk vegetationsinventering och naturv√§rdesbed√∂mning	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Haninge Kommun, Sthlms l√§n - Maringbiologisk vegetationsinventering och naturv√§rdesbed√∂mning	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Han√∂ 2013 och 2015 - Regional milj√∂√∂vervakning av vegetationskl√§dda bottnar.	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Han√∂bukten - div sm√• dykunders√∂kningar	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Han√∂bukten, Lunds universitet	POSP	PROJ Ospecificerat	Unspecified project
 project	PROJ Ospecificerat	Idefjorden	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Inledande undersˆkning vid Nenningesund 2006	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Inventering av bottenfauna i Torrˆ naturreservat, ÷stergˆtlands sk‰rgÂrd	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Inventering av marina och limniska naturv‰rden i ÷stergˆtland 2012	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Inventering av Nordre ‰lv	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Inledande unders√∂kning vid Nenningesund 2006	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Inventering av bottenfauna i Torr√∂ naturreservat, √ñsterg√∂tlands sk√§rg√•rd	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Inventering av marina och limniska naturv√§rden i √ñsterg√∂tland 2012	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Inventering av Nordre √§lv	POSP	PROJ Ospecificerat	Unspecified project
 project	PROJ Ospecificerat	Inventering av Stigfjorden 2009	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Inventering av vegetationskl‰dda bottnar i det marina naturreservatet Salvorev-Kopparstenarna	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Inventering av vegetationskl‰dda bottnar i Gr‰sˆ ˆstra sk‰rgÂrd	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Inventering med dropvideo i V‰sternorrland 2009 - AQBI	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Inventering med dropvideo i ÷stergˆtland 2009 - AQBI	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Inventering med ROV av epibottenfauna fˆr uppfˆljning av effekterna av det reglerade r‰ktrÂlfisketi Gullmarn	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Inventering vid Vinga Fotˆ	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Inventering VrÂngˆ sk‰rgÂrden 2009	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Inventering_Malmfj‰rden	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Inventering_Sturkˆ_innersk‰rgÂrd	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Inventering_Verkˆ	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Inventering_VirÂn	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	J‰rflotta naturreservat, Stockholms l‰n - inventering av grunda vegetationskl‰dda omrÂden	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Kartering av sex fˆreslagna referensomrÂden fˆr den regionala miljˆˆvervakningen, ≈tg‰rdsgrupp syd. Kalmar.	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Kartering marin miljˆ SkÂnes L‰n / Kartering Rev sandbankar / Kartering Reservat N Bj‰re	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Kontrollprogram fˆr dagvattenanl‰ggning vid Sjˆ‰ngen Stora V‰rtan 2014-2015	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Kartering Rev+Sandbankar, MARMONI, kartering flora fauna i SkÂne och Blekinge L‰n	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Komplettering till Sˆdermanland naturv‰rdesinventering och basinventering	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Inventering av vegetationskl√§dda bottnar i det marina naturreservatet Salvorev-Kopparstenarna	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Inventering av vegetationskl√§dda bottnar i Gr√§s√∂ √∂stra sk√§rg√•rd	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Inventering med dropvideo i V√§sternorrland 2009 - AQBI	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Inventering med dropvideo i √ñsterg√∂tland 2009 - AQBI	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Inventering med ROV av epibottenfauna f√∂r uppf√∂ljning av effekterna av det reglerade r√§ktr√•lfisketi Gullmarn	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Inventering vid Vinga Fot√∂	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Inventering Vr√•ng√∂ sk√§rg√•rden 2009	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Inventering_Malmfj√§rden	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Inventering_Sturk√∂_innersk√§rg√•rd	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Inventering_Verk√∂	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Inventering_Vir√•n	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	J√§rflotta naturreservat, Stockholms l√§n - inventering av grunda vegetationskl√§dda omr√•den	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Kartering av sex f√∂reslagna referensomr√•den f√∂r den regionala milj√∂√∂vervakningen, √Ötg√§rdsgrupp syd. Kalmar.	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Kartering marin milj√∂ Sk√•nes L√§n / Kartering Rev sandbankar / Kartering Reservat N Bj√§re	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Kontrollprogram f√∂r dagvattenanl√§ggning vid Sj√∂√§ngen Stora V√§rtan 2014-2015	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Kartering Rev+Sandbankar, MARMONI, kartering flora fauna i Sk√•ne och Blekinge L√§n	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Komplettering till S√∂dermanland naturv√§rdesinventering och basinventering	POSP	PROJ Ospecificerat	Unspecified project
 project	PROJ Ospecificerat	LAHOLMSBUKTENS KUSTVATTEN	POSP	PROJ Ospecificerat	Unspecified project
 project	PROJ Ospecificerat	Yngelprovfiske i Bottniska viken	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Lilla Nassa-Gillˆga, Stockholms l‰n: Marinbiologisk undersˆkning	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Linjetaxering av akvatisk makrovegetation i yttre G‰vlefj‰rden	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Linjetaxering av akvatisk makrovegetation vid Avan‰set 2009	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Linjetaxering av akvatisk makrovegetation vid Bjurˆklubb 2009	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Makrofauna ˆster om Singˆ (utpekat BSPA-omrÂde i Stockholms l‰n)	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Lilla Nassa-Gill√∂ga, Stockholms l√§n: Marinbiologisk unders√∂kning	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Linjetaxering av akvatisk makrovegetation i yttre G√§vlefj√§rden	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Linjetaxering av akvatisk makrovegetation vid Avan√§set 2009	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Linjetaxering av akvatisk makrovegetation vid Bjur√∂klubb 2009	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Makrofauna √∂ster om Sing√∂ (utpekat BSPA-omr√•de i Stockholms l√§n)	POSP	PROJ Ospecificerat	Unspecified project
 project	PROJ Ospecificerat	Mar Res Klasen/Fjaugen 2010	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Marin dykinventering 2009, V‰sternorrlands l‰n	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Marin flora pÂ hÂrdbotten - en inventering i Gˆteborg 2010	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Marin inventering vid Sv‰rdsˆn i Nacka kommun 2011	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Marin inventering vid VirÂn, Kalmar l‰n. Rapport 2010:6	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Marin kartering av Natura 2000 habitaten rev och sandbankar i V‰sterbottens l‰n - Snˆansk‰rgÂrden och Holmˆarna 2012	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Marina dykinventeringar av makrofyter 2009, V‰sternorrlands l‰n.	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Marinbiologisk undersˆkning av djupa bottnar i naturreservaten N‰mdˆ och Lilla Husarn	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Marinbiologisk undersˆkning och naturv‰rdesbedˆmning av NÂttarˆs grundomrÂden	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Marinbiologisk undersˆkning och naturv‰rdesbedˆmning av Stora Nassas djupbottnar	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Marstrandssk‰rgÂrden	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Mj‰ltˆn Makrofytinventering 2015	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	MÂsesk‰r	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Nacka kommun 2011, Sthlms l‰n - marin vegetationsinventering kring Sv‰rdsˆ	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Nacka kommun, Stockholms l‰n: Marinbiologisk undersˆkning och naturv‰rdesbedˆmning.	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Naturv‰rdesinventering BD-l‰n	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Naturv‰rdesinventering vid Juviken och Lillhavet i V‰sterbottens l‰n	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Naturv‰rdesinventering vid Kinnb‰cksfj‰rden i V‰sterbottens l‰n	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Naturv‰rdesinventering vid Ostn‰s i V‰sterbottens l‰n	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Naturv‰rdesinventering vid Tavasten i V‰sterbottens l‰n	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Naturv‰rdesinventering vid ÷refj‰rden i V‰sterbottens l‰n	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Marin dykinventering 2009, V√§sternorrlands l√§n	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Marin flora p√• h√•rdbotten - en inventering i G√∂teborg 2010	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Marin inventering vid Sv√§rds√∂n i Nacka kommun 2011	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Marin inventering vid Vir√•n, Kalmar l√§n. Rapport 2010:6	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Marin kartering av Natura 2000 habitaten rev och sandbankar i V√§sterbottens l√§n - Sn√∂ansk√§rg√•rden och Holm√∂arna 2012	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Marina dykinventeringar av makrofyter 2009, V√§sternorrlands l√§n.	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Marinbiologisk unders√∂kning av djupa bottnar i naturreservaten N√§md√∂ och Lilla Husarn	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Marinbiologisk unders√∂kning och naturv√§rdesbed√∂mning av N√•ttar√∂s grundomr√•den	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Marinbiologisk unders√∂kning och naturv√§rdesbed√∂mning av Stora Nassas djupbottnar	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Marstrandssk√§rg√•rden	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Mj√§lt√∂n Makrofytinventering 2015	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	M√•sesk√§r	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Nacka kommun 2011, Sthlms l√§n - marin vegetationsinventering kring Sv√§rds√∂	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Nacka kommun, Stockholms l√§n: Marinbiologisk unders√∂kning och naturv√§rdesbed√∂mning.	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Naturv√§rdesinventering BD-l√§n	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Naturv√§rdesinventering vid Juviken och Lillhavet i V√§sterbottens l√§n	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Naturv√§rdesinventering vid Kinnb√§cksfj√§rden i V√§sterbottens l√§n	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Naturv√§rdesinventering vid Ostn√§s i V√§sterbottens l√§n	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Naturv√§rdesinventering vid Tavasten i V√§sterbottens l√§n	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Naturv√§rdesinventering vid √ñrefj√§rden i V√§sterbottens l√§n	POSP	PROJ Ospecificerat	Unspecified project
 project	PROJ Ospecificerat	Nogersund muddertipplats rapport 2006:8	POSP	PROJ Ospecificerat	Unspecified project
 project	PROJ Ospecificerat	Nogersund_muddertipplats	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	NÂttarˆ, Stockholms l‰n: Marinbiologisk undersˆkning och naturv‰rdesbedˆmning	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	N‰mdˆ - L. Husarn naturreservat, Stockholms l‰n - inventering av grunda vegetationskl‰dda omrÂden	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	OKG - vegetationskontroll vid tillf‰lligt kylvattenutsl‰pp	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Orarna, G‰vleborgs l‰n - marin vegetationsinventering 2009	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	N√•ttar√∂, Stockholms l√§n: Marinbiologisk unders√∂kning och naturv√§rdesbed√∂mning	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	N√§md√∂ - L. Husarn naturreservat, Stockholms l√§n - inventering av grunda vegetationskl√§dda omr√•den	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	OKG - vegetationskontroll vid tillf√§lligt kylvattenutsl√§pp	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Orarna, G√§vleborgs l√§n - marin vegetationsinventering 2009	POSP	PROJ Ospecificerat	Unspecified project
 project	PROJ Ospecificerat	Plankton i Svensksundsviken 2010/2011	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Platsundersˆkning infˆr eventuellt slutfˆrvar av k‰rnbr‰nsle i Oskarshamn, Simpevarp	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Platsundersˆkning vid K‰rnkraftverket i Simpevarp 2003	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Platsunders√∂kning inf√∂r eventuellt slutf√∂rvar av k√§rnbr√§nsle i Oskarshamn, Simpevarp	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Platsunders√∂kning vid K√§rnkraftverket i Simpevarp 2003	POSP	PROJ Ospecificerat	Unspecified project
 project	PROJ Ospecificerat	PMK Blekingekusten 1990 och 1991	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Regional inventering vid Svenska Hˆgarna	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Sandemar, Stockholms l‰n - basinventering av sandbank	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Regional inventering vid Svenska H√∂garna	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Sandemar, Stockholms l√§n - basinventering av sandbank	POSP	PROJ Ospecificerat	Unspecified project
 project	PROJ Ospecificerat	Sanering Oskarshamns hamn <or>Sanering_Oskarshamns_hamn	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Singˆ, Stockholms l‰n: Marinbiologisk undersˆkning	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Siviksfj‰rden och Norbergsfj‰rden - marin vegetationsinventering 2009	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Sk‰rgÂrden ˆster om Lindˆn, G‰vleborgs l‰n - marin vegetationsinventering 2009	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Slutfˆrvar_K‰rnbr‰nsle	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Sotesk‰r	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Sing√∂, Stockholms l√§n: Marinbiologisk unders√∂kning	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Siviksfj√§rden och Norbergsfj√§rden - marin vegetationsinventering 2009	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Sk√§rg√•rden √∂ster om Lind√∂n, G√§vleborgs l√§n - marin vegetationsinventering 2009	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Slutf√∂rvar_K√§rnbr√§nsle	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Sotesk√§r	POSP	PROJ Ospecificerat	Unspecified project
 project	PROJ Ospecificerat	Stilleryds_hamn_Kofsa_Nabb	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Stockholms sk‰rgÂrd - Marinbiologisk vegetationsinventering samt naturv‰rdesbedˆmning	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Stora Nassa, V‰rmdˆ kommun, Sthlms l‰n: Marinbiologisk undersˆkning och naturv‰rdesbedˆmning	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Sturkˆ innersk‰rgÂrd marininventering, HIK Rapport 95:3.	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Stockholms sk√§rg√•rd - Marinbiologisk vegetationsinventering samt naturv√§rdesbed√∂mning	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Stora Nassa, V√§rmd√∂ kommun, Sthlms l√§n: Marinbiologisk unders√∂kning och naturv√§rdesbed√∂mning	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Sturk√∂ innersk√§rg√•rd marininventering, HIK Rapport 95:3.	POSP	PROJ Ospecificerat	Unspecified project
 project	PROJ Ospecificerat	Taggen_vindpark	POSP	PROJ Ospecificerat	Unspecified project
 project	PROJ Ospecificerat	Test_enhuggsmetod_1997	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Transektinventering i pÂverkanomrÂde. G‰vle Fj‰rdar 2008	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Trendˆvervakning mjukbotten Kalmar l‰n	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Trendˆvervakning vegetationskl‰dda bottnar G‰vleborg<or>Trendˆvervakning vegetationskl‰dda bottnar G‰vleborg 2012	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Trendˆvervakning vid Kronˆren i V‰sterbottens l‰n	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Trˆdje-Hilleviksfj‰rden, G‰vleborgs l‰n - ˆversiktlig inventering 2008	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Tullviksb‰cken, Stockholms l‰n - basinventering	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Undersˆkning av bottenfˆrhÂllanden vid planerad deponeringsplats fˆr muddermassor, Tvegˆlja SO Karlskrona, HIK Rapport 95:4.	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Undersˆkning infˆr muddring Stilleryds hamn och deponeringsplatsen sˆder om Kofsa Nabb	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Vattenfall fˆrundersˆkning planerad vindkraftspark	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Vegetationsinventering S‰varfj‰rden ULTRA 2009, V‰sterbottens l‰n.	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Transektinventering i p√•verkanomr√•de. G√§vle Fj√§rdar 2008	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Trend√∂vervakning mjukbotten Kalmar l√§n	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Trend√∂vervakning vegetationskl√§dda bottnar G√§vleborg<or>Trend√∂vervakning vegetationskl√§dda bottnar G√§vleborg 2012	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Trend√∂vervakning vid Kron√∂ren i V√§sterbottens l√§n	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Tr√∂dje-Hilleviksfj√§rden, G√§vleborgs l√§n - √∂versiktlig inventering 2008	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Tullviksb√§cken, Stockholms l√§n - basinventering	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Unders√∂kning av bottenf√∂rh√•llanden vid planerad deponeringsplats f√∂r muddermassor, Tveg√∂lja SO Karlskrona, HIK Rapport 95:4.	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Unders√∂kning inf√∂r muddring Stilleryds hamn och deponeringsplatsen s√∂der om Kofsa Nabb	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Vattenfall f√∂runders√∂kning planerad vindkraftspark	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Vegetationsinventering S√§varfj√§rden ULTRA 2009, V√§sterbottens l√§n.	POSP	PROJ Ospecificerat	Unspecified project
 project	PROJ Ospecificerat	Vindbruk Taggen, Rapport 2006:9	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Vindkraft_KÂrehamn	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Vindkraft_Sˆdra_÷land	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Vindkraft_K√•rehamn	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Vindkraft_S√∂dra_√ñland	POSP	PROJ Ospecificerat	Unspecified project
 project	PROJ Ospecificerat	Vindkraftetablering_Utgrunden	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	V‰sternorrland marininventering 2008<or>V‰sternorrland marininventering 2008/Pelagia	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	V‰stervik, farledsmuddring. Rapport 2008:5.	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Y-l‰n - Marin dykinventering 2013, Hˆga kusten, V‰sternorrlands l‰n	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	≈terinventering av skyddade sk‰rgÂrdslokaler i Sˆdermanlands l‰ns regionala miljˆˆvervakningsprogram	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	÷stergˆtland 2009 - inventering av vegetation och ankringsskador i naturhamnar.	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	V√§sternorrland marininventering 2008<or>V√§sternorrland marininventering 2008/Pelagia	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	V√§stervik, farledsmuddring. Rapport 2008:5.	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Y-l√§n - Marin dykinventering 2013, H√∂ga kusten, V√§sternorrlands l√§n	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	√Öterinventering av skyddade sk√§rg√•rdslokaler i S√∂dermanlands l√§ns regionala milj√∂√∂vervakningsprogram	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	√ñsterg√∂tland 2009 - inventering av vegetation och ankringsskador i naturhamnar.	POSP	PROJ Ospecificerat	Unspecified project
 project	PROJ Ospecificerat	Projekt 101466 Bratten (ravin och pockmarks)	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	PROJ Marin Modellering SkÂne Blekinge, Lst SkÂne, kartering av bottenfauna och -flora i SkÂne L‰n, Kartering Rev+Sandbankar	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ Ospecificerat	Forskningsdata Havstenfjord till Askerˆfjord 2011	POSP	PROJ Ospecificerat	Unspecified project
-project	PROJ SkÂne l‰n		PML	PROJ SkÂne l‰n	PROJ SkÂne county
+project	PROJ Ospecificerat	PROJ Marin Modellering Sk√•ne Blekinge, Lst Sk√•ne, kartering av bottenfauna och -flora i Sk√•ne L√§n, Kartering Rev+Sandbankar	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Ospecificerat	Forskningsdata Havstenfjord till Asker√∂fjord 2011	POSP	PROJ Ospecificerat	Unspecified project
+project	PROJ Sk√•ne l√§n		PML	PROJ Sk√•ne l√§n	PROJ Sk√•ne county
 project	PROJ Patchiness experiment PEX	PATCH. EXPMNT.<or>PEX<or>PROJ_Patchiness_experiment_PEX	PEX	PROJ Patchiness experiment PEX	Patchiness Experiment
 project	PROJ Patchiness experiment pre PEX	PRE. PATCH. EXPMNT.<or>PPX<or>PROJ_Patchiness_experiment_pre_PEX	PPX	PROJ Patchiness experiment pre PEX	Pre-Patchiness Experiment
-project	PROJ PMK_Programmet_fˆr_Miljˆkontroll	PMK	PMK	PROJ PMK_Programmet_fˆr_Miljˆkontroll	Environmental Control Program
-project	PROJ RÂneÂfj‰rden KK BDl‰n	RNE	RNE	PROJ RÂneÂfj‰rden KK BDl‰n	RÂneÂfj‰rden The County Administration Board of Norrbotten
+project	PROJ PMK_Programmet_f√∂r_Milj√∂kontroll	PMK	PMK	PROJ PMK_Programmet_f√∂r_Milj√∂kontroll	Environmental Control Program
+project	PROJ R√•ne√•fj√§rden KK BDl√§n	RNE	RNE	PROJ R√•ne√•fj√§rden KK BDl√§n	R√•ne√•fj√§rden The County Administration Board of Norrbotten
 project	PROJ Sambah		SAM	PROJ Sambah	Sambah
-project	PROJ Hydrografi, n‰rsalter och pelagial biologi  i Skagerrak	SHN	SHN	PROJ Hydrografi, n‰rsalter och pelagial biologi  i Skagerrak	PROJ Hydrography, nutrients and pelagic biology in the Skagerrak
+project	PROJ Hydrografi, n√§rsalter och pelagial biologi  i Skagerrak	SHN	SHN	PROJ Hydrografi, n√§rsalter och pelagial biologi  i Skagerrak	PROJ Hydrography, nutrients and pelagic biology in the Skagerrak
 project	PROJ SEAmBOTH	SMB	SMB	PROJ SEAmBOTH	SEAmBOTH
-project	PROJ Skagerrak n‰rsaltstransport	SKAGER. NƒRS.TRANSP.<or>SNT<or>PROJ_Skagerrak_n‰rsaltstransport	SNT	PROJ Skagerrak n‰rsaltstransport	Skagerrak nutrient transport
+project	PROJ Skagerrak n√§rsaltstransport	SKAGER. N√ÑRS.TRANSP.<or>SNT<or>PROJ_Skagerrak_n√§rsaltstransport	SNT	PROJ Skagerrak n√§rsaltstransport	Skagerrak nutrient transport
 project	PROJ SKAGEX	SKAGEX<or>SKX<or>PROJ_SKAGEX	SKX	PROJ SKAGEX	SKAGEX
 project	PROJ Slussen	SLUSSEN<or>PROJ_Slussen	PSL	PROJ Slussen	Slussen
 project	PROJ State Of Environment	SOE	SOE	PROJ State Of Environment	State Of Environment
 project	PROJ Svenska Offentliga Data	OFF	OFF	PROJ Svenska Offentliga Data	Swedish Public Data
 project	PROJ Transp sec hansth Kristand	TRANSP. SEC. HANST-KRIST.<or>THK<or>PROJ_Transp_sec_hansth_Kristand	THK	PROJ Transp sec hansth Kristand	Transport Hanstholm-Kristsand
-project	PROJ Naturtypsbest‰mning enligt HUB	Naturtypsbest‰mning kustvatten 2017	HUB	PROJ Naturtypsbest‰mning enligt HUB	Habitat determination Helcom Underwater Biotopes and habitats classification system HUB
-project	PROJ Uppfˆljning naturtyper	UPP	UPP	PROJ Uppfˆljning naturtyper	Monitoring follow up habitats
-project	PROJ Utsjˆbanksinventeringen	U2 Dykinventering av utsjˆbankar vid v‰stkusten 2009-2010<or>U2 Dyktransektinventering pÂ Svalan och Falkens grund i Bottenviken<or>U2 Hanˆbukten Utklippan<or>U2 Svenska Bjˆrn<or>U2 UMF Dyk<or>U2 UMF Video<or>U2 Utgrundsinventeringen 2 Bottenhavet<or>U2 Video Sval Falk<or>U2 v‰stkusten ROV<or>Utsjˆbanksinventeringen<or>U2 Utgrundsinventeringen 2  Bottenhavet	UTS	PROJ Utsjˆbanksinventeringen	Outer sea bank mapping
-project	PROJ Vegetationsdata frÂn yngelprovfiske	VEG	VEG	PROJ Vegetationsdata frÂn yngelprovfiske	Vegetationsdata frÂn yngelprovfiske
-project	PROJ WATERS	Waters gradientstudie ÷stergˆtland kust vegetation<or>Waters<or>WATERS<or>WAT<or>PROJ_WATERS<or>M‰tkampanjen 2012 gradientstudier ÷stergˆtland Bottenfauna<or>M‰tkampanjen 2012 gradientstudier Orust-Tjˆrn Bottenfauna<or>Waters gradientstudie Orust-Tjˆrn kust vegetation<or>Forskningsdata Waters Orust-Tjˆrn 2012	WAT	PROJ WATERS	Waterbody Assessment Tools for Ecological Reference conditions and status in Sweden (WATERS)
+project	PROJ Naturtypsbest√§mning enligt HUB	Naturtypsbest√§mning kustvatten 2017	HUB	PROJ Naturtypsbest√§mning enligt HUB	Habitat determination Helcom Underwater Biotopes and habitats classification system HUB
+project	PROJ Uppf√∂ljning naturtyper	UPP	UPP	PROJ Uppf√∂ljning naturtyper	Monitoring follow up habitats
+project	PROJ Utsj√∂banksinventeringen	U2 Dykinventering av utsj√∂bankar vid v√§stkusten 2009-2010<or>U2 Dyktransektinventering p√• Svalan och Falkens grund i Bottenviken<or>U2 Han√∂bukten Utklippan<or>U2 Svenska Bj√∂rn<or>U2 UMF Dyk<or>U2 UMF Video<or>U2 Utgrundsinventeringen 2 Bottenhavet<or>U2 Video Sval Falk<or>U2 v√§stkusten ROV<or>Utsj√∂banksinventeringen<or>U2 Utgrundsinventeringen 2  Bottenhavet	UTS	PROJ Utsj√∂banksinventeringen	Outer sea bank mapping
+project	PROJ Vegetationsdata fr√•n yngelprovfiske	VEG	VEG	PROJ Vegetationsdata fr√•n yngelprovfiske	Vegetationsdata fr√•n yngelprovfiske
+project	PROJ WATERS	Waters gradientstudie √ñsterg√∂tland kust vegetation<or>Waters<or>WATERS<or>WAT<or>PROJ_WATERS<or>M√§tkampanjen 2012 gradientstudier √ñsterg√∂tland Bottenfauna<or>M√§tkampanjen 2012 gradientstudier Orust-Tj√∂rn Bottenfauna<or>Waters gradientstudie Orust-Tj√∂rn kust vegetation<or>Forskningsdata Waters Orust-Tj√∂rn 2012	WAT	PROJ WATERS	Waterbody Assessment Tools for Ecological Reference conditions and status in Sweden (WATERS)
 project	PROJ World Ocean Circulation Experiment	W. OCE. CIRC. PROJ.<or>WOC<or>PROJ_World_Ocean_Circulation_Experiment 	WOC	PROJ World Ocean Circulation Experiment	World Ocean Circulation Experiment
-project	PROJ V‰stra gˆtaland pelagial m‰tkampanj	MƒTKAMP. PELAG. 2011<or>PROJ_V‰stra_gˆtaland_pelagial_m‰tkampanj	PMV	PROJ V‰stra gˆtaland pelagial m‰tkampanj	Sampling campaign pelagic 2011  County Administration Board of V‰stra Gˆtland
-project	PROJ ÷stergˆtland Inre K‰rrˆ		OST	PROJ ÷stergˆtland Inre K‰rrˆ	Benthic survey of mussel cultivation effects
-project	PROJ Etableringsprogram Haparanda-TorneÂs kustvatten 2018-2019	Undersˆkning fˆr programetablering i Haparanda-TorneÂs kustvatten 2018-2019	HTX	PROJ Etableringsprogram Haparanda-TorneÂs kustvatten 2018-2019 BDK	Verification of recipient monitoring Haparanda-TorneÂ recipient monitoring Municipality of Norrbotten 2018-2019
-project	PROJ Fiskeregleringar i marina skyddsomrÂden	Bratten SLU	FMS	PROJ Fiskeregleringar i marina skyddsomrÂden	Fisheries regulations in marine protected areas
-project	PROJ ≈terh‰mtning efter nedl‰ggning av fiskodlingar vid Hˆga Kusten	Studie av Âterh‰mtning efter nedl‰ggning av fiskodlingar vid Hˆga Kusten frÂn 2020	FHK	PROJ ≈terh‰mtning efter nedl‰ggning av fiskodlingar vid Hˆga Kusten	Recovery after closure of fish farms at Hˆga Kusten
-project	PROJ Inventering av marina makroalger och marin fauna i Bohusl‰n 2000: Pater Noster	Inventering av marina makroalger och marin fauna i Bohusl‰n 2000: Pater Noster	PANO	PROJ Inventering av marina makroalger och marin fauna i Bohusl‰n 2000: Pater Noster	Inventory of marine macroalgae and fauna in Bohusl‰n 2000: Pater Noster
-project	PROJ Inventering av marina makroalger och marin fauna i Bohusl‰n 2000: Tistlarna	Inventering av marina makroalger och marin fauna i Bohusl‰n 2000: Tistlarna	TIST	PROJ Inventering av marina makroalger och marin fauna i Bohusl‰n 2000: Tistlarna	Inventory of marine macroalgae and fauna in Bohusl‰n 2000: Tistlarna
-project	PROJ Inventering av marin fauna och flora i Halland	Inventering av marin fauna och flora i Halland 1997: Nidingen-HÂllsundsudde-Fj‰rehals<or> Nidingen-HÂllsundsudde-Fj‰rehals<or>Nidingen-HÂllsundsudde-Fj‰rehals<or>Varbergs hamn<or>GrundomrÂden Epifauna Halland<or>GrundomrÂden Infauna Halland	PHA	PROJ Inventering av marin fauna och flora i Halland	Inventory of marin fauna and flora in Halland
-project	PROJ Videokartering av marina naturv‰rden i sˆdra ÷resund och omrÂdet mellan Helsingborg-Helsingˆr 2022		DMM	PROJ Videokartering av marina naturv‰rden i sˆdra ÷resund och omrÂdet mellan Helsingborg-Helsingˆr 2022	PROJ Videokartering av marina naturv‰rden i sˆdra ÷resund och omrÂdet mellan Helsingborg-Helsingˆr 2022
-project	PROJ Marinbiologiska inventeringar i N‰mdˆsk‰rgÂrden	PROJ: Marinbiologiska inventeringar i N‰mdˆsk‰rgÂrden. Del 1: Dykinventering av vegetationskl‰dda hÂrdbottnar.	PABN	PROJ Marinbiologiska inventeringar i N‰mdˆsk‰rgÂrden	PROJ Marinbiologiska inventeringar i N‰mdˆsk‰rgÂrden
-project	REG Askˆ	intensiv Askˆ<or>REG. ÷VERV. ASK÷<or>Regional ˆvervakning i  AskˆomrÂdet, 2007-<or>Regional ˆvervakning i AskˆomrÂdet	RAS	REG Askˆ	Regional monitoring Askˆ
+project	PROJ V√§stra g√∂taland pelagial m√§tkampanj	M√ÑTKAMP. PELAG. 2011<or>PROJ_V√§stra_g√∂taland_pelagial_m√§tkampanj	PMV	PROJ V√§stra g√∂taland pelagial m√§tkampanj	Sampling campaign pelagic 2011  County Administration Board of V√§stra G√∂tland
+project	PROJ √ñsterg√∂tland Inre K√§rr√∂		OST	PROJ √ñsterg√∂tland Inre K√§rr√∂	Benthic survey of mussel cultivation effects
+project	PROJ Etableringsprogram Haparanda-Torne√•s kustvatten 2018-2019	Unders√∂kning f√∂r programetablering i Haparanda-Torne√•s kustvatten 2018-2019	HTX	PROJ Etableringsprogram Haparanda-Torne√•s kustvatten 2018-2019 BDK	Verification of recipient monitoring Haparanda-Torne√• recipient monitoring Municipality of Norrbotten 2018-2019
+project	PROJ Fiskeregleringar i marina skyddsomr√•den	Bratten SLU	FMS	PROJ Fiskeregleringar i marina skyddsomr√•den	Fisheries regulations in marine protected areas
+project	PROJ √Öterh√§mtning efter nedl√§ggning av fiskodlingar vid H√∂ga Kusten	Studie av √•terh√§mtning efter nedl√§ggning av fiskodlingar vid H√∂ga Kusten fr√•n 2020	FHK	PROJ √Öterh√§mtning efter nedl√§ggning av fiskodlingar vid H√∂ga Kusten	Recovery after closure of fish farms at H√∂ga Kusten
+project	PROJ Inventering av marina makroalger och marin fauna i Bohusl√§n 2000: Pater Noster	Inventering av marina makroalger och marin fauna i Bohusl√§n 2000: Pater Noster	PANO	PROJ Inventering av marina makroalger och marin fauna i Bohusl√§n 2000: Pater Noster	Inventory of marine macroalgae and fauna in Bohusl√§n 2000: Pater Noster
+project	PROJ Inventering av marina makroalger och marin fauna i Bohusl√§n 2000: Tistlarna	Inventering av marina makroalger och marin fauna i Bohusl√§n 2000: Tistlarna	TIST	PROJ Inventering av marina makroalger och marin fauna i Bohusl√§n 2000: Tistlarna	Inventory of marine macroalgae and fauna in Bohusl√§n 2000: Tistlarna
+project	PROJ Inventering av marin fauna och flora i Halland	Inventering av marin fauna och flora i Halland 1997: Nidingen-H√•llsundsudde-Fj√§rehals<or> Nidingen-H√•llsundsudde-Fj√§rehals<or>Nidingen-H√•llsundsudde-Fj√§rehals<or>Varbergs hamn<or>Grundomr√•den Epifauna Halland<or>Grundomr√•den Infauna Halland	PHA	PROJ Inventering av marin fauna och flora i Halland	Inventory of marin fauna and flora in Halland
+project	PROJ Videokartering av marina naturv√§rden i s√∂dra √ñresund och omr√•det mellan Helsingborg-Helsing√∂r 2022		DMM	PROJ Videokartering av marina naturv√§rden i s√∂dra √ñresund och omr√•det mellan Helsingborg-Helsing√∂r 2022	PROJ Videokartering av marina naturv√§rden i s√∂dra √ñresund och omr√•det mellan Helsingborg-Helsing√∂r 2022
+project	PROJ Marinbiologiska inventeringar i N√§md√∂sk√§rg√•rden	PROJ: Marinbiologiska inventeringar i N√§md√∂sk√§rg√•rden. Del 1: Dykinventering av vegetationskl√§dda h√•rdbottnar.	PABN	PROJ Marinbiologiska inventeringar i N√§md√∂sk√§rg√•rden	PROJ Marinbiologiska inventeringar i N√§md√∂sk√§rg√•rden
+project	REG Ask√∂	intensiv Ask√∂<or>REG. √ñVERV. ASK√ñ<or>Regional √∂vervakning i  Ask√∂omr√•det, 2007-<or>Regional √∂vervakning i Ask√∂omr√•det	RAS	REG Ask√∂	Regional monitoring Ask√∂
 project	REG Billerud RK	BOTTENF. BILLERUD<or>REG_Billerud_RK	BIL	REG Billerud RK	Recipient monitoring of Billerud
-project	REG Blekinge l‰n		KLS	REG Blekinge l‰n	Regional monitoring, The County Administration Board of Blekinge
-project	REG Blekinge SRK	BLK<or>REG. TREND÷V. MJUKB. BLEKINGE<or>BLEK. KUSTK.PROG.<or>BLK<or>REG_Blekinge_SRK<or>RM÷_Trendˆvervakning_Torhamn<or>Blekingekustens VattenvÂrdsfˆrbund<or>Blekingekustens VattenvÂrdsfˆrbund - test av enhuggsmetod 1997<or>BKVF<or>SRK Blekinge 2017-2022<or>SRK Blekinge 1989-2010	BLK	REG Blekinge SRK	Coordinated recipient monitoring of Blekingekusten
-project	REG Bohuskustens extra vÂrprovtagning	Lst V Gîtaland<or>BEV<or>REG_Bohuskustens_extra_vÂrprovtagning	BEV	REG Bohuskustens extra vÂrprovtagning	Coordinated recipient monitoring of Bohuskusten,  extra spring sampling
+project	REG Blekinge l√§n		KLS	REG Blekinge l√§n	Regional monitoring, The County Administration Board of Blekinge
+project	REG Blekinge SRK	BLK<or>REG. TREND√ñV. MJUKB. BLEKINGE<or>BLEK. KUSTK.PROG.<or>BLK<or>REG_Blekinge_SRK<or>RM√ñ_Trend√∂vervakning_Torhamn<or>Blekingekustens Vattenv√•rdsf√∂rbund<or>Blekingekustens Vattenv√•rdsf√∂rbund - test av enhuggsmetod 1997<or>BKVF<or>SRK Blekinge 2017-2022<or>SRK Blekinge 1989-2010	BLK	REG Blekinge SRK	Coordinated recipient monitoring of Blekingekusten
+project	REG Bohuskustens extra v√•rprovtagning	Lst V G‚Äùtaland<or>BEV<or>REG_Bohuskustens_extra_v√•rprovtagning	BEV	REG Bohuskustens extra v√•rprovtagning	Coordinated recipient monitoring of Bohuskusten,  extra spring sampling
 project	REG Bohuskustens grunda vikar	BOHUSK. G. VIK.<or>BGV<or>REG_Bohuskustens_grunda_vikar	BGV	REG Bohuskustens grunda vikar	Bohuskusten shallow bays
 project	REG Bohuskustens KKP SRK	BOHUSK.KONT.PROG.<or>BOHUSK. KONT. PROG.<or>BVVF<or>BOHUSK.KONT.PROG<or>BOS<or>BOS<or>REG_Bohuskustens_KKP_SRK<or>REG_OLST	BOS	REG Bohuskustens KKP SRK	Coordinated recipient monitoring of Bohuskusten
 project	REG Bohuskustens KKP SRK fjordmodell 96	BOSAM EXT. FJORDM.<or>BOX<or>REG_Bohuskustens_KKP_SRK_fjordmodell_96 	BOX	REG Bohuskustens KKP SRK fjordmodell 96	Coordinated recipient monitoring of Bohuskustens, extra fjord model -96
-project	REG Bohuskustens KKP SRK gˆta‰lv extremflˆde	G÷TAƒLV EXTR.FL÷DE<or>BOG<or>REG_Bohuskustens_KKP_SRK_gˆta‰lv_extremflˆde	BOG	REG Bohuskustens KKP SRK gˆta‰lv extremflˆde	Coordinated recipient monitoring of Bohuskusten, extreme flows in the Gˆta ‰lv.
-project	REG Boliden RK	Recipientkontroll Boliden<or>Recipientkontroll Boliden frÂn 2015	BOL	REG Boliden RK	Recipient monitoring of Boliden
-project	REG Bottniska viken	REG. BOTT.FAUNA BOTTN. VIK 1998<or>REG_Bottniska_viken<or>Regional Bottenfauna, Bottniska Viken frÂn 1998<or>Regionala programmet Bottniska Viken frÂn 2015	BOV	REG Bottniska viken	Bothnian bay
-project	REG Brunnsvikens RK	"RK;Brunnsvikens avrinningsomrÂde"	BRU	REG Brunnsvikens RK	Recipient monitoring of Brunnsviken's catchment area
-project	REG BureÂ RK	KONT. PROG. BURE≈<or>ACB<or>REG_BureÂ_RK	ACB	REG BureÂ RK	Recipient monitoring of BureÂ waste water plant
+project	REG Bohuskustens KKP SRK g√∂ta√§lv extremfl√∂de	G√ñTA√ÑLV EXTR.FL√ñDE<or>BOG<or>REG_Bohuskustens_KKP_SRK_g√∂ta√§lv_extremfl√∂de	BOG	REG Bohuskustens KKP SRK g√∂ta√§lv extremfl√∂de	Coordinated recipient monitoring of Bohuskusten, extreme flows in the G√∂ta √§lv.
+project	REG Boliden RK	Recipientkontroll Boliden<or>Recipientkontroll Boliden fr√•n 2015	BOL	REG Boliden RK	Recipient monitoring of Boliden
+project	REG Bottniska viken	REG. BOTT.FAUNA BOTTN. VIK 1998<or>REG_Bottniska_viken<or>Regional Bottenfauna, Bottniska Viken fr√•n 1998<or>Regionala programmet Bottniska Viken fr√•n 2015	BOV	REG Bottniska viken	Bothnian bay
+project	REG Brunnsvikens RK	"RK;Brunnsvikens avrinningsomr√•de"	BRU	REG Brunnsvikens RK	Recipient monitoring of Brunnsviken's catchment area
+project	REG Bure√• RK	KONT. PROG. BURE√Ö<or>ACB<or>REG_Bure√•_RK	ACB	REG Bure√• RK	Recipient monitoring of Bure√• waste water plant
 project	REG Byske RK	KONT. PROG. BYSKE<or>ACY<or>REG_Byske_RK	ACY	REG Byske RK	Recipient monitoring of Byske waste water plant
-project	REG Dal‰lven SRK	SRK DALƒLV.VVF<or>DVF<or>DVVF<or>REG_Dal‰lven_SRK	DVF	REG Dal‰lven SRK	Coordinated recipient monitoring of Dal‰lven
-project	REG Domsjˆ RK	DOMSJ÷<or>RECIP.KONT. DOMSJ÷<or>YDR<or>REG_Domsjˆ_RK<or>Domsjˆ recipientkontr.	YDR	REG Domsjˆ RK	Recipient monitoring of Domsjˆ Factory AB
-project	REG Edsvikens miljˆkontrollprogram	EDV<or>EDSVIKEN MILJO KP<or>Edsviken marininventering 2014<or>REG_Edsvikens miljˆkontrollprogram<or>EDSVIKEN_MILJO_KP<or>Edsvikens miljˆkontrollprogram<or>Miljˆkontrollprogram fˆr Edsviken	EDV	REG Edsvikens miljˆkontrollprogram	The Edsviken monitoring program
+project	REG Dal√§lven SRK	SRK DAL√ÑLV.VVF<or>DVF<or>DVVF<or>REG_Dal√§lven_SRK	DVF	REG Dal√§lven SRK	Coordinated recipient monitoring of Dal√§lven
+project	REG Domsj√∂ RK	DOMSJ√ñ<or>RECIP.KONT. DOMSJ√ñ<or>YDR<or>REG_Domsj√∂_RK<or>Domsj√∂ recipientkontr.	YDR	REG Domsj√∂ RK	Recipient monitoring of Domsj√∂ Factory AB
+project	REG Edsvikens milj√∂kontrollprogram	EDV<or>EDSVIKEN MILJO KP<or>Edsviken marininventering 2014<or>REG_Edsvikens milj√∂kontrollprogram<or>EDSVIKEN_MILJO_KP<or>Edsvikens milj√∂kontrollprogram<or>Milj√∂kontrollprogram f√∂r Edsviken	EDV	REG Edsvikens milj√∂kontrollprogram	The Edsviken monitoring program
 project	REG Elleholm RK	Elleholm_RK<or>Recipientkontroll Elleholm	ELL	REG Elleholm RK	Recipient monitoring of Elleholm
 project	REG Figeholm RK	Figeholm_RK	FIG	REG Figeholm RK	Recipient monitoring of Figeholm
 project	REG Fiskodling Kalmar RK	Fiskodlingar_Kalmar_RK<or>Recipientkontroll kring fiskodlingar, Kalmar	FIK	REG Fiskodling Kalmar RK	Recipient monitoring of fishfarms in Kalmar
-project	REG Fiskodling Omne UllÂnger N‰trafj‰rden RK	RECIP. KONT. NƒTRAFJƒRDEN<or>RECIP.KONT. NƒTRAFJƒRDEN<or>RECIP. KONT. OMNEFJƒRDEN<or>RECIP. KONT. ULL≈NGERSFJƒRDEN<or>YNR<or>YOF<or>YUF<or>REG_Fiskodling_Omne_UllÂnger_N‰trafj‰rden_RK	YNR, YOF, YUF	REG Fiskodling Omne UllÂnger N‰trafj‰rden RK	Recipient monitoring of Omne,  UllÂnger-  and N‰trafj‰rden fishfarms
+project	REG Fiskodling Omne Ull√•nger N√§trafj√§rden RK	RECIP. KONT. N√ÑTRAFJ√ÑRDEN<or>RECIP.KONT. N√ÑTRAFJ√ÑRDEN<or>RECIP. KONT. OMNEFJ√ÑRDEN<or>RECIP. KONT. ULL√ÖNGERSFJ√ÑRDEN<or>YNR<or>YOF<or>YUF<or>REG_Fiskodling_Omne_Ull√•nger_N√§trafj√§rden_RK	YNR, YOF, YUF	REG Fiskodling Omne Ull√•nger N√§trafj√§rden RK	Recipient monitoring of Omne,  Ull√•nger-  and N√§trafj√§rden fishfarms
 project	REG Forsmark RK		FOR	REG Forsmark RK	Recipient monitoring of Forsmark nuclear power plant
-project	REG FÂlln‰sviken RK	ABF	ABF	REG FÂlln‰sviken RK	Recipient monitoring, FÂlln‰sviken
-project	REG Gotland	REG. ÷VERV. GOTLAND<or>REG_Gotland<or>Regionalt kluster Gotland, 2007-<or>Regional ˆvervakning Gotland-<or>Regional ˆvervakning Gotland: Slite, FÂrˆsund och Klintehamn, 2016-<or>Regional ˆvervakning Gotland<or>ILS	ILS	REG Gotland	Regional monitoring Gotland
-project	REG Granfj‰rden	ABG	ABG	REG Granfj‰rden	Monitoring program for Granfj‰rden
+project	REG F√•lln√§sviken RK	ABF	ABF	REG F√•lln√§sviken RK	Recipient monitoring, F√•lln√§sviken
+project	REG Gotland	REG. √ñVERV. GOTLAND<or>REG_Gotland<or>Regionalt kluster Gotland, 2007-<or>Regional √∂vervakning Gotland-<or>Regional √∂vervakning Gotland: Slite, F√•r√∂sund och Klintehamn, 2016-<or>Regional √∂vervakning Gotland<or>ILS	ILS	REG Gotland	Regional monitoring Gotland
+project	REG Granfj√§rden	ABG	ABG	REG Granfj√§rden	Monitoring program for Granfj√§rden
 project	REG Gullmarns KP	GULLM. KONT.PROG.<or>GKP<or>REG_Gullmarns_KP	GKP	REG Gullmarns KP	The Gullmarsfjord monitoring program
-project	REG G‰striklands kustvatten SRK	BOTTENF. GƒVLEBORG<or>SRK GƒSTR. VVF<or>GƒVLEB. KUSTK.PROG.<or>RECIP.KONT GƒVLE FJƒRDAR<or>RECIP.KONT NORRSUNDS BRUK<or>GBU<or>RECIP.KONT YTTRE FJ.<or>REG_G‰striklands_kustvatten_SRK	GBU	REG G‰striklands kustvatten SRK	Coordinated recipient monitoring of G‰strikland
-project	REG G‰striklands kustvatten SRK pelagisk verifikation	PELAG. VERIF. XLST<or>REG_G‰striklands_kustvatten_SRK_pelagisk_verifikation	GAK	REG G‰striklands kustvatten SRK pelagisk verifikation	Coordinated recipient monitoring of G‰strikland, pelagic verification
-project	REG G‰vleborgs l‰n	Miljˆˆvervakning X-l‰n 2014<or>Vegetationskl‰dda bottnar i G‰vleborgs l‰ns kustvatten - Trendˆvervakning 2016<or>XLS<or>Inventeringar vid Agˆn/KrÂkˆn	XLS	REG G‰vleborgs l‰n	Regional monitoring, The County Administration Board of G‰vleborg
-project	REG Hallands KVK	HAL, MAKROF. MJUKB. VƒSTERHAV.<or>HAL. KUSTK. PROG.<or>HAL<or>HAL BOTTENF.<or>HAL<or>S÷DRA MELLERSTA HALLANDS KUSTVATTEN<or>NORRA MELLERSTA HALLANDS KUSTVATTEN<or>KLOSTERFJORDEN<or>Hallands_KVK<or>KYRKEFJƒLLS SUND<or>RIS÷-SƒR÷ARKIPELAGEN<or>VARREN<or>÷CKER÷SUND<or>HAL<or>REG_Hallands_KVK<or>Hallands kuskontrollprogram<or>REG Hallands KVK, REG Hallands KVK<or>Hallands kustkontrollprogram<or>÷vervakning av vegetationskl‰dda hÂrdbottnar l‰ngs hallandskusten, Hallands kustvattenkontroll 2010-2012<or>÷vervakning av vegetationskl‰dda hÂrdbottnar l‰ngs hallandskusten, Hallands kustvattenkontroll 2010-2013<or>Halmstad tipplats	HAL	REG Hallands KVK	Coordinated recipient monitoring of Halland
+project	REG G√§striklands kustvatten SRK	BOTTENF. G√ÑVLEBORG<or>SRK G√ÑSTR. VVF<or>G√ÑVLEB. KUSTK.PROG.<or>RECIP.KONT G√ÑVLE FJ√ÑRDAR<or>RECIP.KONT NORRSUNDS BRUK<or>GBU<or>RECIP.KONT YTTRE FJ.<or>REG_G√§striklands_kustvatten_SRK	GBU	REG G√§striklands kustvatten SRK	Coordinated recipient monitoring of G√§strikland
+project	REG G√§striklands kustvatten SRK pelagisk verifikation	PELAG. VERIF. XLST<or>REG_G√§striklands_kustvatten_SRK_pelagisk_verifikation	GAK	REG G√§striklands kustvatten SRK pelagisk verifikation	Coordinated recipient monitoring of G√§strikland, pelagic verification
+project	REG G√§vleborgs l√§n	Milj√∂√∂vervakning X-l√§n 2014<or>Vegetationskl√§dda bottnar i G√§vleborgs l√§ns kustvatten - Trend√∂vervakning 2016<or>XLS<or>Inventeringar vid Ag√∂n/Kr√•k√∂n	XLS	REG G√§vleborgs l√§n	Regional monitoring, The County Administration Board of G√§vleborg
+project	REG Hallands KVK	HAL, MAKROF. MJUKB. V√ÑSTERHAV.<or>HAL. KUSTK. PROG.<or>HAL<or>HAL BOTTENF.<or>HAL<or>S√ñDRA MELLERSTA HALLANDS KUSTVATTEN<or>NORRA MELLERSTA HALLANDS KUSTVATTEN<or>KLOSTERFJORDEN<or>Hallands_KVK<or>KYRKEFJ√ÑLLS SUND<or>RIS√ñ-S√ÑR√ñARKIPELAGEN<or>VARREN<or>√ñCKER√ñSUND<or>HAL<or>REG_Hallands_KVK<or>Hallands kuskontrollprogram<or>REG Hallands KVK, REG Hallands KVK<or>Hallands kustkontrollprogram<or>√ñvervakning av vegetationskl√§dda h√•rdbottnar l√§ngs hallandskusten, Hallands kustvattenkontroll 2010-2012<or>√ñvervakning av vegetationskl√§dda h√•rdbottnar l√§ngs hallandskusten, Hallands kustvattenkontroll 2010-2013<or>Halmstad tipplats	HAL	REG Hallands KVK	Coordinated recipient monitoring of Halland
 project	REG Halland Lilla Middelgrund	Lilla Middelgrund 2013	MID	REG Halland Lilla Middelgrund	Coordinated recipient monitoring of Halland Lilla Middelgrund
-project	REG Hallands l‰n	Inventering i Halland 2008<or>Halland kustinventering 2007<or>Undersˆkning av marin bottenfauna i 11 st vattenfˆrekomster l‰ngs Hallandskusten 2012<or>Undersˆkning av marin bottenfauna i naturreservatet Kungsbackafjorden<or>Inventering Halland augusti 2006<or>LAHOLMSBUKTEN<or>Undersˆkning av marin bottenfauna i naturreservatet Kungsbackafjorden 2012<or>Fladen 2013<or>Nidingen 2013<or>VENDELS÷ARKIPELAGEN<or>REG Halland V‰ndelsˆarna<or>REG Halland Vendelsˆarna<or>Norra Halland Utsjˆ<or>Inventering Halland augusti 2006<or>Lerkil<or>Ringhals k‰rnkraftverk	NLS	REG Hallands l‰n	Regional monitoring, The County Administration Board of Halland
-project	REG Hallsta RK	Recipientunderˆkning Hallsta Pappersbruk 2011<or>Recipientkontroll Hallsta Pappersbruk<or>Analystj‰nster Hallsta Pappersbruk 2021<or>Analystj‰nster Hallsta Pappersbruk 2022	HAR	REG Hallsta RK	Recipient monitoring of Hallsta
+project	REG Hallands l√§n	Inventering i Halland 2008<or>Halland kustinventering 2007<or>Unders√∂kning av marin bottenfauna i 11 st vattenf√∂rekomster l√§ngs Hallandskusten 2012<or>Unders√∂kning av marin bottenfauna i naturreservatet Kungsbackafjorden<or>Inventering Halland augusti 2006<or>LAHOLMSBUKTEN<or>Unders√∂kning av marin bottenfauna i naturreservatet Kungsbackafjorden 2012<or>Fladen 2013<or>Nidingen 2013<or>VENDELS√ñARKIPELAGEN<or>REG Halland V√§ndels√∂arna<or>REG Halland Vendels√∂arna<or>Norra Halland Utsj√∂<or>Inventering Halland augusti 2006<or>Lerkil<or>Ringhals k√§rnkraftverk	NLS	REG Hallands l√§n	Regional monitoring, The County Administration Board of Halland
+project	REG Hallsta RK	Recipientunder√∂kning Hallsta Pappersbruk 2011<or>Recipientkontroll Hallsta Pappersbruk<or>Analystj√§nster Hallsta Pappersbruk 2021<or>Analystj√§nster Hallsta Pappersbruk 2022	HAR	REG Hallsta RK	Recipient monitoring of Hallsta
 project	REG Hammarviken RK	ABU	ABU	REG Hammarviken RK	Recipient monitoring, Hammarviken
-project	REG Himmerfj‰rden	HIM	HIM	REG Himmerfj‰rden	Recipient monitoring of Himmerfj‰rden
+project	REG Himmerfj√§rden	HIM	HIM	REG Himmerfj√§rden	Recipient monitoring of Himmerfj√§rden
 project	REG Helsingborg KKP	Helsingborgs kustkontrollprogram - bottenfauna	HEL	REG Helsingborg KKP	Coordinated recipient monitoring of Helsingborg
-project	REG Holmˆreservatet	AC-L‰n<or>kontrollprogram Holmˆreservatet<or>ACLAN KONTPROG HOLM÷<or>REG_Holmˆ_reservatet<or>REG Holmˆ reservatet<or>Linjetaxering av akvatisk makrovegetation vid Holmˆarnas naturreservat 2010<or>Holmˆarna<or>Trendˆvervakning vid Holmˆarna i V‰sterbottens l‰n<or>Trendˆvervakning av fastsittande vegetation vid Holmˆarna 2012<or>Trendˆvervakning Holmˆarna 2008<or>Linjetaxering av akvatisk makrovegetation vid Holmˆarnas naturreservat 2009<or>REG Holmˆreservatet, 2004, 2007.<or>Trendˆvervakning vid Holmˆarna i V‰sterbottens l‰n, 2004, 2007.<or>Holmˆarna, V‰sterbottens l‰n, 2011 - Marin vegetationsinventering<or>Holmˆarna, V‰sterbottens l‰n, 2013 - Marin vegetationsinventering	HOL	REG Holmˆreservatet	Monitoring program for the Holmˆ Sanctuary
+project	REG Holm√∂reservatet	AC-L√§n<or>kontrollprogram Holm√∂reservatet<or>ACLAN KONTPROG HOLM√ñ<or>REG_Holm√∂_reservatet<or>REG Holm√∂ reservatet<or>Linjetaxering av akvatisk makrovegetation vid Holm√∂arnas naturreservat 2010<or>Holm√∂arna<or>Trend√∂vervakning vid Holm√∂arna i V√§sterbottens l√§n<or>Trend√∂vervakning av fastsittande vegetation vid Holm√∂arna 2012<or>Trend√∂vervakning Holm√∂arna 2008<or>Linjetaxering av akvatisk makrovegetation vid Holm√∂arnas naturreservat 2009<or>REG Holm√∂reservatet, 2004, 2007.<or>Trend√∂vervakning vid Holm√∂arna i V√§sterbottens l√§n, 2004, 2007.<or>Holm√∂arna, V√§sterbottens l√§n, 2011 - Marin vegetationsinventering<or>Holm√∂arna, V√§sterbottens l√§n, 2013 - Marin vegetationsinventering	HOL	REG Holm√∂reservatet	Monitoring program for the Holm√∂ Sanctuary
 project	REG Husum RK	HUSUM<or>RECIP. KONT. HUSUM<or>YHR<or>REG_Humus_RK<or>REG Humus RK	YHR	REG Husum RK	Recipient monitoring of Husum
-project	REG Hˆgan‰s kommun RK		HKRK	REG Hˆgan‰s kommun RK	Recipient monitoring Hˆgan‰s municipality 
-project	REG Hˆrnefors RK	KONT. PROG. H÷RNEFORS<or>ACH<or>REG_Hˆrnefors_RK	ACH	REG Hˆrnefors RK	Recipient monitoring of Hˆrnefors waste water plant
-project	REG V‰stra Hanˆbukten RK	Bottenfaunaundersˆkningar i V‰stra Hanˆbukten 2017-2022<or>SRK V‰stra Hanˆbukten 2017-2022	VHRK	REG V‰stra Hanˆbukten RK	Recipient monitoring of V‰stra Hanˆbukten
+project	REG H√∂gan√§s kommun RK		HKRK	REG H√∂gan√§s kommun RK	Recipient monitoring H√∂gan√§s municipality 
+project	REG H√∂rnefors RK	KONT. PROG. H√ñRNEFORS<or>ACH<or>REG_H√∂rnefors_RK	ACH	REG H√∂rnefors RK	Recipient monitoring of H√∂rnefors waste water plant
+project	REG V√§stra Han√∂bukten RK	Bottenfaunaunders√∂kningar i V√§stra Han√∂bukten 2017-2022<or>SRK V√§stra Han√∂bukten 2017-2022	VHRK	REG V√§stra Han√∂bukten RK	Recipient monitoring of V√§stra Han√∂bukten
 project	REG Iggesund RK	RECIP.KONT IGGESUND<or>REG_Iggesund_RK	IGG	REG Iggesund RK	Recipient monitoring of Iggesunds factory
-project	REG Kalmar KVK	REG. TREND÷V. MJUKB. KALMAR<or>KALMAR KUSTK. PROG.<or>KAL<or>REG_Kalmar_KVK<or>Samordnad kustvattenkontroll i Kalmar l‰n<or>Samordnad kustvattenkontroll i Kalmar l‰n, utˆkad provtagning 2010<or>Kalmar_l‰ns_kustvatten_SRK<or>Recipientkontroll i Kalmar l‰n<or>a_Samordnad kustvattenkontroll i Kalmar l‰n, mjukbottenkluster 2016-<or>SRK Kalmar l‰n, mjukbottenkluster 2016-	KAL	REG Kalmar KVK	Coordinated recipient monitoring of Kalmar
-project	REG Kalmar l‰n	a_Regional miljˆˆvervakning mjukbotten Kalmar l‰n, 2016- <or> Regional M÷ Kalmar l‰n, 2016-	HLS	REG Kalmar l‰n	Regional monitoring, The County Administration Board of Kalmar
+project	REG Kalmar KVK	REG. TREND√ñV. MJUKB. KALMAR<or>KALMAR KUSTK. PROG.<or>KAL<or>REG_Kalmar_KVK<or>Samordnad kustvattenkontroll i Kalmar l√§n<or>Samordnad kustvattenkontroll i Kalmar l√§n, ut√∂kad provtagning 2010<or>Kalmar_l√§ns_kustvatten_SRK<or>Recipientkontroll i Kalmar l√§n<or>a_Samordnad kustvattenkontroll i Kalmar l√§n, mjukbottenkluster 2016-<or>SRK Kalmar l√§n, mjukbottenkluster 2016-	KAL	REG Kalmar KVK	Coordinated recipient monitoring of Kalmar
+project	REG Kalmar l√§n	a_Regional milj√∂√∂vervakning mjukbotten Kalmar l√§n, 2016- <or> Regional M√ñ Kalmar l√§n, 2016-	HLS	REG Kalmar l√§n	Regional monitoring, The County Administration Board of Kalmar
 project	REG Kiviks Musteri RK		KMRK	REG Kiviks Musteri RK	Recipient monitoring Kiviks Musteri
-project	REG Kungsbackafjorden	Bottenfaunaundersˆkningar i Kungsbackafjorden<or>KUNGSBACKAFJ<or>UPPF÷LJ. KUNGSB. FJORD.<or>Bottenfaunaundersˆkningar i Kungsbackafjorden	KFJ	REG Kungsbackafjorden	Monitoring program for Kungsbackafjorden
-project	REG KÂge RK	KONT. PROG. K≈GE<or>ACK<or>REG_KÂge_RK	ACK	REG KÂge RK	Recipient monitoring of KÂge waste water plant
-project	REG L‰nsstyrelsernas s‰rskilda Âtg‰rdsprojekt	SAP	SAP	REG L‰nsstyrelsernas s‰rskilda Âtg‰rdsprojekt	The County boards special action project
-project	REG Motala strˆms SRK	RECIP. KONT. MOTALA<or>MOTALA STR. VATTENVF.<or>MSV<or>REG_Motala_strˆms_SRK<or>MSVVF	MSV	REG Motala strˆms SRK	Coordinated recipient monitoring of Motala strˆm
-project	REG M‰tkampanj		MAT	REG M‰tkampanj	Measurement campaign
-project	REG M‰tkampanj	M‰tkampanj 2009, G‰vleborgs l‰n, G‰vlebukten	MAT	REG M‰tkampanj	Measurement campaign
-project	REG M‰tkampanj	M‰tkampanj 2009, Uppsala l‰n, ÷sthammar	MAT	REG M‰tkampanj	Measurement campaign
-project	REG M‰tkampanj	M‰tkampanj Askerˆfjorden till Marstrandssk‰rgÂrden	MAT	REG M‰tkampanj	Measurement campaign
-project	REG M‰tkampanj	M‰tkampanj Gullmarsfjorden	MAT	REG M‰tkampanj	Measurement campaign
-project	REG M‰tkampanj	M‰tkampanj Karlskrona 2009	MAT	REG M‰tkampanj	Measurement campaign
-project	REG M‰tkampanj	M‰tkampanj makroalger i SkÂne 2009	MAT	REG M‰tkampanj	Measurement campaign
-project	REG M‰tkampanj	M‰tkampanj makrofyter 2009 i Hallands l‰n	MAT	REG M‰tkampanj	Measurement campaign
-project	REG M‰tkampanj	M‰tkampanj vegetationskl‰dda bottnar i ÷stergˆtland 2009	MAT	REG M‰tkampanj	Measurement campaign
-project	REG M‰tkampanj	M‰tkampanjen 2012 gradientstudier Orust-Tjˆrn Bottenfauna	MAT	REG M‰tkampanj	Measurement campaign
-project	REG M‰tkampanj	V‰stra_gˆtaland_pelagial_m‰tkampanj	MAT	REG M‰tkampanj	Measurement campaign
-project	REG M‰tkampanj	M‰tkampanjen 2012 gradientstudier ÷stergˆtland Bottenfauna	MAT	REG M‰tkampanj	Measurement campaign
-project	REG M‰tkampanj	NV m‰tkampanj i pelagialen	MAT	REG M‰tkampanj	Measurement campaign
-project	REG Nacka Lokal miljˆˆvervakning	ABK	ABK	REG Nacka Lokal miljˆˆvervakning	Regional monitoring Nacka
-project	REG Nedre Ângerman‰lven SRK	NEDR. ≈NGERMAN. SRK<or>≈NGERMANƒLVEN 2007<or>YNA<or>REG_Nedre_Ângerman‰lven_SRK	YNA	REG Nedre Ângerman‰lven SRK	Coordinated recipient monitoring of Nedre ≈ngerman‰lven
-project	REG Nordmalingsfj‰rden SRK	SRK NORDMALING<or>ACN<or>REG_Nordmalingsfj‰rden_SRK	ACN	REG Nordmalingsfj‰rden SRK	Coordinated recipient monitoring of Nordmalingsfj‰rden
-project	REG Nordv‰stskÂnes kustvattenkommittÈ SRK	SKƒL.-LAH. KUSTK.PROG.<or>SKL<or>REG_Nordv‰stskÂnes_kustvattenkommittÈ_SRK<or>Nordv‰stskÂnes kustvattenkommittÈ (NVSKK) 2000 och framÂt<or>Nordv‰stskÂnes kustvattenkommittÈ (NVSKK) t o m 1999	SKL	REG Nordv‰stskÂnes kustvattenkommittÈ SRK	Coordinated recipient monitoring of Nordv‰stra skÂne
-project	REG Nordˆstra H‰lsinglands kustvatten SRK	SRK N÷. HƒLS. VVF<or>RECIP.KONT HUDIK. G≈RDSFJ.<or>NHV<or>REG_Nordˆstra_H‰lsinglands_kustvatten_SRK<or>X-l‰n - NO H‰lsingland 2012 - Recipientkontroll kustvatten makrofyter	NHV	REG Nordˆstra H‰lsinglands kustvatten SRK	Coordinated recipient monitoring of NE H‰lsingland
-project	REG Norrbottens l‰n	SAM. SRK BD<or>Kompletterande program Norrbotten frÂn 2010<or>BDK<or>REG_Norrbottens_l‰n<or>BD-l‰n 2016<or>PROJ Vegetationsinventering Sandsk‰r och Seskar-Furˆ, Haparanda<or>PROJ Dykinventering i RÂneÂ och Haparanda	BDK	REG Norrbottens l‰n	Regional monitoring, The County Administration Board of Norrbotten
-project	REG Norrbottenskusten Kalix SRK	Samordnat recipientkontrollprogram fˆr Norrbottenskusten - Kalix<or>NKS	NKS	REG Norrbottenskusten Kalix SRK	Coordinated recipient monitoring of Norrbotten (Kalix)
-project	REG Norrbottenskusten LuleÂ SRK	M÷ Makrovegetation RÂneÂ sk‰rgÂrd<or>M÷ Makrovegetation RÂneÂ sk‰rgÂrd 2007<or>Recipientkontroll SSAB<or>NKL	NKL	REG Norrbottenskusten LuleÂ SRK	Coordinated recipient monitoring of Norrbotten (LuleÂ)
-project	REG Norrbottenskusten PiteÂ SRK	BOTTENF. PITE≈<or>Samordnat recipientkontrollprogram fˆr Norrbottenskusten - PiteÂ<or>NKP	NKP	REG Norrbottenskusten PiteÂ SRK	Coordinated recipient monitoring of Norrbotten (PiteÂ)
+project	REG Kungsbackafjorden	Bottenfaunaunders√∂kningar i Kungsbackafjorden<or>KUNGSBACKAFJ<or>UPPF√ñLJ. KUNGSB. FJORD.<or>Bottenfaunaunders√∂kningar i Kungsbackafjorden	KFJ	REG Kungsbackafjorden	Monitoring program for Kungsbackafjorden
+project	REG K√•ge RK	KONT. PROG. K√ÖGE<or>ACK<or>REG_K√•ge_RK	ACK	REG K√•ge RK	Recipient monitoring of K√•ge waste water plant
+project	REG L√§nsstyrelsernas s√§rskilda √•tg√§rdsprojekt	SAP	SAP	REG L√§nsstyrelsernas s√§rskilda √•tg√§rdsprojekt	The County boards special action project
+project	REG Motala str√∂ms SRK	RECIP. KONT. MOTALA<or>MOTALA STR. VATTENVF.<or>MSV<or>REG_Motala_str√∂ms_SRK<or>MSVVF	MSV	REG Motala str√∂ms SRK	Coordinated recipient monitoring of Motala str√∂m
+project	REG M√§tkampanj		MAT	REG M√§tkampanj	Measurement campaign
+project	REG M√§tkampanj	M√§tkampanj 2009, G√§vleborgs l√§n, G√§vlebukten	MAT	REG M√§tkampanj	Measurement campaign
+project	REG M√§tkampanj	M√§tkampanj 2009, Uppsala l√§n, √ñsthammar	MAT	REG M√§tkampanj	Measurement campaign
+project	REG M√§tkampanj	M√§tkampanj Asker√∂fjorden till Marstrandssk√§rg√•rden	MAT	REG M√§tkampanj	Measurement campaign
+project	REG M√§tkampanj	M√§tkampanj Gullmarsfjorden	MAT	REG M√§tkampanj	Measurement campaign
+project	REG M√§tkampanj	M√§tkampanj Karlskrona 2009	MAT	REG M√§tkampanj	Measurement campaign
+project	REG M√§tkampanj	M√§tkampanj makroalger i Sk√•ne 2009	MAT	REG M√§tkampanj	Measurement campaign
+project	REG M√§tkampanj	M√§tkampanj makrofyter 2009 i Hallands l√§n	MAT	REG M√§tkampanj	Measurement campaign
+project	REG M√§tkampanj	M√§tkampanj vegetationskl√§dda bottnar i √ñsterg√∂tland 2009	MAT	REG M√§tkampanj	Measurement campaign
+project	REG M√§tkampanj	M√§tkampanjen 2012 gradientstudier Orust-Tj√∂rn Bottenfauna	MAT	REG M√§tkampanj	Measurement campaign
+project	REG M√§tkampanj	V√§stra_g√∂taland_pelagial_m√§tkampanj	MAT	REG M√§tkampanj	Measurement campaign
+project	REG M√§tkampanj	M√§tkampanjen 2012 gradientstudier √ñsterg√∂tland Bottenfauna	MAT	REG M√§tkampanj	Measurement campaign
+project	REG M√§tkampanj	NV m√§tkampanj i pelagialen	MAT	REG M√§tkampanj	Measurement campaign
+project	REG Nacka Lokal milj√∂√∂vervakning	ABK	ABK	REG Nacka Lokal milj√∂√∂vervakning	Regional monitoring Nacka
+project	REG Nedre √•ngerman√§lven SRK	NEDR. √ÖNGERMAN. SRK<or>√ÖNGERMAN√ÑLVEN 2007<or>YNA<or>REG_Nedre_√•ngerman√§lven_SRK	YNA	REG Nedre √•ngerman√§lven SRK	Coordinated recipient monitoring of Nedre √Öngerman√§lven
+project	REG Nordmalingsfj√§rden SRK	SRK NORDMALING<or>ACN<or>REG_Nordmalingsfj√§rden_SRK	ACN	REG Nordmalingsfj√§rden SRK	Coordinated recipient monitoring of Nordmalingsfj√§rden
+project	REG Nordv√§stsk√•nes kustvattenkommitt√© SRK	SK√ÑL.-LAH. KUSTK.PROG.<or>SKL<or>REG_Nordv√§stsk√•nes_kustvattenkommitt√©_SRK<or>Nordv√§stsk√•nes kustvattenkommitt√© (NVSKK) 2000 och fram√•t<or>Nordv√§stsk√•nes kustvattenkommitt√© (NVSKK) t o m 1999	SKL	REG Nordv√§stsk√•nes kustvattenkommitt√© SRK	Coordinated recipient monitoring of Nordv√§stra sk√•ne
+project	REG Nord√∂stra H√§lsinglands kustvatten SRK	SRK N√ñ. H√ÑLS. VVF<or>RECIP.KONT HUDIK. G√ÖRDSFJ.<or>NHV<or>REG_Nord√∂stra_H√§lsinglands_kustvatten_SRK<or>X-l√§n - NO H√§lsingland 2012 - Recipientkontroll kustvatten makrofyter	NHV	REG Nord√∂stra H√§lsinglands kustvatten SRK	Coordinated recipient monitoring of NE H√§lsingland
+project	REG Norrbottens l√§n	SAM. SRK BD<or>Kompletterande program Norrbotten fr√•n 2010<or>BDK<or>REG_Norrbottens_l√§n<or>BD-l√§n 2016<or>PROJ Vegetationsinventering Sandsk√§r och Seskar-Fur√∂, Haparanda<or>PROJ Dykinventering i R√•ne√• och Haparanda	BDK	REG Norrbottens l√§n	Regional monitoring, The County Administration Board of Norrbotten
+project	REG Norrbottenskusten Kalix SRK	Samordnat recipientkontrollprogram f√∂r Norrbottenskusten - Kalix<or>NKS	NKS	REG Norrbottenskusten Kalix SRK	Coordinated recipient monitoring of Norrbotten (Kalix)
+project	REG Norrbottenskusten Lule√• SRK	M√ñ Makrovegetation R√•ne√• sk√§rg√•rd<or>M√ñ Makrovegetation R√•ne√• sk√§rg√•rd 2007<or>Recipientkontroll SSAB<or>NKL	NKL	REG Norrbottenskusten Lule√• SRK	Coordinated recipient monitoring of Norrbotten (Lule√•)
+project	REG Norrbottenskusten Pite√• SRK	BOTTENF. PITE√Ö<or>Samordnat recipientkontrollprogram f√∂r Norrbottenskusten - Pite√•<or>NKP	NKP	REG Norrbottenskusten Pite√• SRK	Coordinated recipient monitoring of Norrbotten (Pite√•)
 project	REG Norrsundetsbruk RK	Linjetaxering av akvatisk makrovegetation i recipienten till Norrsundets Bruk	NOB	REG Norrsundetsbruk RK	Recipient monitoring of Norrsundetsbruk
-project	REG Norrt‰ljes kommun RK	ABN<or>≈rlig recipientkontroll i Norrt‰lje kommun 2014<or>≈rlig recipientkontroll i Norrt‰lje kommun 2013<or>Norrt‰ljeviken som recipient Ât Lindhomlens ARV?<or>Recipientkontroll Norrt‰lje kommun<or>Recipientkontrollen i Norrt‰lje kommun 2022	ABN	REG Norrt‰ljes kommun RK	Recipient monitoring of the Municipality of Norrt‰lje
-project	REG Norviksfj‰rden RK	ABA	ABA	REG Norviksfj‰rden RK	Recipient monitoring, Norviksfj‰rden
-project	REG Nykˆpings fj‰rdar RK	DNF	DNF	REG Nykˆpings fj‰rdar RK	Recipient monitoring in the bays of Nykˆping
-project	REG Ospecificerat	RM÷_Kartering_referensomrÂden<or>RXX	RXX	REG Ospecificerat	Unspecified regional monitoring
-project	REG Ospecificerad RK	Lerkil utsl‰ppspunkt reningsverk<or>Inventering, uppfˆljning reningsverk	XRK	REG Ospecificerad RK	Unspecified recipient monitoring
-project	REG Oxelˆsund SRK	DOX	DOX	REG Oxelˆsund SRK	Coordinated recipient monitoring of Oxelˆsund
+project	REG Norrt√§ljes kommun RK	ABN<or>√Örlig recipientkontroll i Norrt√§lje kommun 2014<or>√Örlig recipientkontroll i Norrt√§lje kommun 2013<or>Norrt√§ljeviken som recipient √•t Lindhomlens ARV?<or>Recipientkontroll Norrt√§lje kommun<or>Recipientkontrollen i Norrt√§lje kommun 2022	ABN	REG Norrt√§ljes kommun RK	Recipient monitoring of the Municipality of Norrt√§lje
+project	REG Norviksfj√§rden RK	ABA	ABA	REG Norviksfj√§rden RK	Recipient monitoring, Norviksfj√§rden
+project	REG Nyk√∂pings fj√§rdar RK	DNF	DNF	REG Nyk√∂pings fj√§rdar RK	Recipient monitoring in the bays of Nyk√∂ping
+project	REG Ospecificerat	RM√ñ_Kartering_referensomr√•den<or>RXX	RXX	REG Ospecificerat	Unspecified regional monitoring
+project	REG Ospecificerad RK	Lerkil utsl√§ppspunkt reningsverk<or>Inventering, uppf√∂ljning reningsverk	XRK	REG Ospecificerad RK	Unspecified recipient monitoring
+project	REG Oxel√∂sund SRK	DOX	DOX	REG Oxel√∂sund SRK	Coordinated recipient monitoring of Oxel√∂sund
 project	REG Skatan RK	YSR<or>REG_Skatan_RK	YSR	REG Skatan RK	Recipient monitoring of Skatan
-project	REG Skellefte‰lven SRK	SRK SKELLEFT. ƒLV<or>ACS<or>URS<or>REG_Skellefte‰lven_SRK<or>Statusbedˆmning av Skelleftehamnsfj‰rden 2007	ACS	REG Skellefte‰lven SRK	Coordinated recipient monitoring of Skellefte‰lven
-project	REG SkÂne l‰n	Nord Helsingborg 2022	MLS	REG SkÂne l‰n	Regional monitoring, The County Administration Board of SkÂne
-project	REG Stockholm vatten SRK	Stockholm Vatten<or>STV<or>REG. ÷VERV. STOCKHOLM<or>REG_Stockholm_vatten_SRK	STV	REG Stockholm vatten SRK	Recipient monitoring of Stockholm
-project	REG Stockholms l‰n	Regional ˆvervakning Stockholms l‰n, 2007-<or>Regional ˆvervakning Stockholm l‰n, 2016-<or>Regional ˆvervakning Stockholms l‰n 2016-<or> Regional ˆvervakning Stockholms l‰n	ALS	REG Stockholms l‰n	Regional monitoring, The County Administration Board of Stockholm
+project	REG Skellefte√§lven SRK	SRK SKELLEFT. √ÑLV<or>ACS<or>URS<or>REG_Skellefte√§lven_SRK<or>Statusbed√∂mning av Skelleftehamnsfj√§rden 2007	ACS	REG Skellefte√§lven SRK	Coordinated recipient monitoring of Skellefte√§lven
+project	REG Sk√•ne l√§n	Nord Helsingborg 2022	MLS	REG Sk√•ne l√§n	Regional monitoring, The County Administration Board of Sk√•ne
+project	REG Stockholm vatten SRK	Stockholm Vatten<or>STV<or>REG. √ñVERV. STOCKHOLM<or>REG_Stockholm_vatten_SRK	STV	REG Stockholm vatten SRK	Recipient monitoring of Stockholm
+project	REG Stockholms l√§n	Regional √∂vervakning Stockholms l√§n, 2007-<or>Regional √∂vervakning Stockholm l√§n, 2016-<or>Regional √∂vervakning Stockholms l√§n 2016-<or> Regional √∂vervakning Stockholms l√§n	ALS	REG Stockholms l√§n	Regional monitoring, The County Administration Board of Stockholm
 project	REG Sundsvallsbuktens SRK	SRK SUNDSVALLSB. VVF<or>YSB<or>REG_Sundsvallsbuktens_SRK	YSB	REG Sundsvallsbuktens SRK	Coordinated recipient monitoring of Sundsvallsbukten
 project	REG Svealands KKP synoptiska karteringar	SKVVF.SYNOPT<or>SVF<or>REG_Svealands_KKP_synoptiska_karteringar	SVF	REG Svealands KKP synoptiska karteringar	Coordinated recipient monitoring of Svealand
 project	REG Sydkustens SRK	SYDK. KUSTK.PROG.<or>SYD<or>REG_Sydkustens_SRK<or>Kontrollprogram Sydkusten	SYD	REG Sydkustens SRK	Coordinated recipient monitoring of Sydkusten
-project	REG Sˆdermanlands l‰n	Regional ˆvervakning Sˆdermanland 2016-<or>Regional ˆvervakning Sˆdermanland	DLS	REG Sˆdermanlands l‰n	Regional monitoring, The County Administration Board of Sˆdermanland
-project	REG Sˆdra H‰lsinglands kustvatten SRK	LJUSNAN-VOXNAN<or>SRK LJUSN.-VOX. VVF.<or>RECIP.KONT LJUSNEFJƒRDEN<or>RECIP.KONT S÷DERHFJ.<or>LVX<or>REG_Sˆdra_H‰lsinglands_kustvatten_SRK<or>X-l‰n - Sˆdra H‰lsingland 2012- Recipientkontroll Kustvatten Makrofyter. <or>X-l‰n - Sˆdra H‰lsingland - Recipientkontroll Kustvatten Makrofyter.<or>Ljusnan Voxnan	LVX	REG Sˆdra H‰lsinglands kustvatten SRK	Coordinated recipient monitoring of S H‰lsingland
-project	REG Sˆlvesborgs hamn deponering RK	Sˆlvesborg_ytterhamn_deponeringsplats_SWSˆderholmen_RK<or>Sˆlvesborgs ytterhamn och deponeringsplatsen SW Sˆderholmen, recipientkontroll.	SOH	REG Sˆlvesborgs hamn deponering RK	Recipient monitoring of Sˆlvesborgs port
-project	REG Torne- och Kalix ‰lvars vattenvÂrdsfˆrbund SRK	TKV<or>REG_Torne_Kalix‰lvens_SRK	TKV	REG Torne- och Kalix ‰lvars vattenvÂrdsfˆrbund SRK	Coordinated recipient monitoring of Torne- och Kalix ‰lvar
-project	REG T‰by kommun RK	ABT<or>Sjˆundersˆkningar i T‰by kommun  2013<or>Sjˆundersˆkningar i T‰by kommun  2014<or>Vattenundersˆkningar i T‰by<or>Provtagning av vatten i Ullnasjˆns och UllnaÂns avrinningsomrÂden 2022	ABT	REG T‰by kommun RK	Recipient monitoring of the Municipality of T‰by
-project	REG T‰fteÂ RK	KONT. PROG. TƒFTE≈<or>ACT<or>REG_T‰fteÂ_RK	ACT	REG T‰fteÂ RK	Recipient monitoring of T‰fteÂ waste water plant
-project	REG Ume och Vindel‰lvens SRK	UME. VINDELƒLVEN<or>SRK.UME.VIND<or>ACU<or>REG_Ume_och_Vindel‰lvens_SRK	ACU	REG Ume och Vindel‰lvens SRK	Coordinated recipient monitoring of Ume- and Vindel‰lven
-project	REG Uppsala l‰n	REG Uppsala l‰n - Gr‰sˆ	CLS	REG Uppsala l‰n	Regional monitoring, The County Administration Board of Uppsala
+project	REG S√∂dermanlands l√§n	Regional √∂vervakning S√∂dermanland 2016-<or>Regional √∂vervakning S√∂dermanland	DLS	REG S√∂dermanlands l√§n	Regional monitoring, The County Administration Board of S√∂dermanland
+project	REG S√∂dra H√§lsinglands kustvatten SRK	LJUSNAN-VOXNAN<or>SRK LJUSN.-VOX. VVF.<or>RECIP.KONT LJUSNEFJ√ÑRDEN<or>RECIP.KONT S√ñDERHFJ.<or>LVX<or>REG_S√∂dra_H√§lsinglands_kustvatten_SRK<or>X-l√§n - S√∂dra H√§lsingland 2012- Recipientkontroll Kustvatten Makrofyter. <or>X-l√§n - S√∂dra H√§lsingland - Recipientkontroll Kustvatten Makrofyter.<or>Ljusnan Voxnan	LVX	REG S√∂dra H√§lsinglands kustvatten SRK	Coordinated recipient monitoring of S H√§lsingland
+project	REG S√∂lvesborgs hamn deponering RK	S√∂lvesborg_ytterhamn_deponeringsplats_SWS√∂derholmen_RK<or>S√∂lvesborgs ytterhamn och deponeringsplatsen SW S√∂derholmen, recipientkontroll.	SOH	REG S√∂lvesborgs hamn deponering RK	Recipient monitoring of S√∂lvesborgs port
+project	REG Torne- och Kalix √§lvars vattenv√•rdsf√∂rbund SRK	TKV<or>REG_Torne_Kalix√§lvens_SRK	TKV	REG Torne- och Kalix √§lvars vattenv√•rdsf√∂rbund SRK	Coordinated recipient monitoring of Torne- och Kalix √§lvar
+project	REG T√§by kommun RK	ABT<or>Sj√∂unders√∂kningar i T√§by kommun  2013<or>Sj√∂unders√∂kningar i T√§by kommun  2014<or>Vattenunders√∂kningar i T√§by<or>Provtagning av vatten i Ullnasj√∂ns och Ullna√•ns avrinningsomr√•den 2022	ABT	REG T√§by kommun RK	Recipient monitoring of the Municipality of T√§by
+project	REG T√§fte√• RK	KONT. PROG. T√ÑFTE√Ö<or>ACT<or>REG_T√§fte√•_RK	ACT	REG T√§fte√• RK	Recipient monitoring of T√§fte√• waste water plant
+project	REG Ume och Vindel√§lvens SRK	UME. VINDEL√ÑLVEN<or>SRK.UME.VIND<or>ACU<or>REG_Ume_och_Vindel√§lvens_SRK	ACU	REG Ume och Vindel√§lvens SRK	Coordinated recipient monitoring of Ume- and Vindel√§lven
+project	REG Uppsala l√§n	REG Uppsala l√§n - Gr√§s√∂	CLS	REG Uppsala l√§n	Regional monitoring, The County Administration Board of Uppsala
 project	REG Vindkraft Lillgrund RK	Kontrollprogram vindkraft Lillgrund	VLI	REG Vindkraft Lillgrund RK	Recipient monitoring of windpower Lillgrund
-project	REG V‰rˆbruk RK	REG_V‰rˆbruk_RK	VAB	REG V‰rˆbruk RK	Recipient monitoring of V‰rˆbruk
-project	REG V‰sternorrlands l‰n	UT÷K. ÷VERV. SUNDSVALL-HƒRN÷SAND<or>REG. ÷VERV. VƒSTERNORRLAND<or>YRM<or>REG_V‰sternorrlands_l‰n<or>Y-l‰n - Marin dykinventering 2016, Byviken, H‰rnˆsand<or>Y-l‰n - Marin dykinventering 2016, Lerviken, H‰rnˆsand	YRM	REG V‰sternorrlands l‰n	Regional monitoring, County Administration Board of V‰sternorrland
-project	REG V‰stra Gˆtalands l‰n	VGL	VGL	REG V‰stra Gˆtalands l‰n	Regional monitoring, County Administration Board of V‰stra Gˆtaland
-project	REG V‰stra Hanˆbukten SRK	HAN÷. KUSTVATTENMILJ÷ 2011<or>HAN÷B.<or>HAN÷B. 2011<or>REG. ÷V. HAN÷BUKTEN<or>HNO<or>Regional ˆvervakning i Hanˆbukten<or>REG_V‰stra_Hanˆbukten_SRK<or>V‰stra_Hanˆbukten_SRKbottnar.<or>V‰stra_Hanˆbuktens_vattenvÂrdsfˆrbund_SRK<or>Hanˆbukten_SRK<or>Regional ˆvervakning i Hanˆbukten frÂn 2011<or>VattenvÂrdsfˆrbundet fˆr v‰stra Hanˆbukten, recipientkontroll<or>V‰stra_Hanˆbukten_SRK<or>Regional ˆvervakning i Hanˆbukten frÂn 2016<or>Hanˆbukten_2012, 2014 och 2016 - Regional miljˆˆvervakning av vegetationskl‰dda bottnar.<or>Hanˆ 2011 - Regional miljˆˆvervakning av vegetationskl‰dda bottnar.<or>Hanˆbukten 2012 - Regional miljˆˆvervakning av vegetationskl‰dda bottnar.<or>Hanˆbukten 2013 - Regional miljˆˆvervakning av vegetationskl‰dda<or>Recipientkontroll i Hanˆbukten<or>Hanˆbukten 2013 - Regional miljˆˆvervakning av vegetationskl‰dda bottnar.<or>a_Recipientkontroll i Hanˆbukten<or>VHVVF<or>Regional M÷ V‰stra Hanˆbukten<or>SRK V‰stra Hanˆbukten 1989-2010	HNO	REG V‰stra Hanˆbukten SRK	Coordinated recipient monitoring of V‰stra Hanˆbukten
-project	REG ÷resunds vattenvÂrdsfˆrbund SRK	÷RES. KUSTK.PROG.<or>ORE<or>REG_÷resunds_vattenvÂrdsfˆrbund_SRK<or>Sydl‰nens Kustundersˆkningar<or>Sydl‰nens_Kustundersˆkningar<or>Kontrollprogram ÷resund<or>Kontrollprogram ÷resundsbron<or>÷resunds vattenvÂrdsfˆrbund 2003 och framÂt<or> ÷resunds VattenvÂrdsfˆrbund 2016 och framÂt<or>÷resunds vattenvÂrdsfˆrbund 2003-2015<or>÷resunds VattenvÂrdsfˆrbund 2021 och framÂt<or>÷resunda VattenvÂrdsfˆrbund	ORE	REG ÷resunds vattenvÂrdsfˆrbund SRK	Coordinated recipient monitoring of ÷resund
-project	REG ÷rnskˆldsvik SRK		YOS	REG ÷rnskˆldsvik SRK	Coordinated recipient monitoring of ÷rnskˆldsvik
-project	REG ÷stergˆtlands l‰n	Marin miljˆˆvervakning av vegetationskl‰dda bottnar i ÷stergˆtlands sk‰rgÂrd<or>REG_÷stergˆtlands_l‰n<or>÷stergˆtland 2012 - Marin miljˆˆvervakning av vegetationskl‰dda bottnar.<or>E-l‰n 2011 - Regional miljˆˆvervakning av vegetationskl‰dda bottnar.<or>÷stergˆtland 2010 - Marin miljˆˆvervakning av vegetationskl‰dda bottnar<or>÷stergˆtland 2009 - Marin miljˆˆvervakning av vegetationskl‰dda bottnar.<or>÷stergˆtland 2010 - Marin miljˆˆvervakning av vegetationskl‰dda bottnar.<or>Regional ˆvervakning ÷stergˆtlands l‰n, 2007-<or>Regional ˆvervakning ÷stergˆtlands l‰n<or>÷stergˆtland, regional undersˆkning	ELS	REG ÷stergˆtlands l‰n	Regional monitoring, County Administration Board of ÷sterˆtland
-project	REG ÷sthammars kommun RK	÷STHFJ. KUSTK. PROG.<or>OFJ<or>REG_÷sthammars_kommun_RK	OFJ	REG ÷sthammars kommun RK	Recipient monitoring of ÷sthammar Municipality
+project	REG V√§r√∂bruk RK	REG_V√§r√∂bruk_RK	VAB	REG V√§r√∂bruk RK	Recipient monitoring of V√§r√∂bruk
+project	REG V√§sternorrlands l√§n	UT√ñK. √ñVERV. SUNDSVALL-H√ÑRN√ñSAND<or>REG. √ñVERV. V√ÑSTERNORRLAND<or>YRM<or>REG_V√§sternorrlands_l√§n<or>Y-l√§n - Marin dykinventering 2016, Byviken, H√§rn√∂sand<or>Y-l√§n - Marin dykinventering 2016, Lerviken, H√§rn√∂sand	YRM	REG V√§sternorrlands l√§n	Regional monitoring, County Administration Board of V√§sternorrland
+project	REG V√§stra G√∂talands l√§n	VGL	VGL	REG V√§stra G√∂talands l√§n	Regional monitoring, County Administration Board of V√§stra G√∂taland
+project	REG V√§stra Han√∂bukten SRK	HAN√ñ. KUSTVATTENMILJ√ñ 2011<or>HAN√ñB.<or>HAN√ñB. 2011<or>REG. √ñV. HAN√ñBUKTEN<or>HNO<or>Regional √∂vervakning i Han√∂bukten<or>REG_V√§stra_Han√∂bukten_SRK<or>V√§stra_Han√∂bukten_SRKbottnar.<or>V√§stra_Han√∂buktens_vattenv√•rdsf√∂rbund_SRK<or>Han√∂bukten_SRK<or>Regional √∂vervakning i Han√∂bukten fr√•n 2011<or>Vattenv√•rdsf√∂rbundet f√∂r v√§stra Han√∂bukten, recipientkontroll<or>V√§stra_Han√∂bukten_SRK<or>Regional √∂vervakning i Han√∂bukten fr√•n 2016<or>Han√∂bukten_2012, 2014 och 2016 - Regional milj√∂√∂vervakning av vegetationskl√§dda bottnar.<or>Han√∂ 2011 - Regional milj√∂√∂vervakning av vegetationskl√§dda bottnar.<or>Han√∂bukten 2012 - Regional milj√∂√∂vervakning av vegetationskl√§dda bottnar.<or>Han√∂bukten 2013 - Regional milj√∂√∂vervakning av vegetationskl√§dda<or>Recipientkontroll i Han√∂bukten<or>Han√∂bukten 2013 - Regional milj√∂√∂vervakning av vegetationskl√§dda bottnar.<or>a_Recipientkontroll i Han√∂bukten<or>VHVVF<or>Regional M√ñ V√§stra Han√∂bukten<or>SRK V√§stra Han√∂bukten 1989-2010	HNO	REG V√§stra Han√∂bukten SRK	Coordinated recipient monitoring of V√§stra Han√∂bukten
+project	REG √ñresunds vattenv√•rdsf√∂rbund SRK	√ñRES. KUSTK.PROG.<or>ORE<or>REG_√ñresunds_vattenv√•rdsf√∂rbund_SRK<or>Sydl√§nens Kustunders√∂kningar<or>Sydl√§nens_Kustunders√∂kningar<or>Kontrollprogram √ñresund<or>Kontrollprogram √ñresundsbron<or>√ñresunds vattenv√•rdsf√∂rbund 2003 och fram√•t<or> √ñresunds Vattenv√•rdsf√∂rbund 2016 och fram√•t<or>√ñresunds vattenv√•rdsf√∂rbund 2003-2015<or>√ñresunds Vattenv√•rdsf√∂rbund 2021 och fram√•t<or>√ñresunda Vattenv√•rdsf√∂rbund	ORE	REG √ñresunds vattenv√•rdsf√∂rbund SRK	Coordinated recipient monitoring of √ñresund
+project	REG √ñrnsk√∂ldsvik SRK		YOS	REG √ñrnsk√∂ldsvik SRK	Coordinated recipient monitoring of √ñrnsk√∂ldsvik
+project	REG √ñsterg√∂tlands l√§n	Marin milj√∂√∂vervakning av vegetationskl√§dda bottnar i √ñsterg√∂tlands sk√§rg√•rd<or>REG_√ñsterg√∂tlands_l√§n<or>√ñsterg√∂tland 2012 - Marin milj√∂√∂vervakning av vegetationskl√§dda bottnar.<or>E-l√§n 2011 - Regional milj√∂√∂vervakning av vegetationskl√§dda bottnar.<or>√ñsterg√∂tland 2010 - Marin milj√∂√∂vervakning av vegetationskl√§dda bottnar<or>√ñsterg√∂tland 2009 - Marin milj√∂√∂vervakning av vegetationskl√§dda bottnar.<or>√ñsterg√∂tland 2010 - Marin milj√∂√∂vervakning av vegetationskl√§dda bottnar.<or>Regional √∂vervakning √ñsterg√∂tlands l√§n, 2007-<or>Regional √∂vervakning √ñsterg√∂tlands l√§n<or>√ñsterg√∂tland, regional unders√∂kning	ELS	REG √ñsterg√∂tlands l√§n	Regional monitoring, County Administration Board of √ñster√∂tland
+project	REG √ñsthammars kommun RK	√ñSTHFJ. KUSTK. PROG.<or>OFJ<or>REG_√ñsthammars_kommun_RK	OFJ	REG √ñsthammars kommun RK	Recipient monitoring of √ñsthammar Municipality
 project	REG Holmen	ABH	ABH	REG Holmen	Recipient monitoring of Holmen
-project	REG Marum och ÷sbyfj‰rden	ABM	ABM	REG Marum och ÷sbyfj‰rden	Recipient monitoring of Marum and ÷sbyfj‰rden
-project	REG Fiskodling Omne UllÂnger N‰trafj‰rden RK		OUN	REG Fiskodling Omne UllÂnger N‰trafj‰rden RK	
-project	REG ÷sterÂkers kommun	ABO	ABO	REG ÷sterÂkers kommun	Regional monitoring of the Municipality of ÷sterÂker
-project	REG V‰rmdˆ kommun		VAM	REG V‰rmdˆ kommun	Regional monitoring of the Municipality of V‰rmdˆ
-project	REG Norrt‰lje kommun		KON	REG Norrt‰lje kommun	Regional monitoring Norrt‰lje municipality
+project	REG Marum och √ñsbyfj√§rden	ABM	ABM	REG Marum och √ñsbyfj√§rden	Recipient monitoring of Marum and √ñsbyfj√§rden
+project	REG Fiskodling Omne Ull√•nger N√§trafj√§rden RK		OUN	REG Fiskodling Omne Ull√•nger N√§trafj√§rden RK	
+project	REG √ñster√•kers kommun	ABO	ABO	REG √ñster√•kers kommun	Regional monitoring of the Municipality of √ñster√•ker
+project	REG V√§rmd√∂ kommun		VAM	REG V√§rmd√∂ kommun	Regional monitoring of the Municipality of V√§rmd√∂
+project	REG Norrt√§lje kommun		KON	REG Norrt√§lje kommun	Regional monitoring Norrt√§lje municipality
