@@ -5,7 +5,7 @@ delivery_datatype	Epibenthos		PB	Vegetationsklädda bottnar	Epibenthos
 delivery_datatype	GreySeal		GSEAL	Gråsäl	Grey seal
 delivery_datatype	HarbourSeal		HSEAL	Knubbsäl	Harbour seal
 delivery_datatype	PhysicalChemical		PHYCHE	Fysikalisk och kemisk data	Physical and chemical
-delivery_datatype	Phytoplankton		PP	Växtplankton	Phytoplankton
+delivery_datatype	Phytoplankton	IFCB	PP	Växtplankton	Phytoplankton
 delivery_datatype	PrimaryProduction		PRIMPROD	Primärproduktion	Primary production
 delivery_datatype	Profile		PROFILE	Profil	Profile
 delivery_datatype	RingedSeal		RSEAL	Vikaresäl	Ringed seal
