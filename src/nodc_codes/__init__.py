@@ -49,10 +49,11 @@ else:
                 break
 
 
-def get_config_path(name: str = None) -> pathlib.Path:
+def get_config_path(name: str | None = None) -> pathlib.Path:
     if not CONFIG_DIRECTORY:
         raise NotADirectoryError(
-            f"Config directory not found. Environment path {CONFIG_ENV} does not seem to be set and not other config directory was found. "
+            f"Config directory not found. Environment path {CONFIG_ENV} "
+            f"does not seem to be set and not other config directory was found. "
         )
     if name not in CONFIG_FILE_NAMES:
         raise FileNotFoundError(f'No config file with name "{name}" exists')
