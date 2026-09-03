@@ -48,6 +48,12 @@ class TranslateCodes:
                 pl.col("english_name").cast(pl.List(pl.Utf8))
             )
         )
+        self._data = self._data.with_columns(
+            pl.col("synonyms").list.concat(
+                pl.col("synonyms").list.eval(
+                    pl.element().str.to_lowercase().replace(" ", ""))
+            )
+        )
 
     def get_internal_value_list(self, internal_key: str) -> list[str]:
         return self._data.filter(pl.col("internal_value") == internal_key)[
@@ -73,6 +79,16 @@ class TranslateCodes:
                 ].to_list()
             )
         )
+
+    def get_swedish_name(
+            self, internal_key: str = None, synonym: str = None
+    ) -> str | None:
+        return self.get_info(internal_key, synonym).get("swedish_name")
+
+    def get_english_name(
+            self, internal_key: str = None, synonym: str = None
+    ) -> str | None:
+        return self.get_info(internal_key, synonym).get("english_name")
 
 
 class TranslateCodesOld:
