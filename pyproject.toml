@@ -1,6 +1,6 @@
 [project]
 name = "nodc-codes"
-version = "2.0.0b"
+version = "3.0.0"
 description = "Python package to handle code translations in Swedish NODC"
 readme = "README.md"
 authors = [
@@ -8,7 +8,10 @@ authors = [
     {name = "Jonatan Skogsfors", email = "jonatan.skogsfors@smhi.se"},
 ]
 requires-python = ">=3.11"
-dependencies = []
+dependencies = [
+    "nodc-config",
+    "polars>=1.31.0",
+]
 
 [project.scripts]
 nodc-codes = "nodc_codes:main"
@@ -38,3 +41,6 @@ select = [
 ]
 
 per-file-ignores."__init__.py" = ["F401"]
+
+[tool.uv.sources]
+nodc-config = { git = "https://github.com/nodc-sweden/nodc-config.git", rev = "v0.1.0" }
