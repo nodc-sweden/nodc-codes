@@ -1,5 +1,6 @@
 import logging
 import pathlib
+
 import polars as pl
 
 logger = logging.getLogger(__name__)
@@ -38,14 +39,17 @@ class TranslateCodes:
         )
 
         self._data = self._data.with_columns(
-            pl.col("synonyms").list.concat(
-                pl.col("swedish_name").cast(pl.List(pl.Utf8))
-            )
+            pl.col("synonyms").list.concat(pl.col("swedish_name").cast(pl.List(pl.Utf8)))
         )
 
         self._data = self._data.with_columns(
+            pl.col("synonyms").list.concat(pl.col("english_name").cast(pl.List(pl.Utf8)))
+        )
+        self._data = self._data.with_columns(
             pl.col("synonyms").list.concat(
-                pl.col("english_name").cast(pl.List(pl.Utf8))
+                pl.col("synonyms").list.eval(
+                    pl.element().str.to_lowercase().replace(" ", "")
+                )
             )
         )
 
@@ -54,7 +58,9 @@ class TranslateCodes:
             "internal_value"
         ].to_list()
 
-    def get_info(self, internal_key: str = None, synonym: str = None) -> dict | None:
+    def get_info(
+        self, internal_key: str | None = None, synonym: str | None = None
+    ) -> dict | None:
         res = self._data.filter(
             pl.col("internal_key") == internal_key,
             pl.col("synonyms").list.contains(synonym),
@@ -73,6 +79,16 @@ class TranslateCodes:
                 ].to_list()
             )
         )
+
+    def get_swedish_name(
+        self, internal_key: str | None = None, synonym: str | None = None
+    ) -> str | None:
+        return self.get_info(internal_key, synonym).get("swedish_name")
+
+    def get_english_name(
+        self, internal_key: str | None = None, synonym: str | None = None
+    ) -> str | None:
+        return self.get_info(internal_key, synonym).get("english_name")
 
 
 class TranslateCodesOld:
@@ -173,13 +189,15 @@ class TranslateCodesOld:
         return sorted(self._data[self._convert_internal_key(internal_key)])
 
     def get_internal_value(
-        self, internal_key: str = None, synonym: str = None
+        self, internal_key: str | None = None, synonym: str | None = None
     ) -> str | None:
         return self._synonyms.get(self._convert_internal_key(internal_key), {}).get(
             self._convert_synonym(synonym), None
         )
 
-    def get_info(self, internal_key: str = None, synonym: str = None) -> dict | None:
+    def get_info(
+        self, internal_key: str | None = None, synonym: str | None = None
+    ) -> dict | None:
         internal_value = self.get_internal_value(internal_key, synonym)
         if not internal_value:
             return None
@@ -189,10 +207,10 @@ class TranslateCodesOld:
 
     def get_translation(
         self,
-        internal_key: str = None,
-        synonym: str = None,
-        translate_to: str = None,
-        field: str = None,
+        internal_key: str | None = None,
+        synonym: str | None = None,
+        translate_to: str | None = None,
+        field: str | None = None,
     ) -> str | None:
         if field:
             internal_key = field
@@ -205,7 +223,8 @@ class TranslateCodesOld:
         internal_value = self.get_internal_value(internal_key, synonym)
         if not internal_value:
             logger.warning(
-                f'Could not find internal_value matching "{synonym}" in internal_key "{internal_key}"'
+                f'Could not find internal_value matching "{synonym}" '
+                f'in internal_key "{internal_key}"'
             )
             return None
         return self._data[self._convert_internal_key(internal_key)][
@@ -218,7 +237,7 @@ class TranslateCodesOld:
         return self._data[internal_key][internal_value]["synonyms"]
 
     def get_swedish_name(
-        self, internal_key: str = None, synonym: str = None
+        self, internal_key: str | None = None, synonym: str | None = None
     ) -> str | None:
         return self.get_translation(
             internal_key=internal_key, synonym=synonym, translate_to="swedish_name"

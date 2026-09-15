@@ -1,24 +1,46 @@
 [project]
 name = "nodc-codes"
-version = "2.0.0b"
+version = "3.0.0"
 description = "Python package to handle code translations in Swedish NODC"
+readme = "README.md"
 authors = [
     {name = "Magnus Wenzer", email = "magnus.wenzer@smhi.se"},
     {name = "Jonatan Skogsfors", email = "jonatan.skogsfors@smhi.se"},
 ]
 requires-python = ">=3.11"
 dependencies = [
-    "polars>=1.26.0",
+    "nodc-config",
+    "polars>=1.31.0",
 ]
 
 [project.scripts]
-nodc-codes = "nodc-codes:main"
+nodc-codes = "nodc_codes:main"
 
 [build-system]
-requires = ["uv_build>=0.9.10,<0.10.0"]
+requires = ["uv_build>=0.9.27,<0.10.0"]
 build-backend = "uv_build"
 
 [dependency-groups]
 dev = [
-    "ruff>=0.14.6",
+    "ruff>=0.16.5",
 ]
+
+[tool.ruff]
+line-length = 90
+indent-width = 4
+target-version = "py311"
+
+[tool.ruff.lint]
+select = [
+    "A",  # flake8-builtins
+    "F",  # pyflakes
+    "E", # pycodestyle: error
+    "W",  # pycodestyle: warning
+    "I",  # isort: unsorted-imports
+    "RUF"  # Ruff-specific rules
+]
+
+per-file-ignores."__init__.py" = ["F401"]
+
+[tool.uv.sources]
+nodc-config = { git = "https://github.com/nodc-sweden/nodc-config.git", rev = "v0.1.0" }
